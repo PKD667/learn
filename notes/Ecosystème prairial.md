@@ -78,7 +78,7 @@ Le tégument des mammifère est un *épiderme pluristratifié*, il se compose ai
 
 ##### Tégument des insectes
 
-Le tégument des insectes est un **exosquellete** 
+Le tégument des insectes est un **exosquelete** 
 
 
 
