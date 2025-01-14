@@ -78,9 +78,11 @@ Le tégument des mammifère est un *épiderme pluristratifié*, il se compose ai
 
 ##### Tégument des insectes
 
-Le tégument des insectes est un **exosquelete** 
+Le tégument des insectes est un **exosquelette**. Il est aussi pluristratifié, et protégé par des couches externe qui composent la **cuticule** appelées *endocuticule*, *exocuticule* et *epicuticule*. 
 
+Le tégument des insectes est aussi imperméabilisé par un processus de sécrétion de *cire imperméable* par des glandes.
 
+De plus, il aussi à une fonction de respiration à travers des trachées.
 
 #### La vache
 
@@ -265,6 +267,8 @@ Ainsi, les espèce en bas de l'échelle trophique contrôlent les effectifs des 
 
 De plus, les espèces en haut de l'échelle tropique contrôlent les effectifs des espèces en dessous (*leur proies*)
 
+![[relations-trophiques.png]]
+
 Ces mécanismes garantissent un **équilibre dynamique** semblable aux équilibre chimiques.
 
 Le rôle d'une espèce dans un écosystème est défini par ses rapports aux autres espèces.
@@ -291,9 +295,9 @@ Les plus grands ingénieurs des écosystèmes sont les lombrics.
 
 En absorbant et rejetant de la terre, les lombrics ont une forte influence sur la structure et la composition des des sols. Ils permettent un enfouissement de la matière organisme, l'aération des sols et influences le **microbiote des sols** 
 
-La vache elle est une espèce clé de voûte : elle à une grande influence sur la composition des sols et la répartition des espèces végétales. Ainsi, elle permet de maintenir la prairie en empêchant la formation de forêt. Les espèces **clé de voûte** sont les espèces qui maintiennent un écosystème. Si une espèce clé de voûte disparaît l'écosystème est un péril.
+La vache elle est une espèce **clé de voûte** : elle à une grande influence sur la composition des sols et la répartition des espèces végétales. Ainsi, elle permet de maintenir la prairie en empêchant la formation de forêt. Les espèces **clé de voûte** sont les espèces qui maintiennent un écosystème. Si une espèce clé de voûte disparaît l'écosystème est un péril.
 
-Toutes les espèces ingénieurs ne sont pas des espèces clé de voûte, mais toutes les espèces clé de voûte sont des espèces ingénieur.
+Toutes les espèces ingénieurs ne sont pas des espèces **clé de voûte**, mais toutes les espèces clé de voûte sont des espèces ingénieur.
 
 
 

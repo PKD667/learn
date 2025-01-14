@@ -1,0 +1,1 @@
+En [chimie](physique-chimie) l'électronégativité est une grandeur physique qui caractérise un un élément par sa capacité à attirer le *doublet d'électrons* dans une [[liaison covalente]].

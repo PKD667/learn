@@ -25,13 +25,7 @@ Si la constante d'équilibre est *très grande* ($K^0 > 10^{-3}$), il s'agit d'u
 
 # Réactions acido-basiques
 
-Un **acide** est une espèce chimique (*molécule ou ion*) capable de céder un proton ($H^+$). Un **acide** qui peut céder plusieurs protons est un **polyacide**.
-
-Une **base** est une espèce chimique (*molécule ou ion*) qui peut capter un proton ($H^+$). Une base qui peut capter plusieurs proton est une **polybase**.
-
-Ainsi, tout acide $AH$ est *conjugué* à une base $A^-$ selon l'équilibre 
-$$ AH = A^- + H^+$$
-
+Ces réactions mettent en jeu des couples [[acido-basique]].
 #### Couples de l'eau
 
 La molécule d'eau peut jouer à la fois le rôle de *base* et d'*acide* (**espèce amphotère** ou un **ampholyte**).
@@ -51,19 +45,19 @@ La réaction $H_2O + H^+ \rightarrow H_3O^+$ est donc une réaction quantitative
 
 ### Réactions
 
-Une **réaction acido-basique** mets en jeu deux couple **acide-base** qui s'échangent des protons. On à un couple dont l'acide ($A_1H$) va réagir avec la base ($A_2^-$) de l'autre couple et se transformer en base ($A_1^-$.
+Une *réaction* [[acido-basique]] mets en jeu deux couple **acide-base** qui s'échangent des protons. On à un couple dont l'acide ($A_1H$) va réagir avec la base ($A_2^-$) de l'autre couple et se transformer en base ($A_1^-$.
 $$ A_1H + A_2^- = A_1^- + A_2H$$
-La **constante d'acidité** d'un couple *acido-basique* notée $K^0_A$ est la constante thermodynamique de l'équilibre entre l'acide $AH$ du couple et l'*eau*.
+La **constante d'acidité** d'un couple [[acido-basique]] notée $K^0_A$ est la constante thermodynamique de l'équilibre entre l'acide $AH$ du couple et l'*eau*.
 $$ K^0_A = \frac{[A^-]_{éq} [H_3O^+]_{éq}}{[AH]_{éq}C^0}$$
 et $pK_A = - \log K^0_A$
 
-De même, la **constante de basicité** d'un couple *acido-basique* notée $K_B^0$ est la constante thermodynamique de l'équilibre entre la base $A^-$ du couple et l'*eau*.
+De même, la **constante de basicité** d'un couple [[acido-basique]] notée $K_B^0$ est la constante thermodynamique de l'équilibre entre la base $A^-$ du couple et l'*eau*.
 $$ K_B^0 = \frac{[AH]_{éq}[HO^-]_{éq}}{[A^-]_{éq}C^0}$$
 et $pK_B = - \log K_B^0$
 
 #### Relations
 
-Pour tout couple *acido-basique* on à 
+Pour tout couple [[acido-basique]] on à 
 $$K_A \times K_B = [HO^-][H_3O^+] = K_e$$
 ou $$pK_A + pK_B = pK_e = 14.0$$
 ##### Cas de l'eau
@@ -85,7 +79,7 @@ On à :
 
 $$ K^0 = \frac{K_{A,1}^0}{K_{A,2}^0}$$
 
-Ainsi, quand deux couple *acido-basiques* sont mis en contact dans une solution, la **réaction la plus favorable** ce produit toujours entre **l'acide le plus fort** ($pK_A$ faible) et la **base la plus forte** ($pK_A$ élevé).
+Ainsi, quand deux couple [[acido-basique]] sont mis en contact dans une solution, la **réaction la plus favorable** ce produit toujours entre **l'acide le plus fort** ($pK_A$ faible) et la **base la plus forte** ($pK_A$ élevé).
 
 ### Acides et bases forts
 
