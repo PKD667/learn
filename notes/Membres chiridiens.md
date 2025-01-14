@@ -1,0 +1,1 @@
+Les **membres chiridiens** sont des appendices locomoteurs munis de doigts. La présence de membres chiridiens est exclusives aux [[tétrapodes]].

@@ -1,0 +1,1 @@
+Les lipides sont définis par leur propriétés hydrophobes.

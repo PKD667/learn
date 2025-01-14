@@ -1,0 +1,1 @@
+Les nodosités sont des adaptations symbiotiques développées par les Fabacées pour capter l'azote de l'air. Elles sont présentes au niveau des racine et se caractérisent par des *petites boules* colonisées par des bactéries de type [[Rhizobium]]

@@ -1,0 +1,1 @@
+Les molécules *amphiphile* sont constituées d'éléments hydrophiles et lipophiles.

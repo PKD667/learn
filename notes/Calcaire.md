@@ -1,0 +1,1 @@
+Le **calcaire** est une roche qui fait effervescence à $\text{HCl}$, qui ne  raye pas le verre, qui peut comporter des *fossiles*. Elle est souvent stratifiée.

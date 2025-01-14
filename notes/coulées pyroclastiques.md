@@ -1,0 +1,1 @@
+Avalanches de cendre mélangée a des gaz qui dévalent les pentes du volcans à des vitesses et des températures très élevées.

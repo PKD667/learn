@@ -1,0 +1,1 @@
+Les cellules on un noyau et une mitochondrie et un cytoplasme. Le vivant est constitué de cellules. Les cellules sont l'unité structurelle du vivant.

@@ -1,0 +1,1 @@
+Le Gneiss est une roche **métamorphique** avec un schistosité constituées de [[Quartz]] et de [[Feldspath]] avec des alternances de lits de [[Micas]].  Le **Gneiss** est un roche entièrement cristallisée (*holocristalline*). Les minéraux sont orientés, c'est la **schistosité**.

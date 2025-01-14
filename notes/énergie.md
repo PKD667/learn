@@ -1,0 +1,1 @@
+Une énergie, c'est ce qui permet d'effectuer un travail. Au cours de ce travail, le système va évoluer d'un *état initial* à un *état final*.

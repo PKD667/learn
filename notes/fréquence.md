@@ -1,0 +1,1 @@
+La fréquence d'un phénomène, ou par exemple d'un signal représente l'inverse de la période. Elle est exprimée en *Hertz* c'est à dire en  $s^{-1}$ .

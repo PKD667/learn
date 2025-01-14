@@ -1,0 +1,1 @@
+L'accrétion est la dynamique de production de matière dans le contexte de la tectonique des plaques.

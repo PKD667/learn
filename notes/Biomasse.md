@@ -1,0 +1,1 @@
+La biomasse permet de mesurer la quantité de **masse vivante**. Elle peut être estimée en masse sèche ou en masse fraîche. Elle est parfois remplacée  par la quantité d'énergie qu'elle représente. 

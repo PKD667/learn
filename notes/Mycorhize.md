@@ -1,0 +1,1 @@
+La **Mycorhize** est un processus symbiose entre des champignon (eumycètes) et des plantes au cours duquel les champignons vont aider le captage de nutriments en échange de sucre.

@@ -1,0 +1,1 @@
+Les bactéries de type **Rhizobium** ont la capacité de capter l'azote pour le transformer en nitrate dans les [[Nodosité]]

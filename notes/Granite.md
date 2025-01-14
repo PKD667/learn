@@ -1,0 +1,1 @@
+Le **granite** est une roche **grenue**, sans minéraux orientés (*magmatique plutonique*), composée de [[Quartz]], de [[Feldspath]] et de [[Micas]] blancs ou noirs.

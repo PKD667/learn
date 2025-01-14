@@ -1,0 +1,1 @@
+Le **péridotite** est une roche de couleur *vert olive*, composée de cristaux verts d'[[Olivine]] et de [[Pyroxènes]] noirs. Elle compose le manteau.
