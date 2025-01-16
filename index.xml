@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>🪴 Quartz 4.0</title>
-      <link>https://quartz.jzhao.xyz</link>
-      <description>Last 10 notes on 🪴 Quartz 4.0</description>
+      <title>PKD&#039;s learning notes</title>
+      <link>https://pkd667.github.io/learn</link>
+      <description>Last 10 notes on PKD&#039;s learning notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>zones de subduction</title>
-    <link>https://quartz.jzhao.xyz/notes/zones-de-subduction</link>
-    <guid>https://quartz.jzhao.xyz/notes/zones-de-subduction</guid>
-    <description>Nature Les zones de subduction sont des zones de disparition de matière. Conséquences Les zones de subduction occasionnent des phénomènes sismiques.</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
-  </item><item>
-    <title>électrons</title>
-    <link>https://quartz.jzhao.xyz/notes/%C3%A9lectrons</link>
-    <guid>https://quartz.jzhao.xyz/notes/%C3%A9lectrons</guid>
-    <description>Les électrons sont des particules élémentaires qui composent les atomes. Un électron est chargé négativement avec une charge de 1eV = 1,6\times10^{19}J.</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
-  </item><item>
-    <title>électronégativité</title>
-    <link>https://quartz.jzhao.xyz/notes/%C3%A9lectron%C3%A9gativit%C3%A9</link>
-    <guid>https://quartz.jzhao.xyz/notes/%C3%A9lectron%C3%A9gativit%C3%A9</guid>
-    <description>En chimie l’électronégativité est une grandeur physique qui caractérise un un élément par sa capacité à attirer le doublet d’électrons dans une liaison covalente. ...</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
-  </item><item>
-    <title>énergie</title>
-    <link>https://quartz.jzhao.xyz/notes/%C3%A9nergie</link>
-    <guid>https://quartz.jzhao.xyz/notes/%C3%A9nergie</guid>
-    <description>Une énergie, c’est ce qui permet d’effectuer un travail. Au cours de ce travail, le système va évoluer d’un état initial à un état final.</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
-  </item><item>
-    <title>études sismographiques</title>
-    <link>https://quartz.jzhao.xyz/notes/%C3%A9tudes-sismographiques</link>
-    <guid>https://quartz.jzhao.xyz/notes/%C3%A9tudes-sismographiques</guid>
-    <description>Pour calculer la position de l’épicentre, et du foyer on calcule sa distance au sismographe à l’aide des différences de vitesses dens différentes ondes sismiques ...</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
-  </item><item>
-    <title>protéines</title>
-    <link>https://quartz.jzhao.xyz/notes/prot%C3%A9ines</link>
-    <guid>https://quartz.jzhao.xyz/notes/prot%C3%A9ines</guid>
+    <title>récurrence</title>
+    <link>https://pkd667.github.io/learn/notes/r%C3%A9currence</link>
+    <guid>https://pkd667.github.io/learn/notes/r%C3%A9currence</guid>
     <description></description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
   </item><item>
-    <title>péridotite</title>
-    <link>https://quartz.jzhao.xyz/notes/p%C3%A9ridotite</link>
-    <guid>https://quartz.jzhao.xyz/notes/p%C3%A9ridotite</guid>
-    <description>Le péridotite est une roche de couleur vert olive, composée de cristaux verts d’Olivine et de Pyroxènes noirs. Elle compose le manteau.</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
+    <title>réel</title>
+    <link>https://pkd667.github.io/learn/notes/r%C3%A9el</link>
+    <guid>https://pkd667.github.io/learn/notes/r%C3%A9el</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
   </item><item>
-    <title>racine nième de l&#039;unité</title>
-    <link>https://quartz.jzhao.xyz/notes/racine-ni%C3%A8me-de-l'unit%C3%A9</link>
-    <guid>https://quartz.jzhao.xyz/notes/racine-ni%C3%A8me-de-l'unit%C3%A9</guid>
-    <description>Définition : Soit n\in\mathbb N, on appel racine n^{\text {ieme}} de l’unité, l’ensemble des z\in\mathbb C tels que : z^n=1 Résolution de l’équation : Comme z\in\mathbb C, il peut ...</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
+    <title>réflexion totale</title>
+    <link>https://pkd667.github.io/learn/notes/r%C3%A9flexion-totale</link>
+    <guid>https://pkd667.github.io/learn/notes/r%C3%A9flexion-totale</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
   </item><item>
-    <title>roches</title>
-    <link>https://quartz.jzhao.xyz/notes/roches</link>
-    <guid>https://quartz.jzhao.xyz/notes/roches</guid>
-    <description>Roches plutoniques Exemples Transclude of Granite Roches sédimentaires Exemples Transclude of Calcaire Roches métamorphiques Les roches métamorphiques sont des roches plutoniques ...</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
+    <title>réflexion</title>
+    <link>https://pkd667.github.io/learn/notes/r%C3%A9flexion</link>
+    <guid>https://pkd667.github.io/learn/notes/r%C3%A9flexion</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
   </item><item>
-    <title>rumination</title>
-    <link>https://quartz.jzhao.xyz/notes/rumination</link>
-    <guid>https://quartz.jzhao.xyz/notes/rumination</guid>
-    <description> La rumination est un processus de digestion utilisé par des herbivores, comme la vache, pour digérer des aliments riches en cellulose. Les aliments sont absorbés très rapidement, parcourent l’estomac jusqu’au bonnet, puis sont régurgités dans la cavités buccales pour être mastiqués et ensalivés.</description>
-    <pubDate>Thu, 16 Jan 2025 10:10:47 GMT</pubDate>
+    <title>réfraction</title>
+    <link>https://pkd667.github.io/learn/notes/r%C3%A9fraction</link>
+    <guid>https://pkd667.github.io/learn/notes/r%C3%A9fraction</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
+  </item><item>
+    <title>sinus</title>
+    <link>https://pkd667.github.io/learn/notes/sinus</link>
+    <guid>https://pkd667.github.io/learn/notes/sinus</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
+  </item><item>
+    <title>solvant</title>
+    <link>https://pkd667.github.io/learn/notes/solvant</link>
+    <guid>https://pkd667.github.io/learn/notes/solvant</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
+  </item><item>
+    <title>suite cours</title>
+    <link>https://pkd667.github.io/learn/notes/suite-cours</link>
+    <guid>https://pkd667.github.io/learn/notes/suite-cours</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
+  </item><item>
+    <title>surjective</title>
+    <link>https://pkd667.github.io/learn/notes/surjective</link>
+    <guid>https://pkd667.github.io/learn/notes/surjective</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
+  </item><item>
+    <title>tangente</title>
+    <link>https://pkd667.github.io/learn/notes/tangente</link>
+    <guid>https://pkd667.github.io/learn/notes/tangente</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 13:37:19 GMT</pubDate>
   </item>
     </channel>
   </rss>
