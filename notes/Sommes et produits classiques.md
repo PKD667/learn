@@ -19,7 +19,16 @@ $$
 
 #### Somme géométrique
 
-Soient $n,m \in \mathbb{N}$ tels que $m \leq n$, $q \in \mathbb{R}$,  $\displaystyle\begin{equation}\sum_{k=m}^{n}q^k = \begin{cases}q^m \times \frac{1-q^{n-m+1}}{1-q}\\ n-m+1 \\\end{cases}\end{equation}$
+Soient $n,m \in \mathbb{N}$ tels que $m \leq n$, $q \in \mathbb{R}$,  
+$$
+\begin{equation}
+\sum_{k=m}^{n}q^k = 
+\begin{cases} 
+q^m \times \frac{1-q^{n-m+1}}{1-q}\\
+n-m+1 \\
+\end{cases}
+\end{equation}
+$$
 
 #### Sommes d'Euler
 
