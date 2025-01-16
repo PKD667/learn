@@ -1,6 +1,9 @@
 ### Définition
 
-On appelle indice de réfraction ou indice optique d’un milieu le rapport entre la célérité de la lumière dans le vide $c$ et sa vitesse $v$ dans le milieu matériel considéré : $$ n = \frac{c}{v}$$
+On appelle indice de réfraction ou indice optique d’un milieu le rapport entre la célérité de la lumière dans le vide $c$ et sa vitesse $v$ dans le milieu matériel considéré : 
+$$
+n = \frac{c}{v}
+$$
 L'indice optique est une *grandeur adimensionée*.
 
 La lumière se propageant moins vite dans un milieu matériel que dans le vide, on a donc $v < c$ d'ou **$n > 1$ quel que soit le milieu considéré.**

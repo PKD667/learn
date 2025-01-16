@@ -1,0 +1,1 @@
+L'argument d'un nombre [[complexe]] noté $\arg(z)$ ou généralement $\theta \pmod {2\pi}$ représente un angle entre $0$ et l'**affixe** du nombre. 

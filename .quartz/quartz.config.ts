@@ -1,11 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4.0 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
+
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "PKD's Notes",
@@ -25,7 +21,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        body: "Space Mono",
         code: "Space Mono",
       },
       colors: {

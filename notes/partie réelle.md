@@ -6,5 +6,7 @@ Ainsi, ici $Re(z)=x$
 #### Propriétés :
 ##### Propriété 1 
 Soit $z=x+iy$ avec $(x,y)\in\mathbb R$ un nombre complexe.
-$$\frac{z+\bar z}{2}=\frac{(x+yi)+(x-yi)}{2}=\frac{2x}{2}=x=Re(z)$$ 
+$$
+\frac{z+\bar z}{2}=\frac{(x+yi)+(x-yi)}{2}=\frac{2x}{2}=x=\text{Re}(z)
+$$ 
 

@@ -1,0 +1,1 @@
+La fonction $\arcsin$ est la fonction [[réciproque]] de $\sin$.

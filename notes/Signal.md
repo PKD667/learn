@@ -85,7 +85,7 @@ $S_m$ est **l'amplitude** du signal
 $\varphi$ est la **phase à l'origine**, c'est à dire à $t = 0$ ($\omega t + \varphi$ est la phase à l'instant $t$), *en $\text{rad}$*.
 $\omega$ est la **pulsation** en $\text{rad}.s^{-1}$.
 
-*Attention à la conversion [[degrés - radians]]*
+*Attention à la conversion [[degrés et radians]]*
 
 La **période** $T$ est la **plus petite durée** au bout de laquelle, en un point donné, le système se retrouve dans le même état qu'a l'instant $t=0$.
 

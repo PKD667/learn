@@ -1,10 +1,18 @@
 #### Définition :
 La fonction exponentielle est la fonction qui à $x\rightarrow e^x$.
-Elle est l'unique fonction dérivable sur $\mathbb R$ tel que : $$f'(x)=f(x)$$ et : $$f(o)=1$$ $e^x$ est défini et continue sur $\mathbb R$ on a $f(\mathbb R)\rightarrow\mathbb R^*+$ 
+Elle est l'unique fonction dérivable sur $\mathbb R$ tel que : 
+$$
+f'(x)=f(x)
+$$ et : 
+$$
+f(o)=1
+$$ $e^x$ est défini et continue sur $\mathbb R$ on a $f(\mathbb R)\rightarrow\mathbb R^*+$ 
 #### Apparition historique : 
 $e$, aussi appelé "constante d'Euler" correspond à $e\approx 2.71828$ 
 #### Différentes écritures :
-$$e=\sum_{n=0}^{\infty}\frac{1}{n!}$$
+$$
+e=\sum_{n=0}^{\infty}\frac{1}{n!}
+$$
 #### Apparence :
 
 #### Propriétés : 

@@ -76,7 +76,10 @@ L'eau liquide joue un rôle important dans le vivant, de par des caractéristiqu
  3. Sa grande capacité thermique, qui permet d'absorber et de dissiper la chaleur générée par les réactions métaboliques.
  4. Sa grande **réactivité**. L'eau intervient dans les réaction d'*hydratation*, d'*hydrolyse* et participe à la photosynthèse et à la respiration cellulaire.
 
+>[!solvatation]
 Les molécules hydrophiles sont *solvatées* dans l'eau et établissent des [[liaison hydrogène]] avec les molécules d'eau. Au contraire, les molécules qui ne comportent pas de groupes polaires, comme les *alkyles* ne peuvent pas être *solvatées* dans l'eau, elles sont hydrophobes.
+
+
 
 #### Acides aminés
 
@@ -214,9 +217,10 @@ L'**ARN** ou acide ribonucléique est un autre polymère de nucléotides qui lui
 
 Ainsi, l'**ADN** est lu et transcrit sur des **ARN** messagers puis traduit en **acides aminés** dans le processus de [[traduction de l'arn]]. L'**ARN** messager ($\text{ARN}_m$) est mono-brin et maintenu étiré par des protéines.
 
-Il existe aussi d'autre **ARN** :
- - L'**ARN** de transfert ($\text{ARN}_t$)
- - L'**ARN** R
+> [!variations-ARN]
+Il existe aussi d'autres **ARN** :
+> - L'**ARN** de transfert ($\text{ARN}_t$)
+> - L'**ARN** R
  
 
 # Les enzymes

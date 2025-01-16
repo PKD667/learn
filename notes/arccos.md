@@ -1,1 +1,1 @@
-La fonction $\arccos$ est la fonction réciproque de $\cos$ .
+La fonction $\arccos$ est la fonction [[réciproque]]  de $\cos$ .

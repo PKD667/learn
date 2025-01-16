@@ -5,7 +5,7 @@ L'information obtenue par la connaissance qu'un événement de probabilité $p$ 
   - $n$ tirages d'un événement de probabilité $p$ est un événement de probabilité $\frac{1}{p^n}$, son résultat est donc d'information $-\log \left(\frac{1}{p^n}\right)$
  - Le lancer d'une pièce de monnaie a $p = 2$. L'information du résultat "pile,face,pile" de $3$ tirages est donc $- \log \left( \frac{1}{2^3} \right) = 3 \log 2 = 3\text{bits}$
 
-*Voir [[Unités d'information]]*j
+*Voir [[Unités d'information]]*
 
 ##### Justification
 

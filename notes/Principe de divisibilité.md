@@ -1,8 +1,8 @@
-#### ==Définition :== 
+### Définition  
 Soient $(a,b)\in\mathbb Z^*$
 On dit que "$a$ divise $b$" **si et seulement si** il existe $k\in\mathbb Z^*$ tel que $ak=b$ 
-On note "$a$ divise $b$" : $$a\mid b$$
-#### ==Propriétés :==
+On note "$a$ divise $b$" : $a\mid b$
+### Propriétés
 1. Si $a$ divise $b$ **alors** $-a$ divise $b$ 
 	Si $a$ divise $b$, il existe $k\in\mathbb Z$ tel que $b=ka$ 
 	Donc $b=(-a)\cdot (-k)$, où $(-k)\in\mathbb Z$ 

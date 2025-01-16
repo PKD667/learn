@@ -1,7 +1,7 @@
 
 # Révolution !
 
-## Abandon de la verité
+## Abandon de la vérité
 ### Une science quantifiable ?
 
 Des lors qu'un groupe scientifique se retrouve confronté à des manifestation d'un nouveau paradigme, et donc au passage à une nouvelle science normale, la question du critère, qui permet le changement de paradigme de progrès devient cruciale. Ainsi Kuhn explique que les communautés scientifiques essaient de déterminer à cette fin un critère qui définirait la "meilleure science". Cette unité qui prendrait la mesure de la science, et qui permettrait des comparaison est souvent celle de la quantité de 'problèmes' qu'il résout ou offre à résoudre.
@@ -61,7 +61,7 @@ Il représente le *stimulus* par une *chaîne ordonnée de n nombres* qui est tr
 
 Un paradigme est donc un caractérisé par cet ensemble partagé de **fonctions de transformation** liées à la transformation de données sensorielles et à leur assimilation par le cerveau. Les différences d'observations entre les paradigmes vient donc aussi de mécanisme cognitifs profonds liés à la structure de notre cerveau.
 
-Ressemblance troublante avec le **perceptron** et même avec les modèles de language modernes. *Kuhn avait-il lu l'article de Rosenblatt ? https://psycnet.apa.org/doi/10.1037/h0042519*
+Ressemblance troublante avec le **perceptron** et même avec les modèles de language modernes. *Kuhn avait-il lu l'[article de Rosenblatt](https://psycnet.apa.org/doi/10.1037/h0042519)*
 
 ##### Recherche du fameux programme
 

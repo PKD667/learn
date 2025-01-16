@@ -1,0 +1,1 @@
+La fonction $\arctan$ est la fonction [[réciproque]] de $\tan$.

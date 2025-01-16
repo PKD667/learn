@@ -1,10 +1,10 @@
-# Attention :
-On utilisera ici, pour illustrer le principe de l'**union** le [[cardinal]] d'un [[ensemble]], noté $Card()$.
-Cependant, ce principe s'applique également aux [[probabilités]]. 
-Dans toute cette page, $Card()$ sera donc **interchangeable par** $P()$ 
 
-#### Définition
+Soient $A$  et $B$ deux [ensembles](emsemble). On note $A \cup B$ leur union définie par :
+$$
+A \cup B = \{x ~|~ (x \in A) \lor (x \in B) \}
+$$
 
-#### Propriétés
-##### Propriété 1 :
+>[!union-et-probabilités] Ces principes s'appliquent tout autant à un [[espace probabilisé]] et à sa [[probabilité]]  qu'a des [ensembles](ensemble)
+
+
 

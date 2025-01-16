@@ -17,8 +17,6 @@ Understanding **operational semantics** needs us to run the program in our heads
 
 # Functional programming
 
-We have *types* (basically sets) and *functions* (relationship between sets).
-
 The computer evaluates the functions, but we don't care about it.
 
 **Set theory** is like an assembly language of mathematics.
@@ -37,5 +35,5 @@ Every object has an *identity function* that goes from itself back to itself: $\
 
 **Category theory** makes all complexity needed for programming from the simples principles above. It's like a new set of axioms applied to a reduced area.
 
-A **monoid** is something that has an identity and stuff.
+A [[monoid]] is something that has an identity and stuff.
 

@@ -1,6 +1,6 @@
 # Philosophie des sciences
 
-[[Chapitre 12 - Kuhn - Khôlle]]
+[[Analyse de la Structure des révolutions Scientifiques]]
 
 #### Introduction
 
