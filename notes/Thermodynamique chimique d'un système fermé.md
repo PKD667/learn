@@ -38,7 +38,9 @@ $$ H_3O^+ = H_2O + H^+$$
 Ces deux réactions forment **l'autoprotolyse de l'eau** :
 $$ 2h_2O \rightleftharpoons HO^- + H_3O^+$$
 Sa *constante d'équilibre* notée $K_e$ est définie par :
+
 $$K_e = [HO^-]_{éq}[H_3O^+]_{éq}$$
+
 Cette constante vaut $K_e = 10^{-14}$ et $pK_e = -\log K_e = 14.0$ à $25°\text{C}$
 
 La réaction $H_2O + H^+ \rightarrow H_3O^+$ est donc une réaction quantitative. Ainsi, le *proton* ($H^+$) **n'existe pas** en solution aqueuse.
@@ -48,6 +50,7 @@ La réaction $H_2O + H^+ \rightarrow H_3O^+$ est donc une réaction quantitative
 Une *réaction* [[acido-basique]] mets en jeu deux couple **acide-base** qui s'échangent des protons. On à un couple dont l'acide ($A_1H$) va réagir avec la base ($A_2^-$) de l'autre couple et se transformer en base ($A_1^-$.
 $$ A_1H + A_2^- = A_1^- + A_2H$$
 La **constante d'acidité** d'un couple [[acido-basique]] notée $K^0_A$ est la constante thermodynamique de l'équilibre entre l'acide $AH$ du couple et l'*eau*.
+
 $$ K^0_A = \frac{[A^-]_{éq} [H_3O^+]_{éq}}{[AH]_{éq}C^0}$$
 et $pK_A = - \log K^0_A$
 
