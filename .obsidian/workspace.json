@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Biochimie.md",
+                "file": "notes/Thermodynamique chimique d'un système fermé.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biochimie"
+              "title": "Thermodynamique chimique d'un système fermé"
             }
           }
         ]
@@ -178,14 +178,14 @@
   },
   "active": "7763df22b6c68df8",
   "lastOpenFiles": [
-    "notes/Biologie.md",
-    "notes/Biogéosciences.md",
-    "CPES.md",
     "notes/Physique-chimie.md",
+    "CPES.md",
+    "notes/Biogéosciences.md",
+    "notes/Biologie.md",
+    "notes/Biochimie.md",
     "notes/Structure de la matière.md",
     "notes/Thermodynamique chimique d'un système fermé.md",
     "attachements/redox-vertical-postd.png",
-    "notes/Biochimie.md",
     "notes/électrophorèse.md",
     "notes/point isoélectrique.md",
     "attachements/diagrame-acide-base-swittérion.png",

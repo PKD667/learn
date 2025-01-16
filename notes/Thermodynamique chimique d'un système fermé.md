@@ -245,4 +245,11 @@ Dans le cas d'une **réaction redox**, l'***oxydant** le plus fort* va réagir a
 
 ### Étude thermodynamique
 
-On peut déterminer la **constante d'équilibre** d'une réaction *redox* grâce à la **relation de Nernst**.  En effet, dans une réaction les *potentiels redox* des différents couple sont égaux. 
+On peut déterminer la **constante d'équilibre** d'une réaction *redox* grâce à la **relation de Nernst**.  En effet, dans une réaction les *potentiels redox* des différents couple sont égaux à l'**équilibre thermodynamique**.
+
+Ainsi pour une réaction $\alpha~\text{Ox}_1 + \beta~\text{Red}_2 \rightleftarrows \beta'~\text{Red}_1  + \alpha' \text{Ox}_2$ on à  $$\displaystyle K^0 = 10^{\frac{n}{0,059}(E_1^0-E_2^0)}$$
+
+#### Diagramme
+
+On peut dresser un diagramme similaire 
+
