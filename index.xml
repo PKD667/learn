@@ -6,65 +6,65 @@
       <description>Last 10 notes on PKD&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>réel</title>
+    <link>https://pkd667.github.io/notes/r%C3%A9el</link>
+    <guid>https://pkd667.github.io/notes/r%C3%A9el</guid>
+    <description>Définition : Un nombre réel est un nombre positif ou négatif qui s’écrit avec un nombre fini ou infini de décimales c’est à dire de chiffres après la virgule ...</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>réflexion totale</title>
+    <link>https://pkd667.github.io/notes/r%C3%A9flexion-totale</link>
+    <guid>https://pkd667.github.io/notes/r%C3%A9flexion-totale</guid>
+    <description>La réflexion totale est un cas particulier de réfraction, dans lequel l’angle du rayon réfracté dépasse le dioptre. Calcul d’angle limite i_{lim} = \arcsin(\frac{n_2}{n_1}).</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>réflexion</title>
+    <link>https://pkd667.github.io/notes/r%C3%A9flexion</link>
+    <guid>https://pkd667.github.io/notes/r%C3%A9flexion</guid>
+    <description>Lorsqu’un rayon lumineux incident issu d’un milieu d’indice optique 𝑛1 vient frapper une surface réfléchissante (miroir), le rayon lumineux émergent : Reste dans le même milieu ...</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>réfraction</title>
+    <link>https://pkd667.github.io/notes/r%C3%A9fraction</link>
+    <guid>https://pkd667.github.io/notes/r%C3%A9fraction</guid>
+    <description>La réfraction est un phénomène au cours duquel un rayon lumineux incident change de direction après avoir traversé un dioptre. Loi de Snell-Descartes relative à la réfraction Soit un dioptre séparant deux milieux d’indices n_1 et n_2 sur lequel arrive un rayon lumineux incident, faisant un angle i_1 par rapport à la normale au dioptre au point d’incidence.</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>sinus</title>
+    <link>https://pkd667.github.io/notes/sinus</link>
+    <guid>https://pkd667.github.io/notes/sinus</guid>
+    <description>Définition : Le sinus d’un angle dans un triangle rectangle est le rapport entre la longueur du côté opposé et de l’hypoténuse.\sin(\alpha)=\frac{\text{adj}}{\text{hyp}} De ...</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>solvant</title>
+    <link>https://pkd667.github.io/notes/solvant</link>
+    <guid>https://pkd667.github.io/notes/solvant</guid>
+    <description>Un solvant est une substance qui peut dissoudre, diluer ou extraire d’autre substance sans en modifier la structure chimique. L’eau est le solvant le plus courant.</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>suite cours</title>
+    <link>https://pkd667.github.io/notes/suite-cours</link>
+    <guid>https://pkd667.github.io/notes/suite-cours</guid>
+    <description>Il remplace les changements de perception par un changement de vérité avant on voyait mal, maintenant on voit vrai on ne peut attendre des scientifiques aux mêmes une reconnaissance ...</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>surjective</title>
+    <link>https://pkd667.github.io/notes/surjective</link>
+    <guid>https://pkd667.github.io/notes/surjective</guid>
+    <description>Définition : Soit f : E\rightarrow F. on dit que f est surjective si tout élément de F admet au moins un antécédent par f.</description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
+    <title>tangente</title>
+    <link>https://pkd667.github.io/notes/tangente</link>
+    <guid>https://pkd667.github.io/notes/tangente</guid>
+    <description></description>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
+  </item><item>
     <title>test</title>
     <link>https://pkd667.github.io/notes/test</link>
     <guid>https://pkd667.github.io/notes/test</guid>
     <description></description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>thermodynamique biologique</title>
-    <link>https://pkd667.github.io/notes/thermodynamique-biologique</link>
-    <guid>https://pkd667.github.io/notes/thermodynamique-biologique</guid>
-    <description>Enthalpie libre et évolution d’une réaction chimique L’enthalpie est une énergie exprimée en Joules J. La différence d’énergie entre l’état final et l’état initial de la réaction d’appelle la variation d’enthalpie qu’on va noter \Delta G ou \Delta r G dans le cadre d’une réaction.</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>théorème de Bézout</title>
-    <link>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-B%C3%A9zout</link>
-    <guid>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-B%C3%A9zout</guid>
-    <description>Définition : Soient (a,b)\in\mathbb Z^{*2} PGCD(a;b)=1 \iff il existe (u,v)\in\mathbb Z^2 tel que : au+bv=1 Démonstration : Soient (a,b)\in\mathbb Z^{*2} tel que PGCD(a;b)=1 ...</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>théorème de Gauss</title>
-    <link>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-Gauss</link>
-    <guid>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-Gauss</guid>
-    <description>Définition : Soient (a,b,c)\in\mathbb Z^{*3} si a\mid bc et PGCD(a ; b)=1 alors a\mid c Démonstration : PGCD(a;b)=1 donc d’après le théorème de Bézout, il existe (u,v)\in\mathbb ...</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>topographie sismique</title>
-    <link>https://pkd667.github.io/notes/topographie-sismique</link>
-    <guid>https://pkd667.github.io/notes/topographie-sismique</guid>
-    <description></description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>traduction de l&#039;arn</title>
-    <link>https://pkd667.github.io/notes/traduction-de-l'arn</link>
-    <guid>https://pkd667.github.io/notes/traduction-de-l'arn</guid>
-    <description>L’ARN messager est traduit en protéines afin d’exécuter des fonction du métabolisme. Ainsi, la séquence en nucléotides de l’ARN est traduite en une séquence d’acides aminés : une protéine.</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>transition de phases</title>
-    <link>https://pkd667.github.io/notes/transition-de-phases</link>
-    <guid>https://pkd667.github.io/notes/transition-de-phases</guid>
-    <description>Une phase représente l’état d’un réseau cristallin, c’est à dire la manière dont son agencés les atomes dans la maille du crystal. Une transition de phase représente un changement de cette configuration.</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>tétrapodes</title>
-    <link>https://pkd667.github.io/notes/t%C3%A9trapodes</link>
-    <guid>https://pkd667.github.io/notes/t%C3%A9trapodes</guid>
-    <description>Les tétrapodes sont une super-classe d’animaux vertébrés qui sont caractérisés par la présence de deux paires de membres chiridiens munis de doigts. Ce sont en gros des animaux à quatre pattes.</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>union</title>
-    <link>https://pkd667.github.io/notes/union</link>
-    <guid>https://pkd667.github.io/notes/union</guid>
-    <description>Attention : On utilisera ici, pour illustrer le principe de l’union le cardinal d’un ensemble, noté Card(). Cependant, ce principe s’applique également aux probabilités.</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
-  </item><item>
-    <title>valence</title>
-    <link>https://pkd667.github.io/notes/valence</link>
-    <guid>https://pkd667.github.io/notes/valence</guid>
-    <description>Électrons des valence Les électrons de valence sont situés sur les couches externes d’un atome, ils permettent la formation de liaison covalente avec d’autres atomes. ...</description>
-    <pubDate>Thu, 16 Jan 2025 13:57:15 GMT</pubDate>
+    <pubDate>Thu, 16 Jan 2025 14:38:47 GMT</pubDate>
   </item>
     </channel>
   </rss>
