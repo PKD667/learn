@@ -30,10 +30,9 @@ La biologie peut étudier différentes échelles:
 | Population            | Population de Luzerne    | Troupeau          |
 | Écosystème            | Prairie                  | Prairie           |
 
-# L'[[Ecosystème prairial]]
+# [[Ecosystème prairial]]
 
 # [[Biochimie]]
-
 
 ### [[Enzyme]]
 

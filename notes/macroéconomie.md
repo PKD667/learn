@@ -343,15 +343,166 @@ Le marché c'est le dispositif décentralisé qui permet d'échanger les richess
 3. **Unité de compte** : La monnaie offre un étalon de mesure commun pour évaluer et comparer la valeur des produits et des services, facilitant ainsi les décisions économiques .
 4. **Intermédiaire dans les échanges différés** : Elle permet aussi les transactions qui ne se règlent pas immédiatement, comme les prêts
 
-*Ya une posture politique dans la Casa de Papel qui est très contestable : en prenant possession de la production de billets de la Banque d'Espagne, les protagonistes essayent de résoudre les problèmes financier d'inégalités.* 
 
+#### Différentes natures de la monnaie
+
+On peut considérer la monnaie de plusieurs manières différentes :
+1. Certains pensent que la monnaie est un **actif** particulièrement liquide. Cette conception fonctionne bien dans le cadre de l'*étalon-or* ou la monnaie représente un actif physique, matériel.
+2. On peut aussi se dire que la monnaie est une **institution**. Ainsi, il ne s'agit plus d'une **substance** mais d'un **rapport social** qui rend possible la coordination des activités marchandes.
+
+### L'institution de la monnaie
+
+La monnaie produit une violence **symbolique** et **physique**, elle légitime les hiérarchies de l'ordre social. Elle garantit aussi le caractère décentralisé des décisions. 
+
+Il s'agit donc d'une institution ambivalente qui implique une relation de confiance. Cette confiance est une **convention** qui découle de constructions sociales.
+
+La monnaie crée donc une *communauté des paiements* composée d'individus qui *croient* en la monnaie.
+
+#### Monnaie de crédit
+
+Dans le monde actuel, la monnaie est liée à des relation de créance et de dette. Il s'agit d'une standardisation des dettes. On parle alors de **monnaie de crédit**.
 
 La monnaie c'est la seule dette qui permet de s'acquitter de toutes les dettes.
 
-Dans un système basé sur l'étalon-or, le banquier sert une fonction de **mandataire**, qui disparaît avec la monnaie *fiat*.
+#### Les monnaies bancaires
 
-Les **règlements inter-bancaires** doivent être assurés par une entité supérieures : la **banque centrale** qui fournit des titres monétaires de créance centraux et reconnus par tous. La **monnaie centrale** est disponible à un taux d'intérêt appelé **taux central**.
+Dans un système basé sur l'étalon-or, le banquier sert une fonction de **mandataire**, qui disparaît avec la monnaie *fiat*. Le banquier devient créateur de monnaie à travers ses prêts. 
+
+Ainsi, la stabilité de la monnaie dépends de la **fiabilité de la créance** et de l'**encadrement institutionnel**.
+
+On peut donc définir la monnaie comme :
+1. Une institution centrale pour les sociétés de marchés.
+2. L'actif le plus liquide d'une économie (*pouvoir libératoire général*)
+3. Elle permet de s'acquitter de toutes les dettes.
+4. On en retient deux formes, le *cash* et les comptes.
+
+#### Fausses monnaies
+
+Il existe des formes d'actifs qui peuvent ressembler à la monnaie mais qui n'en sont pas :
+ - Les crypto-monnaies
+ - Les monnaies locales
+
+### Les formes monétaires
+
+On appelle **agrégats monétaires** les indicateurs statistiques construits pas les autorités monétaires pour mesurer la quantité de monnaie disponible à un moment donné dans une économie (*masse monétaire*).
+
+On peut classer les actifs par leur **degré de liquidité** c'est à dire par la vitesse avec laquelle ils peuvent être transformés en monnaie.
+
+On distingue deux catégories d'agents entre lesquels circule la monnaie :
+1. Les **institutions financières monétaires** ($\text{IFM}$) qui émettent des dettes avec un niveau élevé de liquidité. Il s'agit des banques.
+2. Les **agents non financiers** ($\text{ANF}$), c'est à dire tout les agent détenteurs de monnaie.
+
+#### Agrégats
+
+Dans la zone euro on distingue trois agrégats, du plus liquide au moins liquide :
+1. **M1** (le plus liquide)
+   - Les pièces et billets
+   - Les dépôts des agents non-financiers dans les banques
+2. **M2** qui inclut **M1** plus d'autres actifs monétaires
+ - Les dépôts à terme ($< 2 \text{ans}$)
+ - Les dépôts remboursables avec moins de trois mois de préavis
+3. **M3** qui inclut **M2** auquel s'ajoutent des instruments monétaires émis par les institutions financières
+  - Les titres d'organismes de placement collectifs en valeurs mobilières
+  - Titres de créance de durée initiale inférieure à deux ans
+
+![[m1-m2-m3.png]]
+
+La **base monétaire** représente la partie de la monnaie émise par la banque centrale qui circule sous une forme dématérialisée entre les institutions.
+
+### Création monétaire
+
+Les banques créent la monnaie qu'elles prêtent, il s'agit du système du **pari-bancaire**. Néanmoins, ce pouvoir de création monétaire n'est pas illimité, il est soumis à une **contrainte réglementaire** exercée par les autorités monétaires, et une limitation liée à la **concurrence interbancaire**.
+
+La **banque centrale** est une institution publique qui conduit la **politique monétaire**, exerce des fonctions de **régulation** et qui assure une fonction de prêteur en dernier ressort dans un système bancaire et financier hiérarchisé.
+
+Une **banque** est une institution habilitée à 
+ - Octroyer des crédits
+ - Gérer des dépôts
+ - gérer les moyens de paiements de ses clients
+ - Produire des services financiers
+
+Les banques *pas-centrales* sont appelées **banques de second rang** ou $\text{BSR}$.  
 
 Chaque banque de **second rang** crée sa propre monnaie qui n'a de la valeur uniquement dans son *circuit*. 
 
-      
+Les **règlements inter-bancaires** doivent être assurés par une entité supérieures : la **banque centrale** qui fournit des titres monétaires de créance centraux et reconnus par tous. La **monnaie centrale** est disponible à un taux d'intérêt appelé **taux central**.
+
+La **monnaie centrale** produite par la **banque centrale** à plus de pouvoir que la monnaie des $\text{BSR}$. Elle ne repose que sur la *confiance de la communauté de paiement*.
+
+#### Multiplicateur de crédit
+
+La création monétaire par les $\text{BSR}$ est régie par un **multiplicateur de crédit**, c'est à dire un coefficient, défini par les régulateur qui quantifie la quantité de monnaie que chaque $\text{BSR}$ peut créer par rapport à la monnaie qu'elle a en réserve.
+$$ \text{DM}_{\text{BSR}} = k\times \text{DM}_\text{BC}$$
+
+Ce modèle est critiqué par deux principales objections :
+1. Il suppose que le processus de création dans les $\text{BSR}$ est subordonné la la détention de réserves excédentaire en monnaie centrale alors qu'en réalité les $\text{BSR}$ pour autres chose.
+2. Il suppose que la **banque centrale** maîtrise la création monétaire, ce que les observation empiriques semblent infirmer.
+
+#### Diviseur de crédit
+
+Une autre approche permet d'expliquer le comportement des $\text{BSR}$ : le **diviseur de crédit**.
+
+En effet, d'après l'observation du système bancaire, on suppose que les banques commencent par créer de la monnaie à partir d'une logique commerciale et se procurent de la monnaie centrale après pour faire face aux *fuites*.
+
+Le diviseur de crédit est égal à l'inverse du multiplicateur.
+
+On appelle ce modèle l'hypothèse de la **monnaie endogène**.
+
+### Le financement de l'économie
+
+Le **financement** désigne les opérations par lesquelles les agents économiques se procurent les fonds nécessaires à la conduite de leurs activités.
+
+Le financement peut être **monétaire** ou **non-monétaire**.
+
+On parle de **financement direct** quand un agent qui à besoin de financement d'adresse directement à un agent en capacité de financement sans passer pas une institution.
+
+On parle de **financement intermédié** quand l'opération de financement passe par une institution financière.
+
+#### Système financier
+
+Un **système financier** est un ensemble de règles de pratiques et d'institutions qui permettent de mettre en relation des agents en *capacité de financement et des agents en *besoin* de financement. Il remplit 6 fonctions essentielles :
+1. Il transfère les richesses dans le **temps**
+2. Il gère les **risques**
+3. Il mets en commun les **richesses**
+4. Il diffuse l'**information**
+5. Il organise les **règlements**
+6. Il instaure des mécanismes incitatifs
+
+La **finance** c'est toutes les opérations de **financement**.
+
+# Modèles macroéconomiques
+
+La demande globale dans une économie est composée de quatre secteurs :
+1. La consommation publique ($G$)
+2. La consommation privée ($C$)
+3. Les investissements ($I$)
+4. Les exportations($X$)
+
+Keynes développe un modèle macro-économique qui est caractérisé par deux éléments importants :
+1. L'**hypothèse des prix fixes** sur le court terme
+2. La consommation est une fonction croissante du revenu des ménages.
+### Fonction de consommation
+
+$\frac{\partial C}{\partial Y}$ représente la **propension marginale à consommer** ($\text{PmC}$). Elle mesure la variation de la consommation en fonction de la variation du revenu.
+
+$\frac{C}{Y}$ représente la **propension moyenne à consommer** ($\text{PMC}$) et mesure la part de la consommation dans le revenu courant.
+
+La modèle keynésien formalise la fonction de consommation.
+
+$$C = C_0 + cY*$$
+- $C_0$ est la **consommation incompressible**, c'est à dire la consommation minimale possible si le revenu est nul.
+- $c =\frac{\partial C}{\partial Y}$ est la **propension marginale à consommer**.
+
+
+### Fonction d'épargne
+
+L'épargne représente la **part du revenu non-consommée**.
+
+$$S = Y - C = sY - C_0$$
+ - $s = 1-c$ qui représente la **propension marginale à épargner**.
+
+On peut représenter l'épargne par une droite.
+
+### Analyse macroéconomique de la consommation
+
+On peut essayer d'établir une relation entre 
