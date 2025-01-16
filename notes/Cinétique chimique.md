@@ -1,0 +1,1 @@
+La cinétique chimique étudie la vitesse des réactions chimiques.

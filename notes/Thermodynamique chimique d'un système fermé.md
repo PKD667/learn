@@ -254,5 +254,62 @@ Ainsi pour une réaction $\alpha~\text{Ox}_1 + \beta~\text{Red}_2 \rightleftarro
 
 #### Diagramme
 
-On peut dresser un diagramme similaire 
+On peut dresser un diagramme similaire à celui des réactions *acido-basiques*.
 
+De plus, on sait qu'a la **fontière** les **concentrations** sont égales.
+
+### Piles électrochimiques
+
+La mise en place d'une *réaction redox* crée une différence de potentielle entre deux **demi piles**, sièges des *demi-équations redox*. Ainsi, l'association de deux **demi-piles** reliées par un **pont salin** qui permet la circulation des **ions** et par un **circuit électrique** qui permet la circulation des [[électrons]] donne une **pile**.
+
+Une **pile** est donc composée d'une **anode**, c'est à dire la partie ou se produit l'**oxydation** et d'une **cathode** ou se produit la **réduction**.
+
+La **force électromotrice** désigne la tension électrique défnie par la différence de potentiel entre les deux **demi piles** ($e = E_+ - E_-$)
+
+#### Capacité
+
+La capacité ($Q$) d'une pile est la **quantité d'électricité** qu'une pile peut délivrer au cours de son fonctionnement.
+
+$$Q = n_{e⁻} \times \mathscr{F} = n ~\xi~ \mathscr{F} $$
+ -  $\mathscr{F}$ étant la constante de Faraday ($96500\frac{C}{\text{mol}}$)
+ - $n_{e^-}$ étant le nombre d'électrons ayant circulé
+ - $n$ étant le nombre d'électrons échangés entre les couple dans la réaction
+ - $\xi$ étant l'avancement molaire 
+
+On peut donc aussi écrire $Q = I \times \Delta t$
+
+#### Électrolyseur
+
+L'**électrolyse** représente la réaction *inverse* de la **pile**. Elle consiste à forcer la réalisation de réactions *thermodynamiquement défavorables* à l'aide d'un apport en électricité.
+
+On va donc inverser l'*anode* et la *cathode*.
+
+# Titrages
+
+Le **titrage** est le procédé de détermination de la quantité de matière d'un constituant présent dans une solution, que l'on va alors appeller *espèce titrée* à l'aide d'une réaction avec une autre espèce connue appelée *espèce titrante*.
+
+Une réaction doit satisfaire trois conditions pour être utilisée dans un titrage :
+1. Elle doit être **quantitative** ($K^0 > 10^4$)
+2. Elle doit se faire *rapidement* 
+3. Elle doit être **unique** et connue
+
+On va donc ajouter progressivement l'*espèce titrante* à la solution, jusqu'à atteindre l'**équivalence du titrage**. Cette équivalence est atteinte quand les réactif ont été introduits dans les proportions stœchiométriques.
+
+Ainsi, on peut exprimer une relation entre les quantités de matière de l'espèce **titrante** et celle de l'espèce **titrée** :
+$$\frac{n_1}{|\nu_1|} = \frac{n_2}{|\nu_2|}$$
+
+### Détermination de l'équivalence
+
+Il existe plusieurs méthodes pour déterminer l'équivalence lors d'un titrage. Ces méthodes sont basées sur l'observation des variables du système considéré.
+
+#### Détermination par le $pH$
+
+Lors du titrage pas une réaction **acido-basique** on peut se servir du $pH$ comme un indicateur de l'équivalence. On observe un *saut brutal* du $pH$ au moment de l'équivalence. Autrement dit, la dérivée du $pH$ par rapport au volume titrant ($\frac{d\text{pH}}{dV}$) est maximale.
+
+#### Suivi conductimétrique
+
+On peut utiliser la conductivité de la solution
+
+### Cas complexes
+
+Dans le cas d'un polyacide, ou de couples *redox* difficiles, le titrage peut être complexe. *Good Luck !*
