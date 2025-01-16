@@ -52,7 +52,6 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.Mathematics(),
       Plugin.CrawlLinks({
         markdownLinkResolution: "shortest",
       }),
@@ -61,7 +60,6 @@ const config: QuartzConfig = {
       Plugin.RemoveDrafts(),
     ],
     emitters: [
-      Plugin.AsciiDoc(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
