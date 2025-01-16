@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/macroéconomie.md",
+                "file": "notes/Biochimie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "macroéconomie"
+              "title": "Biochimie"
             }
           }
         ]
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,8 +178,22 @@
   },
   "active": "7763df22b6c68df8",
   "lastOpenFiles": [
-    "attachements/m1-m2-m3.png",
+    "notes/Biologie.md",
+    "notes/Biogéosciences.md",
+    "CPES.md",
+    "notes/Physique-chimie.md",
+    "notes/Structure de la matière.md",
+    "notes/Thermodynamique chimique d'un système fermé.md",
+    "attachements/redox-vertical-postd.png",
+    "notes/Biochimie.md",
+    "notes/électrophorèse.md",
+    "notes/point isoélectrique.md",
+    "attachements/diagrame-acide-base-swittérion.png",
     "attachements/Pasted image.png",
+    "notes/acido-basique.md",
+    "notes/Géologie.md",
+    "notes/macroéconomie.md",
+    "attachements/m1-m2-m3.png",
     "notes/Economie.md",
     "notes/microéconomie.md",
     "attachements/choc-offre-positive.png",
@@ -189,32 +202,17 @@
     "Pasted image 20250115173041.png",
     "attachements/fonction-production-ql.png",
     "attachements/courbes-production-fonction.png",
-    "CPES.md",
-    "notes/Biogéosciences.md",
-    "notes/Biologie.md",
     "notes/Enzyme.md",
-    "attachements/tp-glocuze-oxydase.png",
     "notes/thermodynamique biologique.md",
     "notes/énergie.md",
     "notes/enthalpie.md",
     "notes/Cellule.md",
-    "notes/Biochimie.md",
-    "attachements/élodée-cellulke.JPG",
-    "attachements/épithélium-buccal.jpg",
     "notes/Ecosystème.md",
     "notes/liaison ioniques.md",
     "notes/valence.md",
     "notes/liaison covalente.md",
     "notes/électrons.md",
-    "notes/Structure de la matière.md",
-    "notes/Physique-chimie.md",
     "notes/Unités de grandeur.md",
-    "notes/Thermodynamique chimique d'un système fermé.md",
-    "notes/polarité.md",
-    "notes/liaison hydrogène.md",
-    "notes/solvant.md",
-    "notes/bicouche lipidique membranaire.md",
-    "notes/lipides.md",
     "questions",
     "smart-chats",
     "Untitled.canvas",

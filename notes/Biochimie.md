@@ -90,6 +90,9 @@ Les acides aminés sont composés d’une chaîne latérale, qui est variable et
 
 ![[acide-aminé.png]]
 
+##### Propriétés acido-basiques
+
+On peut étudier las **acides aminés** dans le cadre des réaction [[acido-basique]] : [[Thermodynamique chimique d'un système fermé#Acides aminés]]
 ##### Peptides
 
 Les acides aminés se lient par une liaison peptidique. Il forment alors des polymères appelés **peptides**.

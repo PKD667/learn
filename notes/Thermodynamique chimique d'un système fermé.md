@@ -14,11 +14,11 @@ Une réaction est **thermodynamiquement défavorable** si sa constante d'équili
 Si le **coefficient de réaction** est *inférieur* à la constante d'équilibre ($Q_r < K^0$, la réaction va évoluer dans le **sens direct**.
 Si le **coefficient de réaction** est *supérieur* ($Q_r > K^0$, la réaction va évoluer dans le **sens indirect**.
 
-#### Réaction *très* défavorable
+#### Réaction *très défavorable*
 
 Si la constante d'équilibre est *très petite* ($K^0 < 10^{-3}$), il s'agit d'une réaction limitée, et on pourra alors utiliser l'**approximation de faible avancement à l'équilibre ($\xi_{éq} \ll n_0$)**. 
 
-#### Réaction *très* favorable
+#### Réaction *très favorable*
 
 Si la constante d'équilibre est *très grande* ($K^0 > 10^{-3}$), il s'agit d'une réaction quantitative, et on pourra alors utiliser l'**approximation de fort avancement à l'équilibre ($\xi_{éq} \gg n_0$)**. 
 
@@ -87,23 +87,95 @@ Les **acides forts** et les **bases fortes** sont les espèces dont la **réacti
 
 Ils sont donc totalement dissociés.
 
-### États final 
+### État final
 
-#### $pH$
+#### $pH$ et $pOH$
 
-Une solution aqueuse est caractérisée par son $pH$ :
-$$ pH = -\log ~[H_3O^+]$$
-De même :
-$$ pOH = - \log~ [HO^-]$$
-##### Relations
-$$pK_e = pH + pOH$$
+On peut caractériser une solution aqueuse en fonction de son **acidité** et de la **basicité** grace à deux indicateurs :
+ 1. Le $pH$ qui mesure la concentration en **ions oxonium** ($H_30^+$) qui s'exprime $pH = -\log ~[H_3O^+]$
+ 2. Le $pOH$ qui mesure la concentration en **ions hydroxyde** ($HO^-$) qui s'exprime $pH = -\log ~[HO^-]$
+
+Ces deux grandeurs sont liées par une relation inverse de proportionalité. $pK_e = pH + pOH$
+
+De plus, on peut lier le $pH$ au $pK_A$ des solutés par la relation d'Henderson-Hasselbalch :
 $$pH = pK_A + \log\frac{[A^-]_{éq}}{[AH]_{éq}}$$
+
+Cette relation est vraie pour tout système à l'**équilibre thermodynamique**, indépendamment du nombre de composés chimiques.
+
 
 #### Diagramme de prédominance
 
 Un diagramme de prédominance montre le rapport entre la base et l'acide d'un couple en fonction du $pH$.
 
 ![[prédomiance.png]]
+
+### Méthodes
+
+Dans le cadre de l'analyse thermodynamique d'un système chimique, il faut pouvoir déterminer la valeur des grandeurs qui le définissent à son état final. Ainsi, on va devoir obtenir la concentration des différents éléments et le $pH$ de la solution après une réaction.
+
+#### Identifier les espèces
+
+1. Dans le cas d'acides et de bases **forts**, il faut noter qu'il sont **entièrement dissociés** et noter les produits de cette décomposition.
+2. De même, les **sels** sont aussi entièrement dissociés
+#### Calculer les concentration 
+
+Après l'addition d'espèce chimiques à une solution, le volume total va varier, et donc modifier les valeurs initiales de concentration. Il faut donc les recalculer en fonction du *nouveau* volume total.
+#### Axe de $pK_A$ 
+
+Avant de déterminer les réaction, il est pratique de tracer un axe vertical des $pK_A$ qui comprends **toutes les espèces** présentes dans la solution, sans oublier les **deux couples de l'eau**.
+#### Identifier la réaction
+
+Pour étudier le système, il va d'abord falloir identifier la réaction qui se produit. Il va toujours s'agir de la réaction la plus **thermodynamiquement favorable** c'est à dire celle entre la **base** du couple avec le $pK_A$ le plus élevé et l'**acide** du couple avec le $pK_A$ le plus faible.
+
+Ensuite, il va falloir en calculer la **constante d'équilibre** $K^0$.
+
+#### Tableau d'avancement
+
+Afin de déterminer la composition à l'équilibre, il faut dresser un **tableau d'avancement** qui détail les variation dans les concentrations des solutés. 
+
+Si possible, il faudra faires des **hypothèses simplificatrices**:
+ - Hypothèse de **fort avancement**
+ - Hypothèse de **faible avancement**.
+
+#### Composition et $pH$ à l'équilibre
+
+On peut maintenant enfin noter la composition à partir du tableau d'avancement et calculer le $pH$ à l'équilibre.
+
+### Solutions tampons
+
+On appelle **solution tampon** une solution dont le $pH$ varie très peu si il y a addition d'*acide* ou de *base*. Elle est caractérisée par son **pouvoir tampon** ($\beta$) :
+$$ \beta = \frac{dC_{\text{base}}}{d\text{pH}} = \frac{dC_{\text{acide}}}{d\text{pH}}$$
+Le pouvoir tampon représente le **taux de change** du $pH$ en fonction d'addition d'a*acide* ou de *base*. Plus $\beta$ est grand, plus le tampon est **efficace**.
+
+L'idée de **solution tampon** est très utile en [[Biochimie]] car les espèces étudiées ne peuvent exister que dans un intervalle restreint de $pH$. Ainsi, le *sang humain* est une solution tampon qui varie uniquement entre $7.37$ et $7.43$.
+
+### Acides aminés
+
+Un [[Biochimie#Acides aminés]] est une molécule qui comporte, sur un même atome deux carbone, un groupe *acide carboxylique* et un groupement *amine*.
+
+Ces deux groupement ayant des propriétés *acido-basiques*, les **acides aminés** sont caractérisés par **deux valeurs de $pK_A$.
+
+Dans une solution, un **acide-aminé** réagit avec lui même et se transforme en **amphion** ou **swittérion**. Ainsi, il va se comporter comme une **base** dans un milieu **acide** et comme un **acide** dans un milieu **basique**. 
+
+Il va donc avoir un diagramme de prédominance en trois parties : 
+1. $pH < pK_1$ : il réagit comme base et prédomine en acide $AH^+_2$ 
+2. $pK_1 < pH < pK_2$ : il reste sous forme de **swittérion** $AH^\pm$ 
+3. $pK_2 < pH$ : il réagit comme acide et prédomine en base $A^-$
+
+![[diagrame-acide-base-swittérion.png]]
+
+#### $pH$ d'une solution d'acide aminé
+
+L'**amphion** est un ampholyte. On peut déterminer le $pH$ d'une solution avec la relation $pH = \frac{1}{2}(pK_{A,1} + pK_{A,2})$
+
+
+#### Électrophorèse
+
+L'**amphion** est un espèce électriquement neutre, sa **conductivité** est nulle. Ainsi, dune modification du $pH$ entraînant une dissociation de l'**amphion** va fortement augmenter la conductivité de la solution.
+
+Le [[point isoélectrique]] d'une solution d'acide aminé est représenté par le $pH$ pour lequel il existe uniquement sous forme de **swittérion** donc $pI = \frac{1}{2}(pK_{A,1},pK_{A,2})$
+
+Ainsi, l'[[électrophorèse]] peut nous permettre d'**analyser** une solution d'acide aminé et de **séparer** les constituant d'un mélanges de plusieurs *acides aminés*.
 
 # Réaction d’oxyde-réduction
 
@@ -113,18 +185,64 @@ Un **réducteur** est une espèce qui peut *céder* un ou plusieurs **électrons
 L'association d'un oxydant et d'un réducteur forme un **couple rédox** symbolisé par l'équation :
 $$\text{Ox} + ne⁻ = \text{Red}$$
 
-#### Cas de l'eau
-
-L'eau intervient dans deux réactions :
- - $H_2O/H_2$ ou $H^+/H_2$  
- - $O_2/H_2O$
-
-Ainsi, elle est l'**oxydant** d'un couple  et le **réducteur** d'un autre. Ilm s'agit donc d'un **ampholyte redox**
+>[!cas de l'eau]
+>L'eau intervient dans deux réactions :
+> - $H_2O/H_2$ ou $H^+/H_2$  
+> - $O_2/H_2O$
+> 
+> Ainsi, elle est l'**oxydant** d'un couple  et le **réducteur** d'un autre. Ilm s'agit donc d'un **ampholyte redox**
 
 ### Nombres d'oxydation
 
 Un élément dans une *espèce chimique* est caractérisé par son **nombre d'oxydation** qui reflète son état d'oxydation. Il s'agit d'un nombre entier noté en *chiffres romains*. Le **nombre d'oxydation** d'un élément varie en fonction de l'espèce chimique à laquelle il est associé.
 
+En général on à $\text{no.}(O) = -II$ et $\text{no.}(H) = +1$.
 
+### Réactions
 
+On ne peut pas avoir d'[[électrons]] libres en solution. Pour qu'une réaction d'**oxydo-réduction** se produise il faut deux couple $\text{Ox}/\text{Red}$ qui s'échanges des électrons entre le **réducteur** d'un des couples et l'**oxydant** de l'autre.
 
+$$ \alpha~\text{Ox}_1 + \beta~\text{Red}_2 \rightleftarrows \beta'~\text{Red}_1  + \alpha' \text{Ox}_2$$
+
+Les transferts d'électrons peuvent avoir lieu directement dans la solution, ou passer par un **circuit électrique**. 
+
+Lorsqu'un *ampholyte redox* réagit sur lui même, il s'agit d'une réaction de **dismutation** et la réaction inverse une **médiamutation**.
+
+Une réaction d'**oxydation** d'un élément entre deux espèces d'une couple *redox* se traduit par une **augmentation** de son nombre d'oxydation. De même une réaction de **réduction** d'accompagne d'une **diminution** de son nombre d'oxydation.
+
+### Potentiel redox
+
+Un **couple redox** est caractérisé par un **potentiel redox**. Il s'agit d'une grandeur thermodynamique exprimée en *volts* ($V$). On ne peut pas le mesurer directement, on ne peut en mesurer qu'une différence. Il dépends des conditions expérimentales comme la **concentration** des solutés ou la **pression partielle** des composés gazeux. 
+
+Le **potentiel redox** ($E_{\text{Ox}/\text{Red}}$) est défini par la **relation de Nernst** : $$ E_{\text{Ox}/\text{Red}} = E^0_{\text{Ox}/\text{Red}} + \frac{RT}{nF}\ln\Bigg(\frac{\Pi_{i,\text{Ox}}a_i^{\alpha_i}}{\Pi_{i,\text{Red}}a_i^{\alpha_i}}\Bigg)$$
+ - $E^0_{\text{Ox}/\text{Red}}$ représente le **potentiel standard** ($V$)
+ - $R$ est la **constante des gaz parfaits** ($8.31 \frac{J}{K\times\text{mol}}$)
+ - $T$ est la **température** du système ($K$)
+ - $F$ est la **constante de Faraday** ($96500~C$)
+ - $n$ est le nombre d'[[électrons]] échangés entre l'oxydant et de réducteur.
+ - $a_i$ représente les **activités** des espèces 
+ - $\alpha_i$ représente les **coefficients stœchiométriques** des espèces 
+
+En pratique, à $25°C$ et avec le $\log$ décimal on obtient: $$E_{\text{Ox}/\text{Red}} = E^0_{\text{Ox}/\text{Red}} + \frac{0.059}{n}\log\Bigg(\frac{\Pi_{i,\text{Ox}}a_i^{\alpha_i}}{\Pi_{i,\text{Red}}a_i^{\alpha_i}}\Bigg)$$
+
+Le **potentiel standard** d'un *couple redox* correspond au *potentiel redox* des différents constituants du couple dans leur *état standard*.
+
+> [!Analogie avec l'acido-basicité]
+> Le **potentiel standard** d'un couple *redox* est similaire au $pK_A$ d'un couple [[acido-basique]], le **potentiel redox** est similaire au $pH$.
+
+#### Influence du $pH$
+
+Le $pH$ peu avoir une influence sur le potentiel standard. On parle alors de **potentiel standard apparent**, qui représente la valeur du **potentiel standard** ajusté pour $pH$.
+### Classement
+
+On peut classer les différent *couples redox* selon leur **pouvoir d'oxydo-réduction** grâce à leur **potentiel standard**.
+
+Ainsi, plus un couple à un **potentiel standard** élevé, plus la puissance de son **oxydant** est élevée. A l'inverse, plus le **potentiel standard** est faible plus la puissance de son réducteur est élevée.
+
+On peut placer les *couples redox* sur une échelle verticale :![[redox-vertical-postd.png]]
+
+Dans le cas d'une **réaction redox**, l'***oxydant** le plus fort* va réagir avec le ***réducteur** le plus fort*. C'est à dire l'**oxydant** du couple au *potentiel standard* le plus fort et le **réducteur** du couple au *potentiel standard* le plus faible.
+
+### Étude thermodynamique
+
+On peut déterminer la **constante d'équilibre** d'une réaction *redox* grâce à la **relation de Nernst**.  En effet, dans une réaction les *potentiels redox* des différents couple sont égaux. 

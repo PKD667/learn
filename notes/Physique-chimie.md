@@ -1,7 +1,4 @@
 
-# Analyse dimensionnelle et présentation d'un résultat numérique 
-
- 1. [[Unités de grandeur]]
 # [[Structure de la matière]]
 
 # [[Signaux mécaniques et lumineux]]

@@ -28,6 +28,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
+      
+      - name: Move custom config
+        run: |
+          mv content/.quartz/* quartz/
 
       - name: Move your content into Quartz
         run: |
