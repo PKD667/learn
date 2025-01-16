@@ -12,7 +12,10 @@ Plus généralement, pour tout $m,n$ de $\mathbb{Z}$ tels que $m \leq n$, $\disp
 *Somme de gauss*
 
 Pour tout $n \in \mathbb{N}^\star$, $\displaystyle\sum_{k=0}^{n} k = \frac{n(n+1)}{2}$ 
-Plus généralement, pour tout $m,n$ de $\mathbb{Z}$ tels que $m \leq n$, $\displaystyle\sum_{k=m}^{n}k = \frac{(n-m+1)(n+m)}{2}$
+Plus généralement, pour tout $m,n$ de $\mathbb{Z}$ tels que $m \leq n$ :
+$$
+\displaystyle\sum_{k=m}^{n}k = \frac{(n-m+1)(n+m)}{2}
+$$
 
 #### Somme géométrique
 
