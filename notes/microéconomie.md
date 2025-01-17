@@ -249,7 +249,9 @@ et
 $$ \frac{\partial Q}{\partial K} = \beta\times K^{\alpha-1} \times L^\beta = \alpha\times \frac{Q}{K}$$
 
 De plus, avec l'hypothèse des **productivités marginales décroissants** on a $f$ convexe et les *dérivées secondes* négatives :
-$$ \begin{cases}
+
+$$ 
+\begin{cases}
 \frac{\partial Q_2}{\partial L_2} < 0 \\
 \frac{\partial Q_2}{\partial K_2} < 0
 \end{cases}

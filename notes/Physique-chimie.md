@@ -3,7 +3,7 @@
 
 # [[Signaux mécaniques et lumineux]]
 
-# [[Thermodynamique chimique d'un système fermé]]
+# [[Thermodynamique chimique]]
 
 # [[Thermodynamique physique des systèmes fermés]]
 

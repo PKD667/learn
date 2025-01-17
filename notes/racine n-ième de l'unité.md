@@ -5,11 +5,13 @@ Soit $n\in\mathbb N$, on appel racine $n^{\text {ieme}}$ de l'unité, l'ensemble
 #### Résolution de l'équation :
 
 Comme $z\in\mathbb C$, il peut s'écrire de la forme : 
+
 $$
 z=re^{i\theta}
 $$ où $r\ge 0$ et $\theta\in [0;2\pi[$ 
 
 On a donc :
+
 $$
 (re^{i\theta})^n=e^{i0}\iff re^{i\theta n}=e^{i0}
 \iff\left\{\begin{array}l
@@ -38,6 +40,7 @@ Ainsi, les solutions de $z^n=1$ sont de la forme $z=1\cdot e^{i\frac{2k\pi}{n}}$
 $$où $q\in\mathbb Z$ et $r\in [\![0;n-1]\!]$ 
 
 On a :
+
 $$
  z=e^{i\frac{2(nq+r)\pi}{n}}=e^{i\frac{2\pi nq+2r\pi }{n}}=e^{i2\pi q}\cdot e^{i\frac{2r\pi }{n}}, q \in \mathbb Z
 $$
