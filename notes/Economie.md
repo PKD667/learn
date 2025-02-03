@@ -121,6 +121,9 @@ Si vous voulez manger une pizza et vous rentrez dans un glacier vous n'êtes pas
 
 ## La [[microéconomie]]
 
+### [[économie publique]]
+
 ## La [[macroéconomie]]
+
 
 

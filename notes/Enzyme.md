@@ -71,6 +71,7 @@ Par example, l'enzyme *glucose oxydase* permet uniquement au *glucose* de réagi
 
 ![[tp-glocuze-oxydase.png]]
 
+
 ### Inhibiteurs
 
 L'action de **catalyse** des enzymes pet être freinée par l'action des **inhibiteurs**. Il s'agit de molécules qui vont agir sur l'enzyme et en perturber les interaction avec le substrat. Il en existe deux types.

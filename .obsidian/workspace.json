@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/microéconomie.md",
+                "file": "notes/philosophie de l'écologie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "microéconomie"
+              "title": "philosophie de l'écologie"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -176,33 +177,33 @@
   },
   "active": "2d32b5a00825486d",
   "lastOpenFiles": [
-    "notes/Economie.md",
+    "notes/Philosophie.md",
     "CPES.md",
-    "notes/Cinétique chimique.md",
-    "notes/coefficient stœchiométrique algébrique.md",
-    "notes/Dérivation.md",
-    "notes/Thermodynamique chimique.md",
+    "notes/économie publique.md",
+    "notes/Economie.md",
+    "notes/protéine.md",
+    "notes/biochimie.md",
+    "notes/bochimie.md",
+    "notes/chimie organique.md",
     "notes/Physique-chimie.md",
-    "notes/racine n-ième de l'unité.md",
-    "notes/théorème de Bézout.md",
-    "notes/transition de phases.md",
-    "notes/Simulation.md",
-    "notes/physique statistique.md",
-    "notes/systèmes analogiques.md",
+    "notes/probabilité.md",
+    "notes/Entropie.md",
+    "notes/information.md",
     "Misc.md",
-    "notes/Sommes et produits classiques.md",
-    "notes/loi de composition interne.md",
-    "notes/arithmétique.md",
-    "notes/valeur absolue.md",
+    "notes/philosophie de l'écologie.md",
+    "notes/Cellule.md",
+    "notes/membrane plasmique.md",
+    "notes/Biologie.md",
+    "notes/Biogéosciences.md",
+    "notes/énergie interne.md",
+    "notes/enthalpie.md",
+    "notes/transfert thermique.md",
+    "notes/énergie.md",
+    "notes/microéconomie.md",
+    "notes/Thermodynamique physique des systèmes fermés.md",
+    "notes/Signaux mécaniques et lumineux.md",
+    "notes/Behaviorisme, anthropomorphisme et anthropodéni.md",
     "attachements/abs-val-graph.svg",
-    "notes/zones de subduction.md",
-    "notes/zones de collision.md",
-    "notes/valence.md",
-    "notes/Usage des données.md",
-    "notes/Unités de grandeur.md",
-    "notes/union.md",
-    "notes/traduction de l'arn.md",
-    "notes/topographie sismique.md",
     "attachements/sine-graph.svg",
     "attachements/redox-vertical-postd.png",
     "attachements/diagrame-acide-base-swittérion.png",

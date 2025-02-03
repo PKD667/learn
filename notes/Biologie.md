@@ -6,7 +6,7 @@ Cellules -> Tissus -> Organes
 **Population**: ensemble d'individus qui vivent au même endroit au même moment.
 
 La biologie peut étudier différentes échelles:
- - Echelle de l'atome / molécule: [[Biochimie]]
+ - Echelle de l'atome / molécule: [[biochimie]]
  - Echelle de la cellule: [[Biologie Cellulaire]]
  - Echelle du tissu: [[Histologie]]
  - Echelle de l'organe, de l'appareil ou de l'organisme: [[Physiologie]] *(Anatomie)*
@@ -32,7 +32,7 @@ La biologie peut étudier différentes échelles:
 
 # [[Ecosystème prairial]]
 
-# [[Biochimie]]
+# [[biochimie]]
 
 ### [[Enzyme]]
 

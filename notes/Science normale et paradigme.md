@@ -1,4 +1,4 @@
-La **science normale** c'est le type de recherche qui repose sur le partage d'un paradigme commun, reconnu, et non-remis en question par l'ensemble de la communauté scientifique concernée par ce champ de recherche.
+ La **science normale** c'est le type de recherche qui repose sur le partage d'un paradigme commun, reconnu, et non-remis en question par l'ensemble de la communauté scientifique concernée par ce champ de recherche.
 
 ### Passage de la *pré-science* à la science normale
 

@@ -505,4 +505,5 @@ On peut représenter l'épargne par une droite.
 
 ### Analyse macroéconomique de la consommation
 
-On peut essayer d'établir une relation entre 
+*???*
+

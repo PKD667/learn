@@ -120,13 +120,13 @@ Nous ne connaissons le réel que dans les conditions qui sont les nôtres, à tr
 **Catégories**
 
 
-En soi, la réalité ne possède aucune de ces formes, l'Espace out le Temps n'ont pas d'Absolu. 
+En soi, la réalité ne possède aucune de ces formes, l'Espace ou le Temps n'ont pas d'Absolu. 
 
 La **chose en soi** est méconnaissable, on doit l'admettre comme étant au fondement des phénomènes, mais que l'on ne peut jamais atteindre. On ne peut pas faire l'experience d'un object qui n'occuperait aucune temps ni aucun espace.
 
 La chose en soi se phénoménalisme lorsqu'elle entre en contact avec le sujet humain, c'est à dire que nous lui donnons les formes de notre pensée. C'est cette phénoménalité que nous connaissons. C'est la que peut se déployer la totalité de notre connaissance.
 
-La **chose en soi** c'est la source des phénomènes qui n'entre pas dans le scope de nos connaissances. Une phénomènes c'est donc la représentation q'une chose en soi produit en nous lorsqu'elle affecte nos sens.
+La **chose en soi** c'est la source des phénomènes qui n'entre pas dans le scope de nos connaissances. Une phénomènes c'est donc la représentation qu'une chose en soi produit en nous lorsqu'elle affecte nos sens.
 
 La connaissance des phénomènes est objective au sens ou elle est nécessaire et universelle pour tout les être raisonnables finis.
 
@@ -162,8 +162,11 @@ D'après Kuhn, il n'est pas possible de réduire le phénomène de révolution s
 
 Chaque interprétation ne fonctionne que parce qu'un paradigme à déjà été accepté, est déjà en train de fonctionner. De fait, l'interprétation relève ainsi déjà de la science normale. L'interprétation des données peut améliorer le paradigme mais elle ne peut pas le corriger / remettre en question.
 
-## Chapitre 4
 
-### [[Behaviorisme, anthropomorphisme et anthropodéni]]
+
+## [[Behaviorisme, anthropomorphisme et anthropodéni]]
 
 ### [[Oeuvres second semestre]]
+
+## [[philosophie de l'écologie]]
+

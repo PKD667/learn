@@ -148,13 +148,13 @@ On peut maintenant enfin noter la composition à partir du tableau d'avancement 
 
 On appelle **solution tampon** une solution dont le $pH$ varie très peu si il y a addition d'*acide* ou de *base*. Elle est caractérisée par son **pouvoir tampon** ($\beta$) :
 $$ \beta = \frac{dC_{\text{base}}}{d\text{pH}} = \frac{dC_{\text{acide}}}{d\text{pH}}$$
-Le pouvoir tampon représente le **taux de change** du $pH$ en fonction d'addition d'a*acide* ou de *base*. Plus $\beta$ est grand, plus le tampon est **efficace**.
+Le pouvoir tampon représente le **taux de change** du $pH$ en fonction d'addition d'*acide* ou de *base*. Plus $\beta$ est grand, plus le tampon est **efficace**.
 
-L'idée de **solution tampon** est très utile en [[Biochimie]] car les espèces étudiées ne peuvent exister que dans un intervalle restreint de $pH$. Ainsi, le *sang humain* est une solution tampon qui varie uniquement entre $7.37$ et $7.43$.
+L'idée de **solution tampon** est très utile en [[biochimie]] car les espèces étudiées ne peuvent exister que dans un intervalle restreint de $pH$. Ainsi, le *sang humain* est une solution tampon qui varie uniquement entre $7.37$ et $7.43$.
 
 ### Acides aminés
 
-Un [[Biochimie#Acides aminés]] est une molécule qui comporte, sur un même atome deux carbone, un groupe *acide carboxylique* et un groupement *amine*.
+Un [[biochimie#Acides aminés]] est une molécule qui comporte, sur un même atome deux carbone, un groupe *acide carboxylique* et un groupement *amine*.
 
 Ces deux groupement ayant des propriétés *acido-basiques*, les **acides aminés** sont caractérisés par **deux valeurs de $pK_A$.
 
@@ -174,7 +174,7 @@ L'**amphion** est un ampholyte. On peut déterminer le $pH$ d'une solution avec 
 
 #### Électrophorèse
 
-L'**amphion** est un espèce électriquement neutre, sa **conductivité** est nulle. Ainsi, dune modification du $pH$ entraînant une dissociation de l'**amphion** va fortement augmenter la conductivité de la solution.
+L'**amphion** est un espèce électriquement neutre, sa **conductivité** est nulle. Ainsi, une modification du $pH$ entraînant une dissociation de l'**amphion** va fortement augmenter la conductivité de la solution.
 
 Le [[point isoélectrique]] d'une solution d'acide aminé est représenté par le $pH$ pour lequel il existe uniquement sous forme de **swittérion** donc $pI = \frac{1}{2}(pK_{A,1},pK_{A,2})$
 
@@ -193,7 +193,7 @@ $$\text{Ox} + ne⁻ = \text{Red}$$
 > - $H_2O/H_2$ ou $H^+/H_2$  
 > - $O_2/H_2O$
 > 
-> Ainsi, elle est l'**oxydant** d'un couple  et le **réducteur** d'un autre. Ilm s'agit donc d'un **ampholyte redox**
+> Ainsi, elle est l'**oxydant** d'un couple  et le **réducteur** d'un autre. Il s'agit donc d'un **ampholyte redox**
 
 ### Nombres d'oxydation
 
@@ -264,7 +264,7 @@ La mise en place d'une *réaction redox* crée une différence de potentielle en
 
 Une **pile** est donc composée d'une **anode**, c'est à dire la partie ou se produit l'**oxydation** et d'une **cathode** ou se produit la **réduction**.
 
-La **force électromotrice** désigne la tension électrique défnie par la différence de potentiel entre les deux **demi piles** ($e = E_+ - E_-$)
+La **force électromotrice** désigne la tension électrique définie par la différence de potentiel entre les deux **demi piles** ($e = E_+ - E_-$)
 
 #### Capacité
 
@@ -274,7 +274,7 @@ $$Q = n_{e⁻} \times \mathscr{F} = n ~\xi~ \mathscr{F} $$
  -  $\mathscr{F}$ étant la constante de Faraday ($96500\frac{C}{\text{mol}}$)
  - $n_{e^-}$ étant le nombre d'électrons ayant circulé
  - $n$ étant le nombre d'électrons échangés entre les couple dans la réaction
- - $\xi$ étant l'avancement molaire 
+ - $\xi$ étant l'avancement molaire à la fin
 
 On peut donc aussi écrire $Q = I \times \Delta t$
 

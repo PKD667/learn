@@ -1,0 +1,1 @@
+Le **transfert thermique** est une notion thermodynamique qui représente l'énergie apportée à un système thermodynamique par sous forme d'**énergie thermique**.

@@ -90,7 +90,7 @@ Ainsi, puisque l'expérience sur le vivant affecte son object, on ne peut pas y 
 
 ### Uexküll et les mondes animaux
 
-**Jakob  on Uexküll** est un biologiste allemand, spécialiste de physiologie musculaire et de faune marine.
+**Jakob  von Uexküll** est un biologiste allemand, spécialiste de physiologie musculaire et de faune marine.
 
 En **1934** il publie un livre d'éthologie intitulé *Streifzüge durch die Umwelten von Tieren und Menschen*. Il y introduit et développe le concept d'*Umwelt*, qu'on peut traduire par *milieu*, *monde environnant* ou *monde propre*.
 

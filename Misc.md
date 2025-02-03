@@ -8,6 +8,8 @@
 
 ### [[Category theory]]
 
+### [[Entropie]]
+
 # Projects
 
 [[Simulation]]

@@ -19,3 +19,4 @@ Ainsi, on obtient $-log(p)$ comme la seule fonction qui rempli ces critères.
 ##### Variation
 
 L'information dépend de la quantité d'inconnu. En effet, beaucoup de *données* sur un événement sur lequel on à déjà beaucoup d'*information* représente moins d'*information* que sur un événement qui comporte beaucoup d'inconnues.  Autrement dit, limiter le nombre de choix possible lors d'un événement probabiliste réduit la quantité d'information obtenu par la connaissance d'un résultat.
+
