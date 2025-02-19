@@ -51,3 +51,8 @@ $$
 #### Solutions d'un système
 
 #### Pivot de Gauss
+
+### Polynômes
+
+1. [[factorisation de polynômes]]
+2. 

@@ -5,7 +5,7 @@
   "randomizeQuestions": true,
   "language": "French",
   "provider": "OPENAI",
-  "openAIApiKey": "sk-svcacct-zrdMv8bUQjbWLL5lLwQQ0UbUg8G0FfikfUdcBB-TEfQsHhT3BlbkFJJJBhcUeTJ_SmhFxUrqj3ESSFnXMym_TWQ6UzE2QvFahPwA",
+  "openAIApiKey": "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",
   "openAIBaseURL": "https://api.openai.com/v1",
   "openAITextGenModel": "gpt-4o",
   "openAIEmbeddingModel": "text-embedding-3-large",

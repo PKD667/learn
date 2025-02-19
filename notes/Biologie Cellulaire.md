@@ -1,1 +1,1 @@
-Les **cellules** ont un [[noyau cellulaire]], une [[mitochondrie]] et un [[cytoplasme]]. Le vivant est constitué de **cellules**. Les cellules sont l'unité structurelle du vivant.
+Les [cellules](cellule) ont un [[noyau cellulaire]], une [[mitochondrie]] et un [[cytoplasme]]. Le vivant est constitué de **cellules**. Les cellules sont l'unité structurelle du vivant.

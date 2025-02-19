@@ -236,6 +236,10 @@ Les **acides aminés** sont composés d'une chaîne carbonée et deux deux group
  - Fonction **acide**
  - Fonction **amine**
 
+On parle d'acide $\alpha$-aminé lorsque les deux groupements de fonctions sont sur le même carbone, qui sera alors nommé **carbone $\alpha$.**
+
+
+
 Les molécules hydrophobes forment de liaisons spécifiques entre elles.
 
 Les acides aminés sont composés d’une chaîne latérale, qui est variable et qui détermine la nature et les propriétés de l'acide aminé. On nome cette chaîne latérale, ou radical ***R***
@@ -259,5 +263,5 @@ La différence entre le vivant et le non-vivant à l’échelle cellulaire, c'es
 
 Chez les animaux, la **pression** est faible, la température est **relativement faible** et le réaction se font des des milieus **dilués**. Ces conditions ne semblent pas très propices aux réactions chimiques, qui doivent donc être **catalysées**.
 
-Les **bio-catalyseurs** sont qualifiés d'**[enzymes](Enzyme)** et sont essentiels au développement du vivant.
+Les **bio-catalyseurs** sont qualifiés d'**[enzymes](enzyme.md)** et sont essentiels au développement du vivant.
 

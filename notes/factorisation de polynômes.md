@@ -1,0 +1,1 @@
+On peut factoriser un [[polynôme]] $\mathbb{K}[X]$ 
