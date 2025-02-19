@@ -485,6 +485,12 @@ Il existe plusieurs mode d'approvisionnement en matière organique, d'abord par 
  - Stockage en vue d'être re-mobilisé plus tard
  - Transport
 
-### Catabolisme et production d'énergie chimique
+## Catabolisme et production d'énergie chimique
 
+On peu distinguer deux formes de catabolisme :
+- **Anaérobie** c'est à dire en l'absence de dioxygène, comme la fermentation.
+- **Aérobie** c'est à dire en présence et à l'aide de dioxygène, comme la respiration cellulaire.
+
+On va parler de catabolisme oxydation, qui est caractérisé par un processus d'oxydation du carbone organique. Cette oxydation peut être partielle, ou totale.
+### La fermentation
 
