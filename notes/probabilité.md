@@ -17,7 +17,14 @@ La vision **bayésienne** considère les probabilités comme des **estimations**
 
 Cette interprétation mets en avant la **mise à jour** de l'*a priori* par rapport à des données nouvelles. 
 
+# Probabilité et mesures
 
+On appelle **mesure** sur un ensemble $X$ une function qui lie un nombre $m(S) \in [0,\infty]$ à des sous ensembles $S \subseteq X$ dit *mesurables*. 
 
+Cette mesure est définie par trois critères :
+1. $\emptyset,X \subseteq X$ sont *mesurables* et $m(\emptyset) = 0$
+2. Si $S,T \subseteq X$ sont mesurables alors $T-S$ est mesurable et $\displaystyle m(T) = m(S) + m(T-S)$ 
+3. Pour toute *collection comptable* de sous-ensembles $S_i \subseteq X$ sont *mesurables* alors leur **union** mesurable et  $\displaystyle m \big(  \bigcup^\infty_{i=1}S_i\big) = \sum^\infty_{i=1}m(S_i)$
 
+On dit que $m$ est une *mesure de probabilité* si $m(X) = 1$.
 

@@ -99,3 +99,11 @@ La *wilderness* pose une norme inventée et trop élevée pour définir le natur
 
 Cronon ne propose pas d'abandonner l'idée de wilderness, mais plutôt de l'adopter comme un état d'esprit, comme un capacité d'émerveillement qui sert à nous rappeler qu'il existe des êtres et un monde "qui ne sont pas de notre fait".
 
+Pour Latour, il n'y à plus de nature, tout phénomène considéré comme naturelle à la fois cause et conséquence de phénomènes sociaux.
+
+Pour Latour, la modernité à toujours reposé sur une **constitution**, qui définie la division entre *nature et culture*. 
+
+Les crises écologiques se traduisent le plus souvent par la disparation de tout extérieur au monde humain, de toute réserve pour l'action humaine, de toute décharge ou l'on pouvait jusqu'ici *externaliser* les actions.
+
+
+

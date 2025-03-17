@@ -35,3 +35,22 @@ L'oasis est un agrosystème crée par l'homme. Il se développe en région aride
 L'oasis représente un point d'étape en milieu aride, notamment pour les expéditions et les caravanes. 
 
 L'oasis est caractérisée par une végétation spécifique, selectionée pour sa robustesse. Cette végétation par permettre la création d'un microclimat. Ce microclimat va isoler l'agrosystème du reste des conditions pour faire fonctionner un système en circuit fermé.
+
+### Métropole de Lyon
+
+La métropole du grand Lyon fait plein de choses. Elle à pris la place du département. 
+
+#### Sol
+
+Le sol peut être un **support**, on parle alors de sols **foncier**. C'est aussi un matériaux, pour lequel on à des considérations spécifiques.
+
+Le **sol urbain** pose des problématiques liées au fait qu'il est *anthropisé*, *pollué* et *stérile*.
+La loi *ZAN* s'attaque à ces problèmes comme un solution radical à l'artificialisation croissante.
+
+Une **pollution** c'est l'introduction directe ou indirecte par l'activité humaine de substances, préparations, chaleur ou bruit dans l'environnement susceptibles de causer : 
+- Un danger pour la santé de l'homme
+- Des dégradation aux écosystèmes 
+
+La **gestion de la pollution** évolue. 
+
+En 1995, la France a sorti une liste des **points noirs**, composée des $586$ pires sites pollués du pays. En réalité, il existe au moins $400,000$ sites potentiellement pollués en France.

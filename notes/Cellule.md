@@ -492,5 +492,110 @@ On peu distinguer deux formes de catabolisme :
 - **Aérobie** c'est à dire en présence et à l'aide de dioxygène, comme la respiration cellulaire.
 
 On va parler de catabolisme oxydation, qui est caractérisé par un processus d'oxydation du carbone organique. Cette oxydation peut être partielle, ou totale.
-### La fermentation
+###  La fermentation en milieu anaérobie
 
+La fermentation décrit l'ensemble des deux réactions **glycolyse** et **ré-oxydation de coenzymes réduits**.
+
+#### L'oxydation partielle du glucose par la glycolyse
+
+La **glycolyse** est une voie métabolique d'oxydation ménagée du glucose qui se déroule dans le cytosol. Elle comprends $10$ réactions et a pour produit final du **pyruvate**. Ainsi, le nombre d'oxydation du carbone passe de $0$ à $+2/3$. Cette oxydation est partielle.
+
+La réaction d'hydrolyse se déroule en plusieurs étapes qui comprennent des couplage chimio-chimiques, des trans-phosphorylation, des isomérisation,  des oxydations/réductions, lyse, activation : 
+ - $\ce{Glucose \xrightarrow{ATP} Glucose 6-phosphate}$
+ - $\ce{Glucose 6-phosphate \rightarrow Fructose 6-phosphate}$
+ - $\ce{Fructose 6-phosphate \xrightarrow{ATP} Glucose 1,6-biphosphate}$
+ - $\ce{Glucose 1,6-biphosphate \rightarrow G-3P + Dihydroxyacétone phosphate}$
+ - $\ce{G-3P \xrightarrow{\ce{NAD+ + Pi}} 1,3-biphosphoglycérate}$
+ - $\ce{1,3-biphosphoglycérate + ADP \rightarrow 3-phosphoglycérate + ATP}$
+ - $\ce{2-phosphoglycérate \rightarrow Phosphoénolpyruvate+ H2O}$
+ - $\ce{phosphoénolpyruvate + ADP \rightarrow pyruvate + ATP}$
+
+La glycolyse peut se résumer en $3$ étapes :
+1. L'étape d'*investissement d'énergie* par activation
+2. Une réaction d'oxydo-réduction exergonique qui permet la phosphorylation et la formation d'une molécule activée
+3. Synthèse de $4 ~\ce{ATP}$ d'ou le bilan énergétique positif.
+
+Les réactions $1,3,10$ sont des réactions irréversibles. Ces réactions sont spontanées, et très exergoniques. Elles vont **orienter** tout le processus de glycolyse dans le les de la production du pyruvate. Ainsi, le contrôle s'exerce sur ces réactions, et peut ainsi diriger toute la glycolyse.
+
+On peut par exemple s’intéresser au contrôle de la première réaction catalysée par l'**hexokinase**, une enzyme *michaèlienne*. Cette réaction peut être contrôlée à l'aide d'un inhibiteur comme le  $\ce{G-6-P}$, en général non-compétitif.
+
+On peut aussi observer des mécanismes de contrôle dans le déroulement de la réaction $3$, catalysée par la phospho-fructo-kinase, une enzyme *allostérique*. Son activation est controllée par la présence d'**AMP** qui traduit une faible énergie. 
+
+La dernière réaction controllée est la réaction $10$, qui est catalysée par la pyruvate-kinase, une enzyme *allostérique*. Ainsi, elle est inhibée par l'$\ce{ATP}$ Ce mécanisme de contrôle met en évidence la logique de régulation des réactions.
+
+#### ré-oxydation des coenzymes réduits
+
+La fermentation lactique est mise en place par des ferments, qui produisent de l'acide lactique. Cette fermentation se fait aussi notamment dans les *émacies* (globules rouges), ou dans les muscles (crampes).
+
+La fermentation alcoolique, ou *éthanolique* est réalisée par les levures, (*saccharomyceces cerevisiae*). 
+
+La fermentation est la seule voie de synthèse d'ATP en absence d'oxygène.
+
+### Respiration cellulaire en milieu aérobie
+
+La respiration cellulaire peut s'effectuer à partir du glucose, ou à partir d'acide gras. Le glucose peut venir des réserves, comme l'amidon chez les végétaux ou le glycogène chez les animaux et les champignons.
+
+#### L'oxydation partielle du glucose ou des acides gras
+
+##### Glucose
+
+En partant de glucose, la respiration va d'abord mettre en place le processus de **glycolyse** afin d'obtenir une oxydation partielle. Ensuite, le pyruvate va entrer dans la matrice mitochondriale, ou il subira une étape de décarboxylation oxidative, qui va permettre la fixation de l’acétyle coenzyme $A$ sur l'acétyle, à l'aide de l'enzyme de pyruvate déshydrogénase.  L’acétyle coenzyme $A$ possède un liaison riche en énergie entre l’acétyle et le coenzyme $A$. 
+
+Ainsi, la molécule est activée. 
+
+##### Acides gras
+
+Les **acides gras** sont activés dans le cytoplasmes, entrent dans la mitochondrie et subissent une $\beta$-oxydation, qu'on appelle aussi hélice de Lynen. Il y à plusieurs cycle d'oxydation, et a chaque cycle, ils libèrent 2 carbones sous forme de d'acétyle-Co-A et deux enzymes réduits, le $\ce{NADH}$ et le $\ce{FAD,H+}$. 
+
+#### Oxydation totale du carbone par le cycle de Krebs
+
+Quand l'acétyle entre dans le cycle, il libère le CoA et produit un citrate. Ensuite, on va observer le départ de deux carbones oxydés, qui est associé à une réduction de
+
+Ces réaction d'oxydo-réduction sont exergonique et vont permettre la synthèse d'une molécule activée appelée le $\ce{succinyl-coA}$ en passant par la réduction d'un  $\ce{NAD+}$ en $\ce{NADH,H+}$.  Cette molécule activée va permettre par couplage chimio-chimique, la synthèse d'un $\ce{GTP}$ endergonique. 
+
+Ensuite, le cycle va amener la production d'un $\ce{FADH2}$ et d'un autre   $\ce{NADH,H+}$. 
+
+Le transfert des électrons se fait dans le sens des potentiels rédox croissants. Ce transfert est spontané, donc exergonique. $\Delta r G^0$ < 0.
+
+Le transfert des électrons va globalement se faire dans le sens d'une chaîne appelée chaîne respiratoire ou chaîne de transport des électrons. Le transfert exergonique d'électrons est couplé avec le transfert endergonique de $\ce{H+}$ en opposition à son gradient. Plus précisément, $10$ protons seront transférés de la matrices vers l'espace inter-membranaire. A parti du $\ce{FADH2}$ $6$ protons sont transférés. Ainsi, on à un couplage chimio-osmotique entre le transfert des électrons et la mise en place du gradient de $\ce{H+}$.
+
+Ensuite, on à un deuxième couplage, cette fois **osmo-chimique** à travers l'$\ce{ATP-synthase}$ qui va permettre la production d'ATP à partir de l'énergie du gradient de $\ce{H+}$
+
+On à donc finalement $6$ $\ce{ATP}$ par carbone à la fin du processus de respiration.
+
+## Anabolisme et production de molécules organiques
+
+Afin de synthétiser des molécules organiques, plusieurs éléments sont nécéssaire :
+1. Une molécule de base
+2. De l'énergie ($\ce{ATP}$)
+3. Un catalyseur
+
+Il existe donc de nombreuses voies d’inter-conversion entre familles de molécules. par exemple, la voie des pentose phosphate, permet la génération de nucléotides. 
+
+Les acides nucléiques sont produits dans le noyau par le mécanisme de réplication de l'ADN et de transcription pour l'ARN.
+
+Un ribosome c'est une organisme de traduction et l'ADN en ARN.
+
+les **triglycérides** sont composés d'un glycérol et de trois acides gras. Les lipides membranaires sont produits à partir d'acétyle-Co-A. 
+
+---
+
+On observe donc dans ces processus des molécules qui sont au carrefour de plusieurs voies, d'anabolisme ou de catabolisme. On parle donc de **carrefour métabolique**. Les voies métaboliques qui permettent de passer d'une famille de molécules à une autre sont appelée voies de conversion.
+
+## Le stockage l'export et la re-mobilisation des réserves
+
+### Un stockage et re-mobilisation avec approvisionnement discontinu
+
+L'obtention de la matière organique chez les êtres vivant est **discontinu**, que ce soit chez les autotrophes ou les hétérotrophes. 
+
+Ainsi, la formation réserves est nécessaire, afin d'approvisionner la consommation **continue** de matière organique c'est l'être vivant.
+
+Chez les végétaux, l'énergie est stockée sous forme de gros polymères comme l'amidon, notamment dans des organes spécialisés comme l’amyloplaste. Ces réserves sont constituées en été, lorsque le soleil est abondant, et sont mobilisée en hiver et surtout au printemps.
+
+Chez les **hétérotrophes**, le stockage se fait sous forme de glycogène, principalement dans le **foie** et sous forme de tri-glycéride dans les tissus adipeux. Une hormone hypoglycémiante comme l'insuline stimule le stockage du glucose en glycogène. A l'inverse, le glucagon, un hormone hyperglycémiante va stimuler l'hydrolyse du glycogène en glucose. Le glucagon permet l'activation de la glycogène phosphorylase.
+
+Une hormone est une molécule produite par une glande qui à une action sur des processus métaboliques. 
+
+Un **export** est une circulation est nutriment en lien avec la spécialisation fonctionnement des organes. 
+
+Seuls certains organes permettent le stockage, mais tout les organe et les cellules ont besoin d'énergie. Il y aura donc une circulation de la matière organique entre les différents organes, on parle donc de corrélation trophique entre les différents organes.

@@ -507,3 +507,99 @@ On peut représenter l'épargne par une droite.
 
 *???*
 
+# Modéliser la croissance économique
+
+
+Le concept de **croissance économique** est très souvent utilisé dans le débat politique et médiatique contemporain, et est en général présenté comme un fait désirable, un but à atteindre pour tout programme politique.
+
+De manière courante, le terme est entendu comme synonyme d'*enrichissement collectif*, qui conduit donc à une amélioration objective des conditions de vie des populations.  
+
+Néanmoins, cette idée pose de nombreuses question :
+ - Comment un enrichissement apparemment sans limite serait possible ?
+ - Dans quelle mesure représente il un indicateur de *bien être* des population ?
+
+
+> Comprendre les mécanismes  de la croissance économique reste l’un des défis majeurs auxquels est confrontée la théorie  économique. Ce défi est d’autant plus important à relever que la période est marquée par  l’émergence et le développement de technologies génériques perturbant l’ensemble du tissu  économique. Ce défi théorique se double d’un défi politique : comment expliquer le déficit de  croissance des grands pays de l’Union européenne quand les Etats-Unis et les pays émergents en  Asie connaissent des taux de croissance parmi les plus élevés observés dans les économies de  marché.
+>  - Jean-Luc Gaffard
+
+
+## Mesurer la croissance
+
+La **croissance** est généralement définie par les économistes comme la *hausse* soutenue et durable d'un indicateur macroéconomique mesurant le volume de richesse sur un territoire.
+
+Dans l'*économie du XXème siècle*, Francois Perroux en propose une définition :
+> La  croissance économique est l’augmentation soutenue, durant une ou plusieurs périodes longues, des  quantités produites de biens et de services appréhendée par un indicateur de dimension : pour une  nation le produit global brut ou net, en termes réels 
+
+Ainsi, le **taux de croissance** se mesure par la variation relative (dérivée) du Produit Intérieur Brut d'une période sur une autre ($\frac{\mathrm{d}\text{PIB}}{\mathrm{d}x}$).
+
+En 1971, Simon Kuznets en propose une définition élargie :
+> $\text{[La croissance économique]}$ se traduit pour un  pays par la hausse, sur une longue période, de sa capacité à offrir à sa population une gamme sans  cesse élargie de biens économiques. Cette capacité croissante est fondée sur le progrès technique et  les ajustements institutionnels et idéologiques qu’elle requiert
+
+Cette définition semble plus adaptée à des enjeux contemporains comme l'urgence climatique.
+
+Généralement, les économistes utilisent l'indicateur du *taux annuel de variation moyen* (*TVAM*) en parallèle du taux de variation global du PIB sur une période longue. Ce taux est définie par la relation :
+$$
+\text{TVAM} = [\text{Cm}_n^\frac{1}{n} -1]\times 100
+$$
+ - $\text{Cm}_n$ représente le coefficient multiplicateur global connu par le PIB sur la période de $n$ années.
+
+### Croissance et variation de l'activité
+
+Il faut distinguer l'*expansion*, qui désigne un phénomène d'accélération conjoncturelle du rythme d'activité d'un territoire de la *croissance*. L'expansion est en général utilisé dans l'analyse des **fluctuations** de l'économie.
+
+De plus, afin de différencier la croissance de court et de long terme, Arthur Okun crée la notion de **PIB potentiel**, qui désigne la maximum théorique du PIB en fonction d'une certaine force de travail et niveau technologique. Son taux de croissance est mesuré par la **croissance potentielle**. Les économiste analysent la différence entre PIB potentiel et PIB effectif grâce à l'*écart de production* ou *output gap*. 
+
+Plus généralement, on peut considère à l'échelle historique que la croissance potentielle représente la moyenne de la croissance potentielle.
+
+![[croissance-potentielle.png]]
+
+Le calcul de la croissance potentielle utilise des *modèles macroéconomique* qui dépendent du taux de croissance de la population active, du taux d'emploi, du taux de chômage incompressible et du taux de croissance de la productivité.
+
+### Limites de la croissance
+
+La croissance étant un indicateur fortement dépendant du PIB, on peut émettre les même critiques que formulées sur le [PIB](macroéconomie#Produit intérieur brut).
+
+Sur le plan international, les comparaisons de croissance peuvent être fortement impactées par l'évolution du *taux de change* des différentes monnaies.
+
+#### Limites sociales
+
+Comme la croissance est un indicateur indépendant de la répartition sociale des richesses, elle ne prends pas en compte les inégalités, et néglige donc une composante importante du bien être de la population.
+
+Ainsi, même si en général, à l'instar des trente glorieuses, la croissance s'accompagne souvent par l'établissement de normes sociales, rendues possibles par la nouvelle richesse disponible, elle peut aussi représenter le creusement d'un fossé de plus en plus large entre les classes sociales.
+
+Par exemple, les travaux de Thomas Piketty et Emmanuel Saez en France remettent en cause cette liaison positive sur le long terme entre croissance et réduction des inégalités de revenu. En effet, depuis le début des années 80, une tendance assez nette au retour des inégalités semble se confirmer. Piketty insiste sur l'importance des politiques publique, en particulier les politiques fiscales dans leurs actions correctrices des inégalités sociales.
+
+Le FMI va même perler de parler de *croissance économique inclusive*, qui prend en compte le taux d'emploi, les inégalités sociales et les rapports entre les générations.
+
+#### Limites environnementales
+
+En 1972, après des décennies de croyance en une croissance illimitée et absolue, une équipe de chercheurs au MIT sour la direction des époux Donella et Denis Meadows publie un rapport intitulé *The limits of growth* qui à eu un retentissement planétaire et à ouvert la voie à une nombre considérable de publication sur la thématique de insoutenabilité de notre modèle de développement. Ainsi, la *croissance sans limite* devient une idée indéfendable sur les plan politique et scientifique. 
+
+De nos jour, l'analyse économique s'appuie sur l'idée de la *croissance soutenable*, c'est à dire capable de reproduire le stock de capital en compensation du capital détruit lors du cycle de production. Ce principe s'appuie sur l'hypothèse que la réduction du *capital naturel* peut être compensée par une hausse du *capital technologique* sans que cela entraîne une diminution du bien être des génération futures (*règle de Hartwick*). Plus tard, William Nordhaus propose même un modèle qui intègre les externalités négatives consécutives à la dégradation de l'environnement afin de pouvoir comparer les différentes stratégies économiques et leur effets sur le futur.
+
+### Caractéristiques de la croissance
+
+#### Faits stylisés
+
+Plusieurs économistes proposent de caractérisés les *phases* contemporaines de croissance par ce qu'on appelle aujourd'hui des *faits stylisés de croissance*, c'est à dire des éléments empiriques qui s'observent sur le long terme.
+
+Nicholas Kaldor présente les premiers ($5$) fait stylisés, aujourd'hui connus sous le nom de **faits de Kaldor** :
+1. Le *produit par tête* ($\frac{Y}{L}$) augmente continuellement avec la croissance, conduisant ainsi à une hausse de la productivité par unité de travail. Cette hypothèse s'oppose à l'hypothèse des *rendements constants* que l'on retrouve par exemple chez Ricardo.
+2. Le *coefficient d'intensité capitalistique* ($\frac{K}{L}$)augmente, c'est à dire que chaque travailleur utilise de plus en plus de capital pour produire.
+3. Le *coefficient de capital* ($\frac{K}{Y}$), qui correspond au ration entre le stock de capital et la quantité de richesses dans l'économie, c'est à dire le nombre d'unité de capital nécessaires la la production d'une unité de *bien* est stable (autour de $3\$$ de capital pour $1\$$ de biens au États-Unis)
+4. Le *taux de profit*, mesuré par l'excédent brut d'exploitation est stable sur le long terme
+5. Le partage *salaires/profits* est stable sur le long terme, et s'établit autour de $\frac{1}{3}$ capital et $\frac{2}{3}$ travail.
+
+
+Paul Romer et Chad Jones complètent cette analyse de la croissance économique à partir de faits stylisés avec une séries de caractéristiques complémentaire aux pays en croissance. Il vont notamment insister sur le fait que la croissance du XXéme siècle n'a pas seulement été portée par l'accumulation du capital physique, mais surtout par le capital technologique et la hausse de la qualification de la main d'oeuvre qui l'accompagne. 
+De plus, il vont appuyer sur le fait que la croissance longue s'accompagne d'une élargissement des marchés à travers la mondialisation.
+
+#### Frontière technologique et croissance
+
+On définit la **frontière technologique** comme l'ensemble des technologiques efficientes les plus récentes (SOTA). Ainsi, on parle d'un pays à la frontière technologique quand on économie repose sur l’utilisation des technologies les plus récentes
+
+Ce concept est étroitement lié à l'idée de *frontières de possibilité de production*, développé par Paul Samuelson, qui décrit le niveau maximal de richesses que peut produire l'économie dans un territoire lorsqu'elle utilise *toutes les ressources disponibles*.
+
+Depuis 1900, on considère que les États-Unis son le pays situé à la fontière technologique. Dans les pays à la fontière, les possibilités de croissance nécéssitent de repousser cette frontière par l'innovation.
+
+Les pays entrss dans le processus de croissance mais loin de la frontière sont appelés *économie d'imitation*.
