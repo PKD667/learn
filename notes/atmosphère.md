@@ -1,0 +1,32 @@
+
+L'atmosphère terrestre est singulière comparée à celles des autres planètes telluriques. 
+Elle est composée de plusieurs éléments :
+ - $78\%$ de diazote ($\mathrm{N_2}$)
+ - $21\%$ d'oxygène ($\mathrm{O_2}$)
+ - $0.9\%$ d'Argon ($\mathrm{Ar}$)
+ - $0.004\%$ de dioxyde de Carbone ($\mathrm{CO_2}$)
+
+# Une atmosphère stratifiée
+
+L'atmosphère est divisée en plusieurs couches, qui s'étalent de 0 à 500 kilomètre d'altitude.
+
+Le bas de l'atmosphère, dans lequel se déroulent tout les phénomènes météorologiques comment les vents et les nuages s'étends de $0$ à $12$ kilomètres, c'est la **troposphère**.
+
+Au dessus, on trouve la **stratosphère**, qui abrite la couche d'ozone. Ainsi, par absorption des rayonnements ultraviolets par l'ozone ($O_3$) la stratosphère de réchauffe, et nous protège de irradiation.
+
+Au dessus on peut retrouver la **mésosphère** la **thermosphère** et l'**ionosphère** qui forme la frontière de l'espace.
+
+La composition de ces strates dépends directement de la densité des différents composés de l'atmosphère. Ainsi, l'atmosphère est globalement stable, bien qu'on observe tout de même des mouvement, notamment liés à la remontée d'air chaud ou de vapeur.
+
+Ces dynamiques sont variables, et dépendent de la stabilité relative de l'atmosphère à un moment donné. Ainsi, dans certains conditions , on pourra observer des stratus, ou des cumulus.
+
+# Une atmosphère dynamique
+
+Lors de l'arrivée sur terre de la radiation solaire, elle est absorbée puis renvoyée dans l'atmosphère et dans le reste de l'univers. Lors de son passage dans l'atmosphère, les rayons infrarouges réémis par le sols sont réfléchis par les *gaz à effet de serre*, qui permettent ainsi de garder la chaleur solaire .
+
+Ainsi, en moyenne le soleil nous envoie $342 \mathrm{ ~W.m^{-2}}$ et la terre en renvoie $235~\mathrm{W.m^{-2}}$ après les différents mécanismes de l'effet de serre. Ce rapport permet une température globale d'environ $15 °C$.
+
+
+
+
+

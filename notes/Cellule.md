@@ -1,4 +1,4 @@
-La cellule est l'unité de base du vivant. Il en existe différent types, qui remplissent des fonction biologiques différentes. Une cellule est composée de plusieurs éléments : une **membrane plasmique** qui délimite l'intérieur de la cellule et le *milieu extra-cellulaire*, une solution aqueuse qui peu contenir différent solutés appelé **cytosol** qui constitue l'intérieur de la cellule, de l'**information génétique** sous forme d'*ADN* qui peut soit être libre dans le cytosol soit enfermé dans un **noyau**.
+ La cellule est l'unité de base du vivant. Il en existe différent types, qui remplissent des fonction biologiques différentes. Une cellule est composée de plusieurs éléments : une **membrane plasmique** qui délimite l'intérieur de la cellule et le *milieu extra-cellulaire*, une solution aqueuse qui peu contenir différent solutés appelé **cytosol** qui constitue l'intérieur de la cellule, de l'**information génétique** sous forme d'*ADN* qui peut soit être libre dans le cytosol soit enfermé dans un **noyau**.
 
 > [!eucaryotes]
 > Les cellules **eucaryotes** sont caractérisées par la présence de compartiments différenciés dans la cellule appelés **organites**. Ainsi, les cellules **eucaryotes** possèdent un noyau qui rassemble toute l'information génétique, sous forme d'*ADN* qui ne peut en sortir que transcrite en *ARN*.   Elle peuvent aussi posséder des **organites** variées qui remplissent des fonction différentes.
@@ -599,3 +599,148 @@ Une hormone est une molécule produite par une glande qui à une action sur des 
 Un **export** est une circulation est nutriment en lien avec la spécialisation fonctionnement des organes. 
 
 Seuls certains organes permettent le stockage, mais tout les organe et les cellules ont besoin d'énergie. Il y aura donc une circulation de la matière organique entre les différents organes, on parle donc de corrélation trophique entre les différents organes.
+
+# Communication intercellulaire
+
+La communication intercellulaire est nécessaire au fonctionnement de tout les organismes pluricellulaires. Elle se compose de trois étapes :
+1. L'émission du message par une *cellule émetteur*
+2. Le transport du message
+3. La réception du message par une *cellule récepteur* et l'émission d'une réponse
+
+On peut aussi en distinguer différents modes :$
+ - La communication **paracrine** qui s'effectue à courte distance, par un médiateur chimique local
+ - La communication **nerveuse** qui se déroule par le système nerveux, et qui peut s'effectuer sur des longues distances
+ - La communication **endocrine** qui utilise les flux hormonaux
+
+### Exemple de la régulation de la glycémie
+
+La valeur de référence de la glycémie est de $1~\mathrm{g.L^{-1}}$. La régulation, c'est l'ensemble de mécanismes qui permettent le maintient de cette valeur.
+
+Une *dérégulation* peut causer des crises d'**hypoglycémie** et d'**hyperglycémie**.
+
+Décrire le mécanisme de régulation correspond à décrire une **boucle de régulation**. Ainsi, lors d'une variation par rapport à une valeur de consigne, il faut commencer par identifier les **capteurs** qui mesurent la valeur du paramètre à réguler. Ensuite, ces informations sont reçues par un **centre intégrateur** qui va les comparer avec la valeur de référence. Ensuite, si les valeurs sont différentes, un signal est envoyé à des organes effecteurs.
+
+Pour la boucle de la glycémie, les capteurs et le centre intégrateur sont situés sur le même organe. 
+
+On distingue aussi le concept de **régulation** qui vise a maintenir une valeur de référence et de **contrôle** qui peut varier un paramètre en fonction d'éléments extérieurs.
+
+#### Le rôle du pancréas
+
+Des expériences mettent en évidence le rôle du pancréas dans la régulation de la glycémie en observant l'effet d'une suppression ou d'une greffe d'un pancréas chez un chien. Ces expériences permettent aussi d'identifier que la régulation de la glycémie implique des molécules qui circulent dans le sang, appelées **hormones**.
+
+Le **pancréas** est une glande **endocrine**, c'est à dire qui sécrète des hormones dans le sang, mais aussi une glande **exocrine** c'est à dire qu'elle sécrète des *enzymes* dans le milieu extérieur (intestin). Il produit des **protéase** comme la *trypsine*
+
+Il joue ainsi un double rôle, on parle alors de glande **amphicrine**.
+
+#### Les îlots de Langerhans
+
+Les îlots de Langerhans sont les capteurs du niveau de glycémie dans les pancréas. Ils sont constitués de différents types de cellules : 
+ - Les cellules $\beta$ qui sont situées au center, productrices d'**insulines**
+ - Les cellules $\alpha$ situées plus à l'extérieur, qui vont produire du **glucagon**.
+
+Les îlots de Langerhans possèdent de nombreux capillaires. 
+
+##### Libération d'insuline
+
+L'insuline est produite dans la cellule sous forme de précurseur qu'on appelle de la pro-insuline. Cette pro-insuline est une protéine constitués de trois séquences principales :
+ - Une chaîne $a$ 
+ - Un peptide $c$
+ - Une chaîne $b$
+ - Une séquence signal, c'est à dire un petit peptide qui va permettre à la protéine d'être **adressée** (orienté) vers les vésicules de sécrétion.
+
+La **pro-insuline** est ensuite modifiée, son peptide $c$ est clivé et ses chaînes $a$ et $b$ sont attachés par des bons disulfures
+
+La production d'insuline est déclenchée par l'entrée de glucose, grâce au transporteur **glut-2**, qui va activer le gêne responsable de la synthèse de l'insuline et déclencher l'exocytose (libération de l'insuline mature)
+
+##### Libération de Glucagon
+
+L'insuline produite en cas d'hyperglycémie agit comme un inhibiteur de la libération de Glucagon. Ainsi, lors d'une hypoglycémie, cette inhibition cesse et le glucagon est produit.
+
+##### Le codage de l'information 
+
+Dans le cas de la communication hormonale, la transmission de l'information implique un *messager* et un mécanisme d'*encodage* de l'information. On parle ici de messagers chimiques. Le message est codé en *concentration* d'hormones dans le sang. On parle d'effet *dose*.
+
+On voit donc que la situation *hyper* ou *hypo* glycémique se traduit par la concentration d'hormones.
+
+Finalement, on peut définir une hormone comme étant une molécule émise pas une glande endocrine, transportée par le sang et qui à une action sur des organes et cellules *cibles*.
+
+#### Organes effecteurs de la régulation glycémique
+
+Les organes effecteurs sont les organes *cibles* des hormones.
+
+Des expériences comme celles de Claude Bernard permettent de stocker du glucose sous forme de glycogène. Le glycogène est stockée dans des structures globulaires, les **rosettes** situées dans les *hépatocytes*. Le glycogène rassemble $50000$ glucoses reliés par des liaisons $\alpha-1-4$ qui donne une structure en hélice. 
+
+Le foie peut stocker jusqu'à $100~g$ de glycogène.
+
+On trouve aussi du glycogène dans les cellules musculaire sous forme de **granules**, d'une masse totale de $200~g$ dans l'ensemble des muscles.
+
+Le foie et les muscles sont les deux organes de stockage du glycogène. 
+
+La réaction chimique qui permet la synthèse de glycogène à partir de glucose s'appelle la *glyco-geno-genèse*. La réaction inverse s'appelle la *glyco-geno-lyse*.
+
+Le glucose produit par la *glyco-geno-lyse* du glycogène contenu dans les muscles ne peut pas être libéré dans le sang, il peut uniquement être utilisé par le muscle. On parle alors de réserve **privée** en opposition au foie qui est une réserve **publique**.
+
+Lors d'un jeûne de moins de $24\mathrm{h}$, $75\%$ du glucose provient de la *glyco-geno-lyse* du foie, et $25\%$ est produit de la *neo-gluco-genèse*, c'est à dire de la production de glucose à partir d'autre molécules. 
+
+Par exemple, le glucose peut provenir de *lipides* ou des *protéines* par *protéolyse*.
+
+Ainsi, le foie est un effecteur de la régulation glycémique. Il existe néanmoins un autre effecteur : les **tissus adipeux**.
+
+##### Tissus adipeux
+
+En cas d'hyper-glycémie, d'insuline favorise le stockage de réserves énergétiques sous forme de tri-glycérides. On parle alors de lipo-genèse. L'insuline se fixe sur les récepteurs présent sur la membrane des adipocytes ce qui va activer une voie de signalisation qui va finalement conduire à l'exocytose de transporteurs *glut* et donc l'entrée de glucose dans la cellule et sa conversion en tri-glycérides.
+
+---
+
+Ainsi, à court terme, l'insuline stimule la *glyco-geno-genèse* dans le foie et les muscles, et à moyen terme elle va permettre la synthèse de tri-glycéride à partir de glucose au niveau des tissus adipeux. Finalement, la combinaisons de toutes ses actions va permettre de diminuer le taux de sucre. On parle d'effet *hypoglycémiant*.
+
+De son coté, le glucagon va favoriser à court terme la *glyco-geno-lyse* au niveau de foie et des muscles et à long terme il favorise la *neo-gluco-genèse*.
+
+#### Les modes d'action de l'insuline et du glucagon
+
+Pour décrire le mode d'action de l'insuline et du glucagon il faut décrire la **transduction du signal**, c'est à dire l'ensemble des processus qui permettent une réponse cellulaire à partir d'un signal extra-cellulaire.
+
+Se processus se déroule en plusieurs étapes :
+1. la réception du messager extra-cellulaire
+2. l'activation d'une voie de signalisation (cascade de réactions)
+3. la réponse cellulaire 
+##### La voie des récepteurs a tyrosine-kinase de l'insuline
+
+*-kinase* concerne une réaction de phosphorylation
+
+Le récepteur à insuline est un tétramère, constitué de deux dimères eux même divises en sous unités $\alpha$ et $\beta$. La fixation de l'insuline entraine l'assemblage de tétramère par fixation des deux unités $\alpha$. Cet assemblage entraine une auto-phosphorylation qui va ajouter un phosphate qui va ajouter un phosphate sur certaines tyrosines du récepteur. Cette phosphorylation des tyrosines va permettre l'activation de protéines intra-cellulaires.
+
+Ces récepteurs sont situés sur les membranes des cellules des effecteurs.
+
+Le récepteur activé va ainsi activer une voie de signalisation composée de protéine kinase qui vont permettre une cascade de phosphorylation qui va permettre finalement deux actions :
+ - L'exocytose de transporteurs *glut*
+ - L'activation de la *glycogène-synthase* 
+
+Il existe aussi des mécanismes qui permettent de mettre fin à l'action de l'insuline, sans quoi la réponse ne s'arrêterai jamais. Par exemple, on voir que l'insuline à un temps de demie-vie de $5~\mathrm{mn}$. La *glyco-geno-genèse* nécessite une activation préalable du glucose, qui doit être phosphorylé en *glucose-tri-phosphate* par une enzyme d'*hexokinase* dans les muscles et la *Glucokinase* dans le foie.
+
+Seules les cellules qui possèdent les récepteurs spécifiques à l'insuline sont les cellules cibles. On dit que la cellule et *compétente* pour l'insuline. Ce sont les *hépatocytes*, les cellules musculaires striées.
+
+##### Récepteurs du glucagon
+
+Les récepteurs du glucagon possèdent 7 domaines trans-membranaires reliés en boucle. Une de ces boucles est fixée à une protéine *G* .
+
+Le Glucagon va donc se fixer sur son récepteur, ce qui va permettre une activation de la protéine *G*, c'est à dire la fixation d'un *GTP* sur la sous unité $\alpha$ de la protéine *G*. Cela entraîne l'activation de l'adenylate cyclase, qui va transformer l'ATP en AMP cyclique dans le cytoplasme. Cet *AMP-C* va provoquer à son tour toute une cascade d'activation de la glycogène phosphorylase qui est l'enzyme responsable de la *glyco-geno-lyse*.
+
+La *glyco-geno-lyse* va avoir plusieurs étapes, comme par exemple l'activation en *G-6-P*.
+
+L'AMP-C est appelé un *second message* parce que c'est lui qui va permettre la transmission du premier messager jusqu'à la réponse cellulaire.  Il va activer une protéine kinase qui va activer elle plusieurs protéines. Ainsi, un seul glucagon peut libérer jusqu’à 100 millions de glucoses. Là aussi, il y à néanmoins extinction du signal, puisque le temps de demi-vie du glucagon est d'environ six minutes. L'extinction du signal est permise aussi par un deuxième mécanisme : l'activité de la sous unité $\alpha$ de la protéine G, que l'on appelle GTP-asique, qui conduit à l'hydrolyse du GTP et donc la fin du signal.
+
+#### La régulation à court et long terme de la glycémie
+
+##### Stress hypoglycémiant et action de l'adrénaline
+
+En cas d'hypoglycémie brutale, il y a libération d'adrénaline par la glande *médullo-surrénale*. Cette glande est la partie intern d'une glande située au dessus du rein.
+
+L'adrénaline va permettre la production d'acide lactique dans les muscles par *glyco-geno-lyse* anaérobie. En suite, elle va entraîner une *adipolyse* par les tissus adipeux et la *neo-gluco-genèse* par le foie à partir d'acide lactique et de glycérol.
+
+Les réserves en glycogène du foie permettent une production de glucose pendant environ 24h. Si le jeûne dure plus longtemps, il y a activation de la cortico-surrénale, une glande située dans la périphérie de la *médullo-surrénale* qui va produire du cortisol. Le cortisol va déclencher la *protéolyse* dans les muscles, et activer la *neo-gluco-genèse* du foie à partir des acides aminés produits par *protéolyse*. 
+
+
+
+
+

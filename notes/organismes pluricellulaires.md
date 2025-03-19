@@ -11,6 +11,12 @@ Le **sang** est un *tissu liquide*, constitué d'éléments figuré (cellules, g
 
 On parle de **sang** chez les métazoaires quand il circule en système fermé. Si la circulation se fait en système *semi-ouvert*, on parle alors d'*hémolymphe*.
 
+Le sang circule grâce au cœur, qui jour le rôle de **double pompe**.
+
+#### Automatisme cardiaque
+
+Le cœur s'active du bas vers le heut grâce à un réseau de cellule excitables connectés par des synapses électriques.
+
 ### La sève des végétaux
 
 Le liquide circulant des végétaux est appelé **sève**. Il se distingue en deux catégories :
@@ -42,6 +48,7 @@ On peut donc bien constater que les produits de la photosynthèse sont transport
 Les tubes criblés sont des cellules de grande tailles associées à des cellules de beaucoup plus petite taille (cellules compagnes).  Les cellules compagnes fournissent, par le biais de plasmodesmes, des l'ATP, des protéines et des ARN aux tubes criblés.
 
 On parle de décharge du phloème lorsque la matière organique comme le saccharose passe du phloème aux organes puits. cette décharge se fait dans le sens du gradient, allant des zones les plus concentrées en matières organiques aux zones les moins concentrées.
+
 
 
 

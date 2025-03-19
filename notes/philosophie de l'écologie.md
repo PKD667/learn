@@ -105,5 +105,16 @@ Pour Latour, la modernité à toujours reposé sur une **constitution**, qui dé
 
 Les crises écologiques se traduisent le plus souvent par la disparation de tout extérieur au monde humain, de toute réserve pour l'action humaine, de toute décharge ou l'on pouvait jusqu'ici *externaliser* les actions.
 
+Les scientifiques modernes produisent des objets hybrides, qui mélangent nature et culture, humain et non-humain, mais ils ne discutent pas en tant que scientifiques de la valeur ou de l’intérêt de ces objets hybrides puisque la caractéristique de la science moderne c'est de n'avoir affaire qu'a des faits, des objets et à leur fonctionnement. 
 
+Ainsi, les scientifiques modernes se caractérisent par le refus de politiser leur science, en tout cas pas dans le cadre de leur travail de scientifique. 
 
+Les scientifiques et les ingénieurs produisent des hybrides, qui enrôlent des intérêts non-humain, et qui génèrent de nouveaux biens et de nouveaux maux, mais ils leur est interdit d'en discuter en tant que scientifiques.
+
+La politique au sens moderne est synonyme d'*affaires humaines*, et peuvent y participer les sujet qui ont la capacité de **dire** ce qu'ils veulent. C'est ce qui leur permet d'être représentés.
+
+Les citoyen ne veulent pas subir de contrôle de la part de la science. La politique ne doit pas être mise sous la tutelle du savoir politique. 
+
+La politique prends une approche relativiste, elle considère tout les point de vue comme égaux et ne revendique aucune vérité objective.
+
+Le clivage entre notre science et notre politique fait que nous, les modernes n'arrivons pas à penser ce qu'on fait. 
