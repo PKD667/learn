@@ -270,13 +270,13 @@ De plus, le $\ce{CO2}$ est mis en évidence comme source de carbone minéral, d'
 
 #### Étapes du cycle de Calvin
 
-9. **Fixation du carbone**
+1. **Intégration du carbone** (*carboxylation*)
 
-Grâce à l'[[enzyme]] ==rubiscose== , le $\ce{CO2}$ minéral rentre dans le métabolisme et s'intègre dans de la matière organique.
+Grâce à l'[[enzyme]] **ribulose 1,5 bi-phosphate oxygénase**  (==rubisco==) , le $\ce{CO2}$ minéral rentre dans le métabolisme et s'intègre dans de la matière organique.
 
-10. **Activation et réduction
+2. **Activation et réduction
 
-Le $\ce{3-PG}$ est **activé** en $\ce{1,3-BPG}$ par la mise en place d'une **liaison phosphate** (riche en énergie). Cette étape nécessite une hydrolyse $\ce{ATP \rightarrow ADP} ~(\Delta rG° < 0)$ afin de fournir l'énergie à la réaction d'activation qui est **endogène** ($\Delta rG° > 0$). Il y a donc **couplage chimio-chimique**.
+Le $\ce{3-PG}$ est **activé** en $\ce{1,3-BPG}$ par la mise en place d'une deuxième **liaison phosphate** (riche en énergie). Cette étape nécessite une hydrolyse $\ce{ATP \rightarrow ADP} ~(\Delta rG° < 0)$ afin de fournir l'énergie à la réaction d'activation qui est **endogène** ($\Delta rG° > 0$). Il y a donc **couplage chimio-chimique**.
 $$
 \ce{3-PG + ATP \rightarrow 1,3-BPG + ADP}
 $$
@@ -285,9 +285,9 @@ Ensuite, le carbone est **réduit**, la fonction **carboxyle** est transformée 
 
 Sur les $6$ $\text{G3P}$ produits, $1$ va quitter le cycle et sera à l'origine de la synthèse de sucres.
 
-11. **Regeneration du $\ce{RuBP}$ 
+3. **Regeneration du $\ce{RuBP}$ 
 
-A partir de $5$ trioses $\text{G3P}$  on obtient $3$ pentoses $\ce{RuBP}$. 
+A partir de $5$ trioses $\text{G3P}$  on obtient $3$ pentoses $\ce{RuBP}$.  Cette réaction est associée à une trans-phosphorylation par hydrolyse d'$\ce{ATP}$.
 $$
 5~\text{G3P} \rightarrow 3~\text{Ru5P} \rightarrow \ce{3RuBP}
 $$
@@ -338,6 +338,8 @@ Afin de mettre en évidence le rôle crucial des pigments, on va comparer le **s
 En comparant ce **spectre d'absorption** au spectre d'action, on observe une *quasi-superposition*, ce qui représente un argument fort pour le rôle des *pigments chlorophylliens* dans la photosynthèse.
 
 #### Expérience de Ruben et al
+
+Afin de déterminer la molécule à l'origine de la libération d'$\ce{O2}$, Ruben et Kamen vont marquer des molécules d'$\ce{H2O}$ et de de $\ce{CO2}$ à l'oxygène lourd ($\ce{{}^{18}O}$). Finalement, ils constatent que l'$\ce{O2}$ provient de l'oxydation de l'$\ce{H2O}$ qui joue donc le rôle de donneur d'électrons. 
 
 #### Expérience de Hill
 
@@ -391,7 +393,7 @@ Les pigments sont lipidiques, donc hydrophobes et **membranaires**. Ils sont reg
 
 ---
 
-Lors du processus de photosynthèse, les pigments touchés par un photon sont **excités** (augmentation des niveau d'énergie de ses atomes). Il peut se *désexciter* en transmettant son énergie aux pigments voisins par [[resonance]]. Ainsi, il y à transmission de l'énergie de pigment en pigment jusqu’à la chlorophylle A, située dans le **centre réactionnel**. Une fois excitée, cette chlorophylle A devient un *réducteur fort* et cède donc facilement un électron pour devenir oxydée $\ce{chla+}$.
+Lors du processus de photosynthèse, les pigments touchés par un photon sont **excités** (augmentation des niveau d'énergie de ses atomes). Il peut se *désexciter* en transmettant son énergie aux pigments voisins par [[résonance]]. Ainsi, il y à transmission de l'énergie de pigment en pigment jusqu’a la chlorophylle A, située dans le **centre réactionnel**. Une fois excitée, cette chlorophylle A devient un *réducteur fort* et cède donc facilement un électron pour devenir oxydée $\ce{chla+}$.
 
 $$
 \ce{chlA} \xrightarrow{lumière} \ce{chlA^{*}} \rightarrow \ce{chlA+ + e^-}
@@ -498,36 +500,38 @@ La fermentation décrit l'ensemble des deux réactions **glycolyse** et **ré-ox
 
 #### L'oxydation partielle du glucose par la glycolyse
 
-La **glycolyse** est une voie métabolique d'oxydation ménagée du glucose qui se déroule dans le cytosol. Elle comprends $10$ réactions et a pour produit final du **pyruvate**. Ainsi, le nombre d'oxydation du carbone passe de $0$ à $+2/3$. Cette oxydation est partielle.
+La **glycolyse** est une voie métabolique d'oxydation ménagée du glucose qui se déroule dans le cytosol. Elle comprends $10$ réactions et a pour produit final du **pyruvate**. Ainsi, le nombre d'oxydation du carbone passe de $0$ à $+2/3$. Cette oxydation est partielle. 
 
 La réaction d'hydrolyse se déroule en plusieurs étapes qui comprennent des couplage chimio-chimiques, des trans-phosphorylation, des isomérisation,  des oxydations/réductions, lyse, activation : 
  - $\ce{Glucose \xrightarrow{ATP} Glucose 6-phosphate}$
  - $\ce{Glucose 6-phosphate \rightarrow Fructose 6-phosphate}$
  - $\ce{Fructose 6-phosphate \xrightarrow{ATP} Glucose 1,6-biphosphate}$
  - $\ce{Glucose 1,6-biphosphate \rightarrow G-3P + Dihydroxyacétone phosphate}$
- - $\ce{G-3P \xrightarrow{\ce{NAD+ + Pi}} 1,3-biphosphoglycérate}$
- - $\ce{1,3-biphosphoglycérate + ADP \rightarrow 3-phosphoglycérate + ATP}$
- - $\ce{2-phosphoglycérate \rightarrow Phosphoénolpyruvate+ H2O}$
+ - $\ce{G-3P \xrightarrow{\ce{NAD+ + Pi}} 1,3-BPG}$
+ - $\ce{1,3-BPG + ADP \rightarrow 3-PG + ATP}$
+ - $\ce{3-PG \rightarrow Phosphoénolpyruvate+ H2O}$
  - $\ce{phosphoénolpyruvate + ADP \rightarrow pyruvate + ATP}$
 
 La glycolyse peut se résumer en $3$ étapes :
-1. L'étape d'*investissement d'énergie* par activation
-2. Une réaction d'oxydo-réduction exergonique qui permet la phosphorylation et la formation d'une molécule activée
-3. Synthèse de $4 ~\ce{ATP}$ d'ou le bilan énergétique positif.
+1. L'étape d'*investissement d'énergie* par activation, plus précisément d'un couplage *chimio-chimique* entre l'hydrolyse exergonique de l'ATP et la formation endergonique des deux liaisons phospho-ester.
+2. Une étape d'oxydation de d'activation, ou la fonction aldéhyde du $\ce{G 3P}$ s'oxyde. Cette réaction exergonique permet la fixation d'un phosphate inorganique sur la fonction acide formée ($\ce{1,3-BPG}$)
+3. Synthèse de $4 ~\ce{ATP}$ d'ou le bilan énergétique positif. Les réactions d'hydrolyse du $\ce{1,3-BPG}$ forment un couplage *chimio-chimique* avec la *phosphorylation* de l'ADP. On parle de **trans-phosphorylation**.
 
 Les réactions $1,3,10$ sont des réactions irréversibles. Ces réactions sont spontanées, et très exergoniques. Elles vont **orienter** tout le processus de glycolyse dans le les de la production du pyruvate. Ainsi, le contrôle s'exerce sur ces réactions, et peut ainsi diriger toute la glycolyse.
 
 On peut par exemple s’intéresser au contrôle de la première réaction catalysée par l'**hexokinase**, une enzyme *michaèlienne*. Cette réaction peut être contrôlée à l'aide d'un inhibiteur comme le  $\ce{G-6-P}$, en général non-compétitif.
 
-On peut aussi observer des mécanismes de contrôle dans le déroulement de la réaction $3$, catalysée par la phospho-fructo-kinase, une enzyme *allostérique*. Son activation est controllée par la présence d'**AMP** qui traduit une faible énergie. 
+On peut aussi observer des mécanismes de contrôle dans le déroulement de la réaction $3$, catalysée par la phospho-fructo-kinase, une enzyme *allostérique*. Son activation est controllée par la présence d'**ADP/AMP** qui traduit une faible énergie. 
 
-La dernière réaction controllée est la réaction $10$, qui est catalysée par la pyruvate-kinase, une enzyme *allostérique*. Ainsi, elle est inhibée par l'$\ce{ATP}$ Ce mécanisme de contrôle met en évidence la logique de régulation des réactions.
+La dernière réaction controllée est la réaction $10$, qui est catalysée par la pyruvate-kinase, une enzyme *allostérique*. Ainsi, elle est inhibée par l'$\ce{ATP}$. Ce mécanisme de contrôle met en évidence la logique de régulation des réactions.
 
 #### ré-oxydation des coenzymes réduits
 
-La fermentation lactique est mise en place par des ferments, qui produisent de l'acide lactique. Cette fermentation se fait aussi notamment dans les *émacies* (globules rouges), ou dans les muscles (crampes).
+Lors de la fermentation, on distingue deux grands étapes, la **glycolyse** vue précédemment et la **ré-oxydation des coenzymes**.
 
-La fermentation alcoolique, ou *éthanolique* est réalisée par les levures, (*saccharomyceces cerevisiae*). 
+La fermentation **lactique** est mise en place par des ferments, qui produisent de l'acide lactique. Cette fermentation se fait aussi notamment dans les *émacies* (globules rouges), ou dans les muscles (crampes).
+
+La fermentation **alcoolique**, ou *éthanolique* est réalisée par les levures.
 
 La fermentation est la seule voie de synthèse d'ATP en absence d'oxygène.
 
@@ -612,6 +616,8 @@ On peut aussi en distinguer différents modes :$
  - La communication **nerveuse** qui se déroule par le système nerveux, et qui peut s'effectuer sur des longues distances
  - La communication **endocrine** qui utilise les flux hormonaux
 
+
+## Communication hormonale
 ### Exemple de la régulation de la glycémie
 
 La valeur de référence de la glycémie est de $1~\mathrm{g.L^{-1}}$. La régulation, c'est l'ensemble de mécanismes qui permettent le maintient de cette valeur.
@@ -738,7 +744,178 @@ En cas d'hypoglycémie brutale, il y a libération d'adrénaline par la glande *
 
 L'adrénaline va permettre la production d'acide lactique dans les muscles par *glyco-geno-lyse* anaérobie. En suite, elle va entraîner une *adipolyse* par les tissus adipeux et la *neo-gluco-genèse* par le foie à partir d'acide lactique et de glycérol.
 
-Les réserves en glycogène du foie permettent une production de glucose pendant environ 24h. Si le jeûne dure plus longtemps, il y a activation de la cortico-surrénale, une glande située dans la périphérie de la *médullo-surrénale* qui va produire du cortisol. Le cortisol va déclencher la *protéolyse* dans les muscles, et activer la *neo-gluco-genèse* du foie à partir des acides aminés produits par *protéolyse*. 
+Les réserves en glycogène du foie permettent une production de glucose pendant environ 24 heures. Si le jeûne dure plus longtemps, il y a activation de la cortico-surrénale, une glande située dans la périphérie de la *médullo-surrénale* qui va produire du cortisol. Le cortisol va déclencher la *protéolyse* dans les muscles, et activer la *neo-gluco-genèse* du foie à partir des acides aminés produits par *protéolyse*.
+
+#### Pathologie liées aux dérégulation glycémiques
+
+##### Diabète sucré
+
+Le diabète sucré est diagnostiqué par le passage de sucre dans les urine. Il en existe deux types :
+1. Les diabète de type 1, ou insulino-dépendant, lié à un défaut de synthèse d'insuline. Il peut notamment être causé par les maladie auto-immunes.
+2. Le diabète de type 2, causé par une absence ou un insensibilité des récepteurs à l'insuline.
+
+## Communication nerveuse
+
+### Exemple du baroréflexe
+
+Le **baroréflexe** est un mécanisme de **régulation** qui permet de maintenir la pression sanguine à une valeur déterminée. 
+
+Il permet d'empêcher l'*hypertension*, qui présente de risques de fatigue du cœur ou l'*hypotension* qui peut mener à des pertes de connaissance. 
+
+#### Les paramètres de la pression artérielle
+
+La pression artérielle est mesuré au niveau des artères. On y observe des *variation* dans la journée en fonction du type d'activité exercée. Néanmoins, elle reste stable, en oscillant autour d'une valeur moyenne. La pression artérielle moyenne $\mathrm{PAM}$ peut être calculée à partir de la pression systolique et la pression diastolique. 
+
+$$
+\text{PAM} = \frac{1}{3} \mathrm{P}_S + \frac{2}{3}\mathrm{P_D}
+$$
+
+La pression artérielle va être liée à différent paramètres physiologiques: ,
+ - la fréquence cardiaque
+ - la consommation en $O_2$ 
+ - La résistance périphérique totale (résistance des vaisseaux à l'écoulement)
+ - le débit cardiaque $\mathrm{L}.\mathrm{m^{-1}}$, qu'on peut calculer à partir de la fréquence cardiaque et du volume d'éjection systolique.
+
+Finalement, on constate que la pression artérielle est égale au débit cardiaque multiplié par la résistance périphérique totale.
+
+#### Capteurs des variation de la PAM
+
+La régulation de la PAM fonctionne de manière similaire à la régulation de la glycémie, elle comprends des capteurs, des centres intégrateurs et des effecteurs. Ces capteurs sont nommés baro-récepteurs.
+
+En simulant des hypotensions et des hypertensions au niveau des *sinus carotidiens*, des scientifiques mettent en évidence la présence de récepteurs à la pression, appelés *baro-récepteurs*. Ces récepteurs sont liés à un *nerf*, appelé *nerf de Herring* et permet l'envoi d'une information nerveuse depuis le sinus jusqu'à une structure du cerveau appelé *bulbe rachidien*.
+
+#### Les voies afférentes de la communication nerveuse
+
+La communication nerveuse passe par une **cellule spécialisée**, le *neurone*, qui est composée de trois parties :
+1. Les **corps cellulaire** qui contient le noyau du neurone et des prolongements cytoplasmiques appelés **dendrites** qui permettent de percevoir des stimuli.
+2. Un **axone**, c'est à dire un très long prolongement cytoplasmique qui permet la transmission du message nerveux. 
+3. L'**arborisation terminale** située au bout de l'*axone* et constituée de ramification qui vont permettre des jonctions avec d'autres cellules, que l'on appelle **synapses**. On distingue deux types de *synapses* :  
+     - Les synapses *neuro-neuroniques*, qui lient deux neurones
+     - Les synapses *neuro-musculaire* qui forment un liaison entre un neurone et une cellule musculaire.
+
+On appelle l'espace entre deux neurone la **fente synaptique**, et l'extrémité d'une ramification **bouton synaptique**. Certains axones peuvent être entourés d'un isolant électrique qu'on appelle une *gaine de myéline*, constituée de replis membranaires, provenant de la *cellule de Schwann* enroulés autour de l'axone.
+
+Les axones sont constitués de cytosquelette et de micro-tubules, c'est à dire des grands polymères protéiques qui servent à organiser le traffic des vésicules dans la cellule ou à la division cellulaire. Un axone avec une gaine de myéline est appelé axone **myélinisé**, sinon il est dit **amiélinisé**. 
+
+La communication nerveuse passe par plusieurs neurones, liées par des liaisons *neuro-neuroniques*, pour finalement atteindre la cellule effectrice.
+
+#### Le codage du message nerveux
+
+Le codage du message nerveux est double, il implique à la fois la fréquence du potentiel d'action et la concentration de neurotransmetteurs.
+
+Lors du passage du stimulus dans le neurone, on peut détecter une variation du potentiel électrique dans l'axone. On parle de *potentiel d'action*, qui sert le rôle de messager et qui est codé en *fréquence*. Ainsi, dans le cas de la régulation de la pression artérielle, une forte pression va entraîner une fréquence élevée des variation de la tension des signaux dans l'axone. Il y a un codage de message nerveux sous forme de fréquence des potentiels d'action.
+
+Le message nerveux encodé passe de neurone en neurone, puis à la cellule réceptrice en passant par une synapse. Au niveau des fentes synaptiques, le message nerveux est codé chimiquement, par concentration de neuro-transmetteurs libérés.
+
+Finalement, dans le cas du circuit de régulation de la tension artérielle :
+ - En cas d'hypertension, on à une augmentation de la fréquence des potentiels d'action au niveau des neurones, puis une augmentation de la concentration de neuro-transmetteurs eu niveau de la fente synaptique, et enfin réception du signal.
+ - En cas d'hypotension, la fréquence des *PA* baisse, la concentration en *NT* aussi.
+
+#### Le propriétés des potentiels d'action
+
+Les potentiels d'action (*PA*) suivent une loi du *tout ou rien*, et son caractérisés par l'existence d'une *période réfractaire*.
+
+On peut analyser les potentiel d'actions à l'aide d'électrodes insérées dans l'axone. On mesure une différence de potentiel de part et d'autre de la membrane plasmique. 
+
+Ensuite, on réalise une stimulation croissante, qui débute avec une intensité faible.
+
+Tout d'abord, on mesure un *potentiel de repos* de $-70\mathrm{mV}$, qui est du à l'inégale répartition des ions dans le corps. Sa valeur est due au flux d'ions dans la membrane, et elle varie en fonction de l'intensité du flux ionique.
+
+Avec l'augmentation de la stimulation, on observe une augmentation du potentielle du membrane, appelée *dépolarisation*. À partir d'un certain seuil de stimulation, on observe un pic de dépolarisation que l'on appelle **potentiel d'action**, qui ne varie plus avec l'augmentation de la stimulation. C'est pour cela qu'on parle de loi du *tout ou rien*.
+
+On nomme la stimulation minimale pour déclencher le potentiel d'action **stimulation liminaire**, et toute stimulation supérieure **stimulation supra-liminaire**.
+
+Dans le cas de deux stimulation très rapprochées, un seul *PA* est généré. Il y a donc une période minimale appelée *période réfractaire* durant laquelle on ne peut pas émettrOn utilise des inhibiteurs de canaux e deux *PA*. 
+
+En appliquant stimulation sur un *temps long*, on observe une augmentation de la **fréquence** du potentiel d'action.
+
+#### Les flux d'ions à l'origine des potentiels d'action
+
+Le potentiel de repos est du à la différence de potentiel électrique entre l'intérieur et l'extérieur de la membrane. Ainsi, il est négatif car l'intérieur est chargé négativement par rapport à l'extérieur. Plus précisément, cette différence de potentiel s'observe dans la **proximité** de la membrane.
+
+Pour étudier le potentiel d'action on utilise une méthode dite du **voltage imposé**, qui consiste à appliquer une tension définie (*par exemple $+70\mathrm{mV}$*) et mesurer les flux d'ions entrant et sortants. Dans un premier temps, on mesure un courant entrant, puis un courant sortant.
+
+Afin de mieux comprendre ces dynamiques, on refait la même méthode en utilisant des inhibiteurs qui comment le $\mathrm{TTX}$ qui bloquent sélectivement les canaux à sodium ou à potassium. 
+
+En bloquant les canaux à sodium $\ce{Na+}$ on observe une disparition du flux sortant. On peut donc en déduire que les ions $\ce{Na+}$ constituent le flux sortant.
+Au contraire, en bloquant les canaux $\ce{K+}$ on observe une disparition du flux entrant, ce qui nous montre que les ions $\ce{K+}$ entrent.
+
+---
+
+On peut analyser le rôle des ions $\ce{K+}$ et $\ce{Na+}$ dans le potentiel d'action en comparant le nombre de canaux ioniques ouverts avec le potentiel. Ainsi, on voit que lors d'un pic de tension, qui correspond au potentiel d'action, on à d'abord une rapide ouverture des canaux $\ce{Na+}$ (*repolarisation*), puis dans un deuxième temps une ouverture des canaux $\ce{K+}$ (*hyper-polarisation*).
+
+Finalement, l'existence d'un potentiel d'action s'explique par l'ouverture successive des canaux $\ce{Na+}$ qui font rentrer le sodium puis des canaux $\ce{K+}$ qui font rentrer le potassium. Ces canaux ne s'ouvrent que suite à une stimulation électrique, c'est à dire une dépolarisation suffisante, c'est pourquoi on les appelle des canaux voltage-dépendants. Ils sont donc contrôlés, et une dépolarisation entraîne leur ouverture.
+
+##### Modèles de fonctionnement des canaux
+
+Un canal $\ce{Na+}$ est un canal trans-membranaire composé de quatre domaines d'action, dont une hélice $\alpha$, chargée et sensible aux variation de potentiel. 
+
+Entre le domaine $3$ et $4$ il existe une boucle protéique appelée segment d'inactivation, qui permet d'inactiver le canal, c'est à dire qu'elle empêche son ouverture, même en cas de nouvelle dépolarisation. Cette inactivation est éphémère, et est responsable de la *période réfractaire* empêchant deux *PA* de se suivre presque instantanément.
+
+
+#### Propagation du message nerveux
+
+En mesurant le potentiel de membrane à différents endroits de l'axone, on observe un même signal (*propagation non-décrementielle*), décalé temporellement du point $1$ au point $2$ (*propagation uni-directionnelle*). 
+
+En réalité, c'est n'est pas un pas un même *PA* qui ce propage, mais plutôt différents *PA* identiques qui sont produits. La propagation est régénérative.
+
+##### Cas des neurones *amyélinisés*
+
+Le *PA* va générer des flux d'ions de part et d'autre du canal, appelés *courant locaux* qui peuvent être responsable de l'ouverture de canaux *voltage-dépendants* qui se situent à proximité. 
+
+La transmission du *PA* se fait donc par l'activation successive des canaux, qui est uni-directionnelle à cause de l'état inactivé des canaux en amont. Ainsi, les canaux en aval, qui eux sont activés mais fermés vont s'ouvrir.
+
+##### Cas des neurones myélinisés
+
+Dans des neurones myélinisés, le passage d'un potentiel d'action peut passer de canal en canal uniquement sur les endroits sans myéline (*nœuds de ranvier*). On parle donc de propagation **saltatoire** de *nœuds de ranvier en nœuds de ranvier*. 
+
+
+#### Intégration, voies afférentes et réponses de l'organisme
+
+##### Le centre intégrateur du système nerveux central
+
+Les nerf afférents comme le nerf de Herring innervent le bulbe rachidien, qui va comparer les valeurs de pression avec la valeur consigne. Ainsi, en fonction des différences de valeurs, le bulbe rachidien peut activer le *Centre Cardio Accélérateur* ou le *Centre Cardio Modérateur*. Ces trois éléments (bulbe rachidien, CCA, CCM) constituent le centre intégrateur.
+
+Le *CCM* est en lien avec les neurones du système para-sympathique qui innervent le cœur au niveau des cellules nodales dans le Nœud Sino Auriculaire (*NSA*)
+
+Le *CCA*, lui est en lien avec le système nerveux *sympathique*, qui innerve trois effecteurs : 
+ - Les cellules du *NSA*
+ - Les cellules musculaires du cœur (cardio-myocytes)
+ - Les cellules musculaires lisses des artérioles
+
+Le NSA est responsable de l'automatisme cardiaque, puisque ses cellules ont la particularité de pouvoir générer de manière spontanée des potentiels d'action suite à l'ouverture de canaux spécifiques appelés *canaux HCN*.
+
+##### Les effecteurs cardiaques: NSA et les cardio-myocytes
+
+La stimulation du système **sympathique** accélère la fréquence cardiaque, et la stimulation du système **parasympathique** réduit la fréquence cardiaque. 
+
+Les mécanismes d'*augmentation* de la fréquence cardiaque opèrent par inhibition grâce à des molécules antagonistes. Par exemple, l'inhibition de l'acétyle-choline implique une augmentation de la fréquence cardiaque. 
+
+De même, l'introduction d'un antagoniste de la noradrénaline entraîne une diminution de la fréquence cardiaque.
+
+Le système nerveux sympathique entraine un libération de noradrénaline, et le système parasympathique entraine une libération d'acétyle-choline.
+
+Les cellules du NSA sont cultivées en absence ou en présence du système neuro-végétatif. 
+
+Le *potentiel de membrane* des cellules du NSA est affecté par la présence d'acétyle-choline et la noradrénaline. 
+
+La **noradrénaline** entraîne une dépolarisation plus rapide des cellules du NSA, ce qui entraîne l'augmentation de la fréquence cardiaque. Au contraire, l'**acétyle-choline** provoque une dépolarisation plus tardive, ce qui à pour effet de ralentir la fréquence cardiaque.
+
+La **noradrénaline** est un *neurotransmetteur*. Lors de l'arrivée d'un potentiel d'action, il y à exocytose de vésicules qui contiennent les neurotransmetteur, qui sont libérés dans la fente et vont se fixer sur les récepteurs présents sur les membranes des cellules réceptrices.
+
+La libération des vésicules est permise par l'entrée de $\ce{Ca^{2+}}$, déclenchée par l'arrivée des *PA*, qui va pousser les vésicules sur les micro-tubules vers les boutons synaptiques, puis vers la cellule réceptrice. 
+
+Une activation du système nerveux sympathique (*SNS*) entraîne une forte contraction des cardio-myocytes, et donc une augmentation du débit cardiaque systolique.
+
+##### Les effecteurs vasculaires
+
+Une activation du *SNS* entraîne une contraction des cellules musculaire lisses des vaisseaux, les artérioles, ce qui entraîne une vaso-constriction et donc une augmentation de la Résistance périphérique totale (*RPT*).
+
+La communication hormonale intervient aussi dans la régulation de la *PAM* puisque le *SNS* peut activer une glande *endocrine* (la *médullo-surrénale*) qui libère une hormone, l'adrénaline, transportée par le sang qui augmente la fréquence cardiaque.
+
+
+
+
 
 
 

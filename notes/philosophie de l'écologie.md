@@ -118,3 +118,5 @@ Les citoyen ne veulent pas subir de contrôle de la part de la science. La polit
 La politique prends une approche relativiste, elle considère tout les point de vue comme égaux et ne revendique aucune vérité objective.
 
 Le clivage entre notre science et notre politique fait que nous, les modernes n'arrivons pas à penser ce qu'on fait. 
+
+> Il est difficile d'imaginer que les citoyens pourraient se mobiliser pour défendre un nature avec laquelle ils n'auraient aucune relation.

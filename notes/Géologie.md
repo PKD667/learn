@@ -241,5 +241,9 @@ Ces mouvements conduisent à une perte *lente* d'énergie de la terre. On estime
 
 ### Une [[atmosphère]] stratifiée et dynamique
 
+### L'[[hydrosphère]]
+
+
+
 
 

@@ -26,6 +26,11 @@ Lors de l'arrivée sur terre de la radiation solaire, elle est absorbée puis re
 
 Ainsi, en moyenne le soleil nous envoie $342 \mathrm{ ~W.m^{-2}}$ et la terre en renvoie $235~\mathrm{W.m^{-2}}$ après les différents mécanismes de l'effet de serre. Ce rapport permet une température globale d'environ $15 °C$.
 
+### Mécanique atmosphérique
+
+Les mouvement des masses d'air sont définis par des caractéristiques précises. La **force de Coriolis** est un des moteurs principaux de la géodynamique externe. 
+
+Dans l'hémisphère nord, les vents sont déviés vers leur droite, alors qu'il sont déviés vers leur gauche dans l'hémisphère sud. La force de Coriolis est plus puissante au niveau de l'équateur.
 
 
 
