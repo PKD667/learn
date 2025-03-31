@@ -120,3 +120,32 @@ La politique prends une approche relativiste, elle considère tout les point de 
 Le clivage entre notre science et notre politique fait que nous, les modernes n'arrivons pas à penser ce qu'on fait. 
 
 > Il est difficile d'imaginer que les citoyens pourraient se mobiliser pour défendre un nature avec laquelle ils n'auraient aucune relation.
+
+# Anthropocène
+
+> L'idée d'**anthropocène** signifie que la Terre est sortie de l'époque géologique dans laquelle elle se trouvait, c'est à dire le régime interglaciaire appelé *Holocène*. Les activités humaines sont devenues si étendues et profondes qu'elles rivalisent avec les grandes forces de la nature et son en train de faire basculer la terre en *terra incognita*.
+>  -- Steffen, Crutzen et McNeill (2007)
+
+Le **récit dominant** de l'anthropocène, caractérise le passage du constat scientifique à l'identification des *causes* historiques de ces transformation. 
+
+On distingue deux questions principales :
+1. Comment l'impact de l'activité humaine sur le reste de la nature à-t-il évolué sur le temps long, et peut-on repérer un moment de rupture, de transformation ?
+2. Quelles sont les causes de cette rupture, comment s'explique-t-elle, et qui en est responsable ?
+
+On peut donner un réponse objective à la première question si on se met au préalable d'accord sur des critères de mesure de cet *impact* de l'activité humaine (même paradigme).
+En revanche, la deuxième question semble plus complexe, car elle induit un type d'explication qui n'est plus de l'ordre de la mesure quantitative. 
+
+A partir de quand peut-on dire que l'empreinte des activités humaines est devenue comparable, voir supérieure à l'influence de ce que les géologues et climatologues appellent les "grandes forces de la nature". A partir de quand, les émissions anthropiques de gaz à effet de serre se mettent-elles à égaliser, voir à dépasser les émissions naturelles ?
+
+L'anthropocène se caractérise dans le **temps long**, géologique. En effet, en prenant une focale large, on voit une rupture claire, qui scinde notre ére en deux :
+1. De l'apparition d'homo sapiens aux années 1800
+2. Des années 1800 à aujourd'hui
+
+La première époque, qu'on peut caractériser de *pré-anthropocénique*, est souvent représentée comme une époque de cohabitation, au cours de laquelle les humains vivraient en *harmonie* avec la nature. Cette idée à été remise en question récemment, par des études qui montre que l'impact des humains, depuis le début du néolithique, sur leur environnement, n'a jamais été négligeable. Par example, les études scientifiques montrent que l'activité humaine à contribué à l'extinction de la mégafaune.
+
+Ainsi, le récit "standard" de l'anthropocène reconnait que l'activité humaine avait un impact important sur la nature bien avant l'époque moderne, mais ces modification n'ont jamais dépassées des échelles locales, ou continentales. 
+
+Ce qui marque le début de l'impact global, c'est le début de la consommation de charbon par les humains, notamment en Angleterre et en chine.
+
+En 1850, les émissions de $\ce{CO2}$ sortent des *limites de variabilité* de l'holocène.
+

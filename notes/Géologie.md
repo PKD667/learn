@@ -236,14 +236,3 @@ Il existe plusieurs modèles des dynamiques de convection :
 
 Ces mouvements conduisent à une perte *lente* d'énergie de la terre. On estime que la terre se situe à la moitié de sa vie interne.
 
-# Structure et dynamique des enveloppes externes
-
-
-### Une [[atmosphère]] stratifiée et dynamique
-
-### L'[[hydrosphère]]
-
-
-
-
-

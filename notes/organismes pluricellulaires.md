@@ -24,10 +24,62 @@ La circulation du sang dans l'organisme débute par les **artères**, ou il est 
 
 Ainsi, les **artères** permettent le maintient d'une pression constante, à travers leur *force de retour élastique*. Ce travail n'à *aucun coût énergétique* et ne dépends que de l'élasticité artérielle.
 
+#### Artères musculaires et artérioles
 
+> [!tldr] 
+> Les artères musculaires et les artérioles sont capables de **vasomotricité** et contrôlent ainsi à la fois la *résistance périphérique totale* qui influe sur la pression artérielle moyenne, et la distribution du sang aux organes.
+
+Les **artérioles** sont des vaisseaux secondaires du système sanguin. Elles sont caractérisées par un diamètre inférieur à celui des artères élastiques, et sont *très riches* en tissu musculaire.
+
+Ces cellules musculaires peuvent agir sur le diamètre du vaisseau :
+- On parle donc de **vasoconstriction** quand elles se contractent. Dans ce cas, la *résistance périphérique totale* (*RPT*) augmente.
+- Quand elles sont relâchées on parle de **vasodilatation**. La *RPT* diminue.
+
+On peut établir la relation suivante entre la *résistance périphérique totale* ($\mathrm{RPT}$, la *pression artérielle moyenne* ($\mathrm{PAM}$) et le *débit cardiaque* ($\mathrm{DC}$) :
+$$
+\mathrm{RPT = \frac{PAM}{DC}}
+$$
+L'ensemble des mouvements de contraction et de dilatation des fibres musculaire constitue la **vasomotricité**.
+
+Les organes du corps sont situés en *parallèle* sur le circuit sanguin systémique, chacun ne reçoit qu'une part du débit cardiaque, de façon à ce que la somme des débits locaux soit égale au débit global. Le débit sanguin dans un organe  est contrôlé par l'état de contraction des vaisseaux et *varie selon son activité*.
+
+#### Le cycle cardiaque
+
+Le cœur d'un être vivant met le sang en mouvement à travers un mécanisme rythmique de battement cardiaque **rythmique** et **automatique**.
+
+##### Circulation unidirectionnelle
+
+Le cœur est un muscle **creux** séparé en deux moitiés (à peu près) symétriques, composées chacune d'une **oreillette** et d'un **ventricule**.
+
+L'ensemble des parois musculaires du cœur forment le **myocarde**.
+
+La circulation à l'intérieur du cœur est contrainte par des **valvules**. À la limite entre l'oreillette et le ventricule, les valvules *auriculo-ventriculaires* empêchent le retour du sang du ventricule dans l'oreillette.
+
+Au départ des artères, les valvules *artérielles* contrôlent aussi le sens de circulation du sang : du ventricule aux artères.
+
+![[coeur.png]]
+
+La mécanisme cardiaque se caractérise par une alternance entre *systole* (contraction) et *diastole* (relâchement). 
+
+Lors de la **systole ventriculaire** les ventricules se contractent,  la pression intra-ventriculaire augmentent (*contraction iso-volumétrique*), puis les valvules s'ouvrent, et le volume diminue, propulsant le sang dans le reste de l'organisme (*ejection systolique*).
+Lors de la **diastole ventriculaire**, les ventricules se relâchent, les pressions ventriculaires diminuent (*relâchement iso-volumétrique*), et lorsque les valvules sont ouvertes, les ventricules se remplissent, augmentant ainsi le volume ventriculaire.
+
+Ces phases sont synchrones entrent les deux moitiés du cœur.
 #### Automatisme cardiaque
 
-Le cœur s'active du bas vers le heut grâce à un réseau de cellule excitables connectés par des synapses électriques.
+Les expériences montrent que le mécanisme cardiaque ne dépends aucunement du contrôle du système nerveux centralisé, et s'effectue de manière totalement **automatique**.
+
+Cet automatisme est permis par des cellules particulières, qui constituent environ $1\%$ du volume cardiaque : les cellules du **tissu nodal**.
+
+##### Contrôle nerveux
+
+Néanmoins, il existe une forme de contrôle nerveux sur l'activité cardiaque, qui va réguler le rythme cardiaque en fonction des besoin et des capacités du corps.
+
+Ainsi, il existe deux voies nerveux aux effets opposés :
+ - Le système **parasympathique** qui va *réduire* la fréquence cardiaque. On parle d'action **cardio-modératrice**. Cette régulation s'exerce à travers un neurotransmetteur, l'*acétylcholine*.
+ - Le système *sympathique* qui va *augmenter* la fréquence cardiaque à l'aide de *noradrénaline*. On parle d'effet **cardio-accélérateur**.
+
+De plus, le système hormonal, à travers l*adrénaline* peut avoir un effet cardio-accélérateur.
 
 ### La sève des végétaux
 
