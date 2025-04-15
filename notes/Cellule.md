@@ -641,7 +641,7 @@ Il joue ainsi un double rôle, on parle alors de glande **amphicrine**.
 #### Les îlots de Langerhans
 
 Les îlots de Langerhans sont les capteurs du niveau de glycémie dans les pancréas. Ils sont constitués de différents types de cellules : 
- - Les cellules $\beta$ qui sont situées au center, productrices d'**insulines**
+ - Les cellules $\beta$ qui sont situées au centre, productrices d'**insulines**
  - Les cellules $\alpha$ situées plus à l'extérieur, qui vont produire du **glucagon**.
 
 Les îlots de Langerhans possèdent de nombreux capillaires. 
@@ -674,10 +674,10 @@ Finalement, on peut définir une hormone comme étant une molécule émise pas u
 
 Les organes effecteurs sont les organes *cibles* des hormones.
 
-Des expériences comme celles de Claude Bernard permettent de stocker du glucose sous forme de glycogène. Le glycogène est stockée dans des structures globulaires, les **rosettes** situées dans les *hépatocytes*. Le glycogène rassemble $50000$ glucoses reliés par des liaisons $\alpha-1-4$ qui donne une structure en hélice. 
+Des expériences comme celles de Claude Bernard permettent de stocker du glucose sous forme de glycogène. Le glycogène est stockée dans des structures globulaires, les **rosettes** situées dans les *hépatocytes*. Le glycogène rassemble $50~000$ glucoses reliés par des liaisons $\alpha-1-4$ qui donne une structure en hélice. 
 
 Le foie peut stocker jusqu'à $100~g$ de glycogène.
-
+c
 On trouve aussi du glycogène dans les cellules musculaire sous forme de **granules**, d'une masse totale de $200~g$ dans l'ensemble des muscles.
 
 Le foie et les muscles sont les deux organes de stockage du glycogène. 

@@ -107,7 +107,7 @@ De plus, on peu observer que le flux de *sève brute* c'est pas constant :
  - Il est maximal en milieu de journée
  - Il est minimal pendant la nuit
 
-Ce mouvement est expliqué par une **mise sous tension** de la sève, liée à l'*évapo-transpiration* des feuilles, qui **tire** la sève vers le haut. En effet, lors de l'ouverture des tomates sur une atmosphère qui à un faible *potentiel hydrique*, il y a rejet de vapeur d'eau. La cohésion de la colonne d'eau, liée aux nombreuses liaisons hydrogène va donc crée un mouvement global de traction.
+Ce mouvement est expliqué par une **mise sous tension** de la sève, liée à l'*évapo-transpiration* des feuilles, qui **tire** la sève vers le haut. En effet, lors de l'ouverture des stomates sur une atmosphère qui à un faible *potentiel hydrique*, il y a rejet de vapeur d'eau. La cohésion de la colonne d'eau, liée aux nombreuses liaisons hydrogène va donc crée un mouvement global de traction.
 
 #### Formation et circulation de la sève élaborée
 

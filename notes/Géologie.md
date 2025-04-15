@@ -1,5 +1,6 @@
 ## [[Océans et cailloux]]
 
+
 # Structure du globe et géodiversité
 
 ### Géodiversité à différentes échelles d'étude
@@ -163,7 +164,7 @@ Les continent ressemblent à un puzzle.
 
 En 1920 Wegener propose un théorie du mouvement des continents, la **dérive des continents**, qui précède la tectonique des plaques.
 
-Afin de trouver de pétrole, les géologues mennent de nombreuses expériences sur le globe.
+Afin de trouver de pétrole, les géologues mènent de nombreuses expériences sur le globe.
 
 Le **camp magnétique** terrestre oriente la boussole vers le nord. Il provient d'une dynamo et est défini par des ligne de force. Il correspond environ au Nord géographique.
 
@@ -232,7 +233,60 @@ L'origine des forces liées à la géodynamique sont des mouvement qui se produi
 Il existe plusieurs modèles des dynamiques de convection :
 1. Modèle à deux couches de cellules de convection
 2. Modèles d'une circulation convective affectant l'ensemble du manteau
-3. Modèle de la convection pénetrative
+3. Modèle de la convection pénétrative
 
 Ces mouvements conduisent à une perte *lente* d'énergie de la terre. On estime que la terre se situe à la moitié de sa vie interne.
+
+# Le phénomène sédimentaire
+
+## Paysages et transfert des matériaux en surface
+
+### Quelques aspects de la diversité des paysages
+
+#### Paysage tempéré 
+
+Les monts d'or sont trois monts :
+ - Le mont Verdun
+ - Le mont Toux
+ - Le mont ?
+
+Ils sont caractérisés par la présence d'une faille, qui témoigne d'une activité géologique complexe, la *faille de Limonest*. Ils sont composé de différentes structures géologiques, comme le calcaire et les marnes. De plus, on constate que les différentes *strates* sont penchées, on parle alors de pendage.
+
+Ainsi, on peut observer des *chaos granitiques* qui représentent un ensemble de boules de granite, fracturés par des *diaclases*. Le granite qu'on y trouve est aussi caractérisé par une surface en relief, formée par l'altération différentielle des minéraux, qui laisse dépasser les cristaux de quartz. Il se distingue aussi par une parte de son unité structurale (granite pourri). Ainsi, tout cela forme une arène granitique.
+
+Le *sol* est le résultat d'un processus d'[[altération]].
+
+#### Haute montagne
+
+Le relief granitique alpin se différencie des *chaos granitiques* par plusieurs éléments:
+ - Une découpe en *dalles verticales*, fracturées par un système de diaclase.
+ - L'absence de sol
+ - Des structures très abruptes
+
+En altitudes, il existe de fortes variations de températures, qui vont affecter les formation rocheuses. En effet, les roches sont constituées par différents minéraux, qui possèdent donc différentes propriétés thermiques comme le *coefficient de dilatation thermique*. Ainsi, lors d'une augmentation de la température, on observe une *dilatation* (augmentation du volume molaire) différenciée entre les minéraux, ce qui va mener à des cassures au sein de la structures rocheuse. On parle de **thermoclastie**. 
+
+Dans les cassures provoquées par la **thermoclastie** va s'infiltrer de l'eau, qui va elle même subir des dynamiques de *gel-dégel* et donc de *contraction-dilatation*, et contribuer à l'altération mécanique de la roche. On parle alors de **gélifraction**.
+
+L'ensemble de ces phénomènes d'[[altération]] peuvent constituer une première étape du processus d'*érosion*. L'**érosion** (*-erodere*) se caractérise par un départ de matière. 
+
+Les glacier peuvent constituer des agents d'érosion. Il emportent des blocs rocheux qui vont à leur tour éroder la partie latérale du glacier. Ils sont ainsi responsables de la formation de *vallées glaciaires*.
+
+---
+
+On peut lister différents agents qui sont responsables de l'altération physique :
+1. La *fissuration* (tectonique, joints de stratification, diaclases)
+2. La *thermoclastie*
+3. La *cryoclastie* (gélifraction)
+4. La *haloclastie* (action du sel)
+5. l'*hydratation* (action de l'eau liquide)
+6. La *corrasion déflation* (usure mécanique par le vent)
+
+Il existe différentes formes de reliefs **[[karstique]]**, caractérisé par différents mécanismes l'altération physique du calcaire. On peut citer les gouffres, les dolines, ou les paysages ruiniformes. 
+
+Les reliefs endokarste sont les grottes, les rivières souterraines et les lac souterrains. 
+
+Les résurgences sont des sorties de rivières souterraines.
+
+
+
 

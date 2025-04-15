@@ -20,6 +20,11 @@ La composition de ces strates dépends directement de la densité des différent
 
 Ces dynamiques sont variables, et dépendent de la stabilité relative de l'atmosphère à un moment donné. Ainsi, dans certains conditions , on pourra observer des stratus, ou des cumulus.
 
+### Ascendance et formation des nuages
+
+Malgré une stabilité générale, on peut observer des mélanges au sein de la *troposphère*. L'air plus chaud au sol se dilate, ce qui conduit à son ascension. Ce type d'ascension est marqué par la formation de nuage. L'air subit une décompression adiabatique, se refroidit, et finalement de fines gouttelettes d'eau  se forment, donnant naissance aux nuages.
+
+Quand l'atmosphère est stable, l'ascension de l'air s'arrête et on observe la formation de *stratus*. Dans le cas d'une atmosphère instable, des *cumulus* se forment.
 # Une atmosphère dynamique
 
 Lors de l'arrivée sur terre de la radiation solaire, elle est absorbée puis renvoyée dans l'atmosphère et dans le reste de l'univers. Lors de son passage dans l'atmosphère, les rayons infrarouges réémis par le sols sont réfléchis par les *gaz à effet de serre*, qui permettent ainsi de garder la chaleur solaire .

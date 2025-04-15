@@ -306,8 +306,7 @@ Le paradigme keynésien introduit le concept de **liquidité** défini comme l'a
 
 La **liquidité d'un agent** économique correspond à son aptitude à faire face à ses engagements à une date prévue. Il doit pour cela disposer de la monnaie requise pour régler ses dettes. Il ne faut pas confondre **liquidité** et **solvabilité**.
 
-Un agent est **solvable** lorsque la somme de ses **actif** est supérieure à la valeur de son **passif**.
-
+Un agent est **solvable** lorsque la somme de ses **actif** est supérieure à la valeur de son **passif**
 
 ##### Théorie keynésienne
 
@@ -603,3 +602,33 @@ Ce concept est étroitement lié à l'idée de *frontières de possibilité de p
 Depuis 1900, on considère que les États-Unis son le pays situé à la fontière technologique. Dans les pays à la fontière, les possibilités de croissance nécéssitent de repousser cette frontière par l'innovation.
 
 Les pays entrss dans le processus de croissance mais loin de la frontière sont appelés *économie d'imitation*.
+
+##### Progrès induit ou autonome
+
+Le **progrès technique autonome** ou **exogène** désigne l'ensemble des éléments qui contribuent à la croissance au-delà de ce qui est expliqué par l'accroissement des quantités de facteurs. 
+
+Le concept de **progrès technique induit** ou **endogène** est utilisé lorsqu'il apparaît commun une conséquence de la croissance, et non seulement une de ses causes. En effet, la croissance augmente les possibilités de financement de recherche et d'investissement.
+
+Le **progrès technique neutre** ou **incorporé** représente celui qui s'exerce uniquement pas l'intermédiaire des deux autres facteurs de production. Ainsi, il est dit incorporé soit au facteur travail soit au facteur capital.
+
+### Modèle de Solow
+
+Le modèle de **Solow** propose une analyse de la croissance économique sur le long terme, et examine la dynamique économique. Il repose sur un certain nombre d'hypothèses :
+1. Les facteurs de production sont parfaitement substituables
+2. Le taux d'intensité capitalistique $K/L$ est variable avec la croissance
+3. Le produit national $Y$ est donné par une fonction de production à rendement d'échelle constants
+4. La **totalité** de l'épargne est investie (rip Keynes)
+5. La productivité marginale du capital est décroissante.
+
+Ainsi, en partant de ces principes, le modèle de Solow décrit un *épuisement de la croissance*. La croissance ressemble à une sorte de logarithme.
+
+![[solow.png]]
+
+Même si pour certains économiste, le modèle de Solow semble avoir un faible potentiel descriptif, il à une forte portée *heuristique* en expliquant le modèle de renouvellement de la croissance. En effet, la croissance réelle est portée non pas par un simple développement de l'épargne et une accumulation du capital, mais par le progrès technologique.
+
+Il permet finalement de répliquer les *faits de Kaldor*.
+### Économie soutenable et transition écologique
+
+#### Qu'est-ce que la transition écologique
+
+La transition écologique n'existe pas.

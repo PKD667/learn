@@ -149,3 +149,34 @@ Ce qui marque le début de l'impact global, c'est le début de la consommation d
 
 En 1850, les émissions de $\ce{CO2}$ sortent des *limites de variabilité* de l'holocène.
 
+### Limites de l'idée d'anthropocène
+
+ - Naturalisation de l'histoire humaine
+ - Homogénéisation des sociétés humaines dans une catégorie abstraite
+ - Nous mets dans un point de vue extra-social qui considère que seule la communauté de la recherche dispose des clefs pour résoudre le problème écologique
+
+# Marx et l'idée de Capitalocène
+
+Quels sont les facteurs, ou agent responsables des transformation qui ont conduit à l'Anthropocène ?
+
+Ce n'est pas l'espèce humaine qui est responsable de l'anthropocène.
+
+Pour Marx, un concept idéologique est une abstraction qui permet de masquer de masquer et de justifier des rapports sociaux de domination, en les faisant passer pour *naturels*.
+
+Ainsi, l'idée d'anthropocène sert de masque à un type d'humanité très particulier et peut s'apparenter à une tentative de faire passer pour naturel un type d'organisation sociale historiquement limité. Par exemples, les courbes qui semblent montrer une explosion de la consommation de l'humanité peuvent en réalité être corrélées au mode de vie d'une part minuscule de l'espèce humaine, confinée socialement et géographiquement.
+
+En effet, selon le lieu ou l'on naît, les émissions de CO2 peuvent varier de $1$ à $1000$.
+
+Dans ce cas là, l'agent principale des modification planétaires, et en particulier climatique n'est pas l'*espèce humaine* mais plutôt le **capital**, qui est lui porteur d'une logique, d'une dynamique interne qui est nécessairement productrice de dérèglement écologique.
+
+La capitalisme porte en lui, de manière consubstantielle la crise climatique de part sa dynamique de croissance infinie de la consommation et de la production.
+
+Les rapports de production c'est les rapports sociaux et juridiques qui organisent et légalisent la mise au travail et codifient les rapports entre ceux qui travaillent et ceux qui ont le pouvoir d'en faire travailler d'autres. C'est à dire le rapport entre propriétaire et non-propriétaire.
+
+Ainsi, chaque société peut-être caractérisée par son mode de production, qui constitue une base matérielle qui représente la manière dont on organise le travail et la propriété des fruits du travail.
+
+Dans le système capitaliste, on peut représenter la logique des échanges par un schéma $A-M-A$ dans lequel la **capital** est l'objet principle de l'économie, et est immédiatement réinjecté dans le circuit productif. Cette vision s'oppose aux économies que Marx nomme *pré-capitaliste*, ou le circuit à pour object non le capital, mais la marchandise en elle même ($M-A-M$). 
+
+La travail de Marx à pour but de faire de l'économie une science, il théorise la compréhension du capitalisme, indépendamment d'une vision politique, ou morale.
+
+La tendance à accumuler le capital, et à poursuivre l'exploitation de l'homme n'est pas un problème moralisable, mais plutôt une dynamique structurelle, dans laquelle les hommes ne sont que des pions, qui obéissent à des lois d'un marché qui les dépasse.

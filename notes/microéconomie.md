@@ -410,3 +410,9 @@ Le marché peut aussi avoir des régulation sur la quantité, ce qui crée une s
 
 Un exemple de ce type de régulation est le **prix plafond**.
 
+# Les politiques publiques
+
+Afin d'étudier l'utilité économique des politiques publique, nous disposons de plusieurs outils.
+
+L'analyse coût bénéfices permet de déterminer si une politique publique *vaut la peine* d'être menée. L'enjeu est de pouvoir évaluer concrètement les coût et les bénéfices pour la société dans son ensemble, ainsi cela nécessite de mobiliser un important travail pluridisciplinaire.
+
