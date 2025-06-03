@@ -532,7 +532,7 @@ Dans l'*économie du XXème siècle*, Francois Perroux en propose une définitio
 Ainsi, le **taux de croissance** se mesure par la variation relative (dérivée) du Produit Intérieur Brut d'une période sur une autre ($\frac{\mathrm{d}\text{PIB}}{\mathrm{d}x}$).
 
 En 1971, Simon Kuznets en propose une définition élargie :
-> $\text{[La croissance économique]}$ se traduit pour un  pays par la hausse, sur une longue période, de sa capacité à offrir à sa population une gamme sans  cesse élargie de biens économiques. Cette capacité croissante est fondée sur le progrès technique et  les ajustements institutionnels et idéologiques qu’elle requiert
+> $\text{[La croissance économique]}$ se traduit pour un pays par la hausse, sur une longue période, de sa capacité à offrir à sa population une gamme sans cesse élargie de biens économiques. Cette capacité croissante est fondée sur le progrès technique et  les ajustements institutionnels et idéologiques qu’elle requiert
 
 Cette définition semble plus adaptée à des enjeux contemporains comme l'urgence climatique.
 
@@ -554,9 +554,11 @@ Plus généralement, on peut considère à l'échelle historique que la croissan
 
 Le calcul de la croissance potentielle utilise des *modèles macroéconomique* qui dépendent du taux de croissance de la population active, du taux d'emploi, du taux de chômage incompressible et du taux de croissance de la productivité.
 
+Il faut ainsi distinguer le **trend de croissance économique** calculé comme une régression linéaire des taux de croissance effectifs calculés chaque année, avec la croissance potentielle qui elle est issue d'indicateur macroéconomique.
+
 ### Limites de la croissance
 
-La croissance étant un indicateur fortement dépendant du PIB, on peut émettre les même critiques que formulées sur le [PIB](macroéconomie#Produit intérieur brut).
+La croissance étant un indicateur fortement dépendant du PIB, on peut émettre les même critiques que formulées sur le [PIB](macroéconomie#Produit intérieur brut) (voir Stiglitz-Sen-Fitoussi)
 
 Sur le plan international, les comparaisons de croissance peuvent être fortement impactées par l'évolution du *taux de change* des différentes monnaies.
 
@@ -611,7 +613,23 @@ Le concept de **progrès technique induit** ou **endogène** est utilisé lorsqu
 
 Le **progrès technique neutre** ou **incorporé** représente celui qui s'exerce uniquement pas l'intermédiaire des deux autres facteurs de production. Ainsi, il est dit incorporé soit au facteur travail soit au facteur capital.
 
-### Modèle de Solow
+### Croissance et convergence conditionnelle
+
+Angus Maddison étudie la croissance sur une perspective du temps long, et explique qu'il existe dans le développement des sociétés humaines des **facteurs structurels à la croissance** qui se retrouvent dans différentes phases historiques qu'il à identifié. 
+1. Les **conquêtes et/ou colonisations** des zones peu peuplées qui permettent une croissance extensive par l'exploitation massive des ressources naturelles.
+2. Les **échanges internationaux de biens et les mouvements de capitaux** qui favorisent la croissance et l'extension de la division du travail.
+3. La période d'**innovations et de changements techniques et institutionnels** qui permet une forte croissance intensive.
+
+Ainsi, en suivant cette idée, on peu considérer que la première phase est caractérisée par la *colonisation et les grandes découvertes*, puis qu'ensuite la deuxième phase vient avec la *révolution industrielle* et finalement la troisième avec la longue phase de croissance intensive post-seconde guerre mondiale, jusqu'au chocs pétroliers.
+
+#### Les étapes de la croissance de Rostow
+
+Pour Rostow, c'est pareil que Madison, mais y'a 7 étapes.
+
+---
+
+Plus globalement, les économistes observent un phénomène de convergence conditionnelle, ou **convergence macroéconomique**, c'est à dire que les économies moins avancées ont tendance a rattraper les économies plus avancées, grâce à leur croissance plus forte. 
+#### Modèle de Solow
 
 Le modèle de **Solow** propose une analyse de la croissance économique sur le long terme, et examine la dynamique économique. Il repose sur un certain nombre d'hypothèses :
 1. Les facteurs de production sont parfaitement substituables
@@ -627,6 +645,22 @@ Ainsi, en partant de ces principes, le modèle de Solow décrit un *épuisement 
 Même si pour certains économiste, le modèle de Solow semble avoir un faible potentiel descriptif, il à une forte portée *heuristique* en expliquant le modèle de renouvellement de la croissance. En effet, la croissance réelle est portée non pas par un simple développement de l'épargne et une accumulation du capital, mais par le progrès technologique.
 
 Il permet finalement de répliquer les *faits de Kaldor*.
+
+### Sources de la croissance
+
+On parle de **croissance extensive** quand elle est due à une augmentation de la population et/ou à un effort d'investissement du capital (*quantitative*).
+Il existe aussi une forme de croissance dite **intensive** qui repose sur des facteurs plus *qualitatifs* comme le **progrès technique** ou une division du travail plus efficace, qui permettent de produire plus avec la même quantité de capital et de travail.
+
+Ainsi, la croissance **extensive** est nécessairement limitée par la perte d'efficacité des facteurs de production d'après la loi des *rendement factoriels décroissants* (marche vers l'état stationnaire de Ricardo).
+
+La croissance intensive repose sur  une augmentation de la **Productivité globale des facteurs** (PGF). 
+
+#### Comptabilité de la croissance
+
+Plusieurs modèles permettent d'étudier la croissance, comme le modèle de **Cobb-Douglas**
+$$
+Y = A\times K^\alpha \times L^{1-\alpha}
+$$
 ### Économie soutenable et transition écologique
 
 #### Qu'est-ce que la transition écologique

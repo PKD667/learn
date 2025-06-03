@@ -1,0 +1,1 @@
+L'**eutrophisation** désigne une *sur-alimentation* d'un espace naturel, souvent liée à l'activité anthropique, qui à souvent des effet néfastes sur l'environnement. Elle peut être causé par une sur-représentation de complexe anioniques qui servent de nutriments aux plantes.

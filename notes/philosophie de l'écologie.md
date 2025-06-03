@@ -1,4 +1,4 @@
-Après les premières bombes nucléaires, Günter Anders essaye de théoriser la possibilité de la destruction du monde par l'homme. 
+  Après les premières bombes nucléaires, Günter Anders essaye de théoriser la possibilité de la destruction du monde par l'homme. 
 
 ### Don't look up
 
@@ -88,7 +88,7 @@ Turner développe donc plusieurs critiques contre l'idée de *wilderness* :
  3. Elle est dualiste car elle reconduit une conception dans laquelle l'humain se situe en dehors du monde naturel.Autrement dit, nature et humanité apparaissent comme deux pôle incompatibles. Ainsi, il n'y aurait pas de nature la ou l'humain serait.
 
 En réalité, le paysage de l'Amérique à l'arrivée des colons n'était pas un paysage dépourvu d'influence humaine, c’était un paysage sculpté par des millénaires d'influence des autochtones. 
-
+ 
 On peut se demander si la wilderness n'est pas une sorte de *sas de decompression* qui permet justement la permanence du mode de vie qui est censé la détruire.
 
 La conception dualiste de l'idée de wilderness se retrouve dans beaucoup d'organisation écologique, qui sont donc centrée autour d'écosystèmes lointains comme l'amazone ou la banquise. En représentant la nature comme une sphère ou un mode d'être qui serait menacé par l'être humain en général, on impose un idéal de protection extrême, qui apparaît comme la contrepartie de sa négligence de toutes les destruction dans le pôle opposé.
@@ -121,6 +121,8 @@ Le clivage entre notre science et notre politique fait que nous, les modernes n'
 
 > Il est difficile d'imaginer que les citoyens pourraient se mobiliser pour défendre un nature avec laquelle ils n'auraient aucune relation.
 
+
+Être moderne, c'est distinguer la nature et la culture, mais en réalité, on à jamais distingué les deux (*latour*) du coup on à jamais été moderne, et ça veut rien dire. ==Conclusion : rien==
 # Anthropocène
 
 > L'idée d'**anthropocène** signifie que la Terre est sortie de l'époque géologique dans laquelle elle se trouvait, c'est à dire le régime interglaciaire appelé *Holocène*. Les activités humaines sont devenues si étendues et profondes qu'elles rivalisent avec les grandes forces de la nature et son en train de faire basculer la terre en *terra incognita*.
@@ -143,7 +145,7 @@ L'anthropocène se caractérise dans le **temps long**, géologique. En effet, e
 
 La première époque, qu'on peut caractériser de *pré-anthropocénique*, est souvent représentée comme une époque de cohabitation, au cours de laquelle les humains vivraient en *harmonie* avec la nature. Cette idée à été remise en question récemment, par des études qui montre que l'impact des humains, depuis le début du néolithique, sur leur environnement, n'a jamais été négligeable. Par example, les études scientifiques montrent que l'activité humaine à contribué à l'extinction de la mégafaune.
 
-Ainsi, le récit "standard" de l'anthropocène reconnait que l'activité humaine avait un impact important sur la nature bien avant l'époque moderne, mais ces modification n'ont jamais dépassées des échelles locales, ou continentales. 
+Ainsi, le récit "*standard*" de l'anthropocène reconnait que l'activité humaine avait un impact important sur la nature bien avant l'époque moderne, mais ces modification n'ont jamais dépassées des échelles locales, ou continentales. 
 
 Ce qui marque le début de l'impact global, c'est le début de la consommation de charbon par les humains, notamment en Angleterre et en chine.
 
@@ -179,4 +181,4 @@ Dans le système capitaliste, on peut représenter la logique des échanges par 
 
 La travail de Marx à pour but de faire de l'économie une science, il théorise la compréhension du capitalisme, indépendamment d'une vision politique, ou morale.
 
-La tendance à accumuler le capital, et à poursuivre l'exploitation de l'homme n'est pas un problème moralisable, mais plutôt une dynamique structurelle, dans laquelle les hommes ne sont que des pions, qui obéissent à des lois d'un marché qui les dépasse.
+La tendance à accumuler le capital, et à poursuivre l'exploitation de l'homme n'est pas un problème moralisable, mais plutôt une dynamique structurelle, dans laquelle les hommes ne sont que des pions, qui obéissent à des lois d'un marché qui les dépasse. (*réel*)

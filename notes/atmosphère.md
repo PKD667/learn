@@ -20,6 +20,16 @@ La composition de ces strates dépends directement de la densité des différent
 
 Ces dynamiques sont variables, et dépendent de la stabilité relative de l'atmosphère à un moment donné. Ainsi, dans certains conditions , on pourra observer des stratus, ou des cumulus.
 
+La masse volumique de l'air s'exprime :
+$$
+\rho = \frac{P\times\text{Ma}}{RT}
+$$
+ - $P$ la pression
+ - $\text{Ma}$ la masse molaire de l'air
+ - $R$ la constante des gaz parfaits
+ - $T$ la température
+
+
 ### Ascendance et formation des nuages
 
 Malgré une stabilité générale, on peut observer des mélanges au sein de la *troposphère*. L'air plus chaud au sol se dilate, ce qui conduit à son ascension. Ce type d'ascension est marqué par la formation de nuage. L'air subit une décompression adiabatique, se refroidit, et finalement de fines gouttelettes d'eau  se forment, donnant naissance aux nuages.
@@ -30,12 +40,24 @@ Quand l'atmosphère est stable, l'ascension de l'air s'arrête et on observe la 
 Lors de l'arrivée sur terre de la radiation solaire, elle est absorbée puis renvoyée dans l'atmosphère et dans le reste de l'univers. Lors de son passage dans l'atmosphère, les rayons infrarouges réémis par le sols sont réfléchis par les *gaz à effet de serre*, qui permettent ainsi de garder la chaleur solaire .
 
 Ainsi, en moyenne le soleil nous envoie $342 \mathrm{ ~W.m^{-2}}$ et la terre en renvoie $235~\mathrm{W.m^{-2}}$ après les différents mécanismes de l'effet de serre. Ce rapport permet une température globale d'environ $15 °C$.
-
 ### Mécanique atmosphérique
 
-Les mouvement des masses d'air sont définis par des caractéristiques précises. La **force de Coriolis** est un des moteurs principaux de la géodynamique externe. 
+A cause des différences d'inclinaison relative par rapports au soleil dans les différentes régions de la terre, l'énergie reçue par le rayonnement solaire est inégalement répartie. Ainsi, on à un *déficit* vers les pôles et un *excès* vers l'équateur. Cela donne naissance aux mécanismes météorologiques.
+
+En effet, se met en place une redistribution de l'énergie par *convection* qui se traduit par des **cellules de convention**. A cela vient s'ajouter la **force de Coriolis**, liée à la rotation de la terre qui est un des moteurs principaux de la géodynamique externe. 
 
 Dans l'hémisphère nord, les vents sont déviés vers leur droite, alors qu'il sont déviés vers leur gauche dans l'hémisphère sud. La force de Coriolis est plus puissante au niveau de l'équateur.
+
+Quand l'air *s'élève* on parle de *zone dépressionnaire*.
+Quand l'air *redescend* on parle de *zone anticyclonique*.
+
+#### Zone de convergence inter-tropicale
+
+La **zone de convergence inter-tropicale** (*ZCIT*) est le point de convergence des **alizés**, sa dynamique est responsable notamment de la *mousson indienne*.
+
+
+
+
 
 
 

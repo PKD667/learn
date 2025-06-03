@@ -271,6 +271,48 @@ L'ensemble de ces phénomènes d'[[altération]] peuvent constituer une premièr
 
 Les glacier peuvent constituer des agents d'érosion. Il emportent des blocs rocheux qui vont à leur tour éroder la partie latérale du glacier. Ils sont ainsi responsables de la formation de *vallées glaciaires*.
 
+### Évolution minéralogique et géochimique du granite
+
+Suite aux phénomènes d'altération, le granite sa subir une évolution *minéralogique* et *géochimique*. 
+
+#### Évolution géochimique
+
+Lors de l'altération de la roche, les ions présent dans la roche mère n'ont pas le même comportement. Ainsi, certains, comme les oxydes de fer ont tendance à s'accumuler, alors que les composées du *calcium*, du *sodium* et du *potassium* disparaissent.
+
+Ce phénomène peut s'expliquer par les propriétés chimiques des ions. Ces propriétés sont représentées dans le *diagramme de Goldschmitt*. On distingue trois types de comportements, liés au *potentiel ionique*, c'est à dire la rapport *charge/rayon* ($\frac{Z}{R}$) :
+
+Les ions à faibles potentiels, comment les *cations solubles* vont être très mobiles, et solubles.
+
+D'autres ions, qui possèdent une plus forte charges sont appelés *hydrolysats* et vont former des *hydroxydes* avec l'eau, et donc rapidement précipiter. Ils sont peu mobiles.
+
+Enfin, les *complexes anioniques solubles*, qui possèdent un potentiel élevé, vont annexer des *oxygènes* de la molécule d'eau, pour former des *complexes* très solubles. Cette famille d'ion contient notamment le *phosphate* ou l'*azote* et est donc essentielle à la vie. Ils vont être liés à des phénomènes d'[[eutrophisation]].
+
+Ces mécanismes chimiques différencié vont conduire à une tri des éléments lors de l'altération, qui va définir la composition chimique des minéraux. 
+
+Le processus d'altération va définir les caractéristiques du sol.
+
+
+##### Hydrolyse de l'orthose
+
+L'observation chimique de l'hydrolyse de l'orthose nous permet de vérifier des phénomènes chimiques, qui se manifestent pas des niveaux d'altération différents, et donc des épaisseur du sol différentes. Ainsi, l'altération est plus forte dans les zones chaudes et humides, alors qu'elle est faible dans les zones tempérés et séchés.
+
+L'analyse du sol peut nous permettre de reconstituer le type de climat dans lequel sa formation à eu lieu.
+
+##### Eau et température
+
+L'**eau** et la **température** sont des facteurs clés de l'alteration des roches.
+
+#### Altération physique
+
+L'*altération physique* se caractérise par la perte de l'unité physique des roches par l'action de processus mécaniques. Une roche *hétérogène* est plus sensible à l'altération physique. Cette hétérogénéité peut être structurale (diaclases) ou minéralogique.
+
+Il y à un *effet boule de neige*, entre l'altération physique et l'altération chimique. EN effet, les diaclases forment de zones ou l'eau va pouvoir pénétrer, ce qui va accélérer l'hydrolyse, et ainsi agrandir les diaclases. 
+
+De plus, les interaction avec la biosphère vont contribuer à ce phénomènes, à travers l'altération racinaire.
+
+
+L'altération chimique des silicates fait baisser le taux atmosphérique de $CO2$.
+
 ---
 
 On peut lister différents agents qui sont responsables de l'altération physique :
@@ -287,6 +329,59 @@ Les reliefs endokarste sont les grottes, les rivières souterraines et les lac s
 
 Les résurgences sont des sorties de rivières souterraines.
 
+### Les sols
+
+Les sols sont un produit de l'altération des roches. Ils constituent une ressource, comme *réservoir de biodiversité* et terrain pour l'agriculture et l'élevage.
+
+Ainsi, les *sols* sont une richesse importante pour nos sociétés, mais menacées. En effet, ils peuvent être amenés à disparaître. On parle ainsi de phénomène d'érosion.
+
+# Érosion
+
+Les fleuves se chargent en sédiments, puis les déposent au niveau de leur delta, c'est le phénomène de *pro-gradation*.
+
+La **compétence** d'un cours d'eau, c'est son aptitude à transporter des éléments d'une certaines taille. 
+
+Le *Gange* et le *Brahmapoutre* vont *ronger* l'Everest, et déposer les sédiments au niveau de leur delta.
+
+La **charge solide** d'un fleuve, c'est la quantité d'élément qui y sont en suspension.
+
+La nature de la roche mère va influencer la composition chimique *en solution* des eaux de rivières. Le climat, à travers les précipitations peut aussi jouer un rôle.
+
+L'Afrique ne possède pas beaucoup de roches carbonatées.
+
+En terme de bilan de masse, l'érosion physique est $4$ à $5$ fois plus importante que l'érosion physique. 
+
+L'érosion **éolienne**, liée au vent est très importante, notamment au niveau des désert et des côtes.
+
+Hjulström s'est intéressé à l'impact de différents paramètres physique sur la capacité sédimentaire d'un cours d'eau. Ainsi, il a effectué des expérience en faisant varier la vitesse de l'eau et la granulométrie  des sédiments.
+
+On peut observer qu'à cause de certains effets de cohésion, des éléments plus petits peuvent être plus difficilement érodés que certains gros éléments.
+
+### L'homme agent d'érosion
+
+Certains pratiques agricoles peuvent favoriser l'érosion des sols.
+
+Par exemple, la *monoculture* favorise l'érosion éolienne. 
+
+La végétation des sols limites l'*effet splash* et permet d'augmenter la cohésion des sols, en maintenant les complexes *argilo-humiques* en place.
+
+#### Utilité de l'érosion
+
+Les processus de surface, comme l'érosion sont à l'origine de la création de ressources, qui peuvent être utiles à l'homme. La bauxite par exemple, représente un produit de l'érosion exploité par l'homme. 
+
+Un **gisement** c'est lorsqu'un élément chimique, ou un matériaux est présent en concentration très largement supérieur à son [[clarke]]. Le **lithium** est un élément chimique de la famille des *alcalins* qui possède des propriétés électrostatiques qui le rendent essentiel pour les batteries électriques. Ainsi, cela représente une enjeu politique important, notamment à cause de sa répartition inégale.
+
+Le lithium est très concentré dans la croûte continentale. Cela est du au fait qu'il s'agit d'un élément **incompatible** c'est à dire qui à tendance à se concentrer dans les phases fluides, comme *l'eau* ou le *magma*. Il existe donc deux types de gisements de lithiums :
+ - Les gisements **endogènes** composés de roches magmatiques ayant concentrées le lithium
+ - Les gisements **sédimentaires**, formés par un processus de transport du lithium dans un cycle d'altération par dissolution puis d'évaporation. 
 
 
+
+# Cartographie
+
+Une **discordance** c'est une rupture dans l'histoire géologique d'une région. Sur une carte géologique, elle se repère par des *points triples*, c'est à dire des points lient trois époques géologiques différentes. 
+
+Les points triples sont des discordance tant qu'il y à absence de faille. Plus précisément, tout points triple ou il y à limite de couche est une discordance, donc pas les failles.
+
+La coupure délimite géographiquement l'histoire géologique.
 

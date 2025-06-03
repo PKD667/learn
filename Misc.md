@@ -4,11 +4,17 @@
 
 [[CAIH]]
 
+[[pierre-emmanuel martin]]
+
+
 # Independent 
 
 ### [[Category theory]]
 
 ### [[Entropie]]
+
+### [[Quantum Information]]
+
 
 # Projects
 

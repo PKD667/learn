@@ -24,6 +24,8 @@ La circulation du sang dans l'organisme débute par les **artères**, ou il est 
 
 Ainsi, les **artères** permettent le maintient d'une pression constante, à travers leur *force de retour élastique*. Ce travail n'à *aucun coût énergétique* et ne dépends que de l'élasticité artérielle.
 
+Elle sont constituées d'un *média* qui contient du collagène et des fibres musculaires lisses entouré d'une *adventice* qui contient des nerfs et des artérioles.
+
 #### Artères musculaires et artérioles
 
 > [!tldr] 
@@ -42,6 +44,22 @@ $$
 L'ensemble des mouvements de contraction et de dilatation des fibres musculaire constitue la **vasomotricité**.
 
 Les organes du corps sont situés en *parallèle* sur le circuit sanguin systémique, chacun ne reçoit qu'une part du débit cardiaque, de façon à ce que la somme des débits locaux soit égale au débit global. Le débit sanguin dans un organe  est contrôlé par l'état de contraction des vaisseaux et *varie selon son activité*.
+
+#### Les capillaires, zones d'échange
+
+Les capillaires sont les plus petits vaisseaux de la circulation sanguine. Ils constituent un réseau extrêmement ramifié qui, chez l'homme contient $5$ milliards de capillaires pour une longueur totale $\approx 40~000$ km. Il referment de $5$ à $10\%~$ du volume sanguin.
+
+Ils sont caractérisés par des barières très fines, qui permettent un échange diffusif avec les cellules, afin d'y apporter des nutriment, de l'oxygène et de distribuer des hormone. 
+
+De plus, la vitesse de la circulation est bien plus faibles que les plus grosses artères. Cela favorise les échanges.
+
+On peut par exemple étudier les capillaires présents dans les alvéoles pulmonaires, qui constituent un circuit d'échange vital.
+
+#### Les veines
+
+Les veines sont les vaisseaux de retour du sang vers le cœur. Elle constituent un réservoir à basse pression. 
+
+On définit leur **compliance** ($\Delta V / \Delta P$) comme leur capacité à être ouvertes sous l'effet de l'apport sanguin. Ainsi, elle peuvent absorber les variations du volume sanguin dans un organe, sans affecter la pression sanguine.
 
 #### Le cycle cardiaque
 
@@ -85,7 +103,7 @@ De plus, le système hormonal, à travers l*adrénaline* peut avoir un effet car
 
 Le liquide circulant des végétaux est appelé **sève**. Il se distingue en deux catégories :
  - La **sève brute** formé dans les racine qui contient uniquement de l'eau et des minéraux. Elle circule dans des conduits lignifiés, les *Xylèmes*.
- - La **sève élaborée** riche en molécule organique, en particulier en *saccharose*. Elle est formée dans les *organes photosynthétiques* (organes sources *verts*) et se déplace vers les organiques qui ont besoin d'énergie (organes puits).
+ - La **sève élaborée** riche en molécule organique, en particulier en *saccharose*. Elle est formée dans les *organes photosynthétiques* (organes sources *verts*) et se déplace vers les organiques qui ont besoin d'énergie (organes puits). Elle circule dans un tissue spécialisé **le phloème**
 
 #### Absorption racinaire d'eau et de minéraux dans la sève brute
 
@@ -93,9 +111,9 @@ Les plantes **angiosperme** sont ancrées dans le sol et l'exploitent par deux m
 1. La zone **pilifère** formée de **poils absorbants** 
 2. Les **mycorhizes**, des structures symbiotiques entre les racine et un champignon du type *Eumycetes*.
 
-On constate donc une absorption sélective des ions et des minéraux au niveau des *poils absorbants* et des *mycorhizes* comme un transport actif **primaire**. Ainsi, la concentration en ions des cellules du **rhizoderme** devient supérieure à celle du sol. Cela à pour conséquence de diminuer le **potentiel hydrique** de l'intérieur de la plante, et donc de permettre un transport actif **secondaire** de l'eau vers la plante.
+On constate donc une absorption sélective des ions et des minéraux au niveau des *poils absorbants* et des *mycorhizes* comme un transport actif **primaire**. Ainsi, la concentration en ions des cellules du **rhizoderme** devient supérieure à celle du sol. Cela à pour conséquence de diminuer le **potentiel hydrique** de l'intérieur de la plante, et donc de permettre un transport actif **secondaire** de l'eau vers la plante. 
 
-L'eau et les minéraux transitent vers les vaisseaux soit par la voie symplasmique, en passant de plasmodesmes en plasmodesmes (continuité du cytosol) soit par la voie apoplasmique, en passant à travers les parois.
+L'eau et les minéraux transitent vers les vaisseaux du *xylème* soit par la voie **symplasmique**, en passant de plasmodesmes en plasmodesmes (continuité du cytosol) soit par la voie **apoplasmique**, en passant à travers les parois.
 
 Le xylème n'est pas un tissu entièrement mort, il est composé d'un empilement de cellules mortes mais contient certaines cellules vivantes. Le bois est une forme de xylème qui possède aussi un fonction de structure.
 
@@ -109,15 +127,25 @@ De plus, on peu observer que le flux de *sève brute* c'est pas constant :
 
 Ce mouvement est expliqué par une **mise sous tension** de la sève, liée à l'*évapo-transpiration* des feuilles, qui **tire** la sève vers le haut. En effet, lors de l'ouverture des stomates sur une atmosphère qui à un faible *potentiel hydrique*, il y a rejet de vapeur d'eau. La cohésion de la colonne d'eau, liée aux nombreuses liaisons hydrogène va donc crée un mouvement global de traction.
 
+On peut même quantifier la force $T$ qui s'exerce sur la colonne d'eau :
+$$
+ T = -2\gamma/r
+$$
+avec $\gamma$ la tension superficielle de l'eau et  $r$ le rayon du ménisque formé par le fil d'eau.
+
+Pendant la nuit, les mouvement de l'eau sont dus à la poussée racinaire, causée par la sécrétion d'ions dans le xylème (poussée osmotique).
+
 #### Formation et circulation de la sève élaborée
 
 Le tissu responsable du transport de la **sève élaborée** est appelé *phloème* et est composé de nombreux éléments cellulaires.
 
 On peut donc bien constater que les produits de la photosynthèse sont transportés dans le phloème sous forme de **sève élaborée**. Les premiers parenchymes responsables de ce transport sont les *tubes criblés*. Il y a donc distribution de ma matière organique produite par les organes chlorophylliens vers les autres. Cette circulation est néanmoins plus lente que celle de la sève brute.
 
-Les tubes criblés sont des cellules *dégénérées* de grande tailles associées à des cellules de beaucoup plus petite taille (cellules compagnes).  Les cellules compagnes fournissent, par le biais de plasmodesmes, des l'ATP, des protéines et des ARN aux tubes criblés.
+Les tubes criblés sont des cellules *dégénérées* de grande tailles associées à des cellules de beaucoup plus petite taille (cellules compagnes).  Les *cellules compagnes* fournissent, par le biais de plasmodesmes, des l'ATP, des protéines et des ARN aux tubes criblés.
+
 
 On parle de *décharge* du phloème lorsque la matière organique comme le saccharose passe du phloème aux organes puits. Cette décharge se fait dans le sens du gradient, allant des zones les plus concentrées en matières organiques aux zones les moins concentrées. De plus, du fait de la consommation de glucides par la respiration cellulaire, ce gradient est toujours orienté en direction des organes puits. 
+
 
 
 
