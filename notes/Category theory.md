@@ -35,5 +35,26 @@ Every object has an *identity function* that goes from itself back to itself: $\
 
 **Category theory** makes all complexity needed for programming from the simples principles above. It's like a new set of axioms applied to a reduced area.
 
-A [[monoid]] is something that has an identity and stuff.
+### Tom LaGatta
 
+The guys is drinking a beer that's cool !
+
+Morphisms preserve structure defined as the *idea of structure*. Function on sets are a morphism on the category of sets, that preserves *structural concepts* such as **cardinality** (don't mistake for *structural value* i.e. the actual size of a set).
+
+ - "Hakka labs ?"
+
+We can define the category of **smooth manifolds** with morphisms as **smooth maps** and the possibility of doing calculus as a structural concept. It's possible to derive a theory of calculus from categorical bases (how ?!?).
+
+The category of categories is characterized by *category objects* and *functor* morphisms.
+ - morphism to morphisms functors
+ - objects to objects functors
+
+it can be useful to create specific functors that relates different subjects or areas of math. As an example the curry-howard isomorphism allows to create proofs from code (types or shit).
+
+A lot of theorems can be expressed as functors.
+
+#### [nLab](https://ncatlab.org)
+
+ - Structure Stuff and properties
+
+nPOV: N-category point of view

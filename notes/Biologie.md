@@ -40,4 +40,6 @@ La biologie peut étudier différentes échelles:
 
 # [[organismes pluricellulaires]]
 
+# [[biodiversité]]
+
 

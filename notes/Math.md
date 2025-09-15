@@ -1,4 +1,4 @@
-è
+
 ### Calculs de sommes et de produits
 
 1. [[Calculs de sommes]]
@@ -55,4 +55,6 @@ $$
 ### Polynômes
 
 1. [[factorisation de polynômes]]
-2. 
+
+### Étude locale de fonctions
+

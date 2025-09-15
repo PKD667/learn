@@ -11,7 +11,3 @@ $$
 P = |\alpha|^2 = \mathrm{Re}(\alpha)^2 + \mathrm{Im}(\alpha)^2
 $$
 
-On peut ainsi exprimer algébriquement l'*expérience des fentes*:
-$$
-\mathrm{Soit~ \alpha l'amplitude d}
-$$

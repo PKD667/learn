@@ -6,6 +6,42 @@ Un **système fermé** est un **système thermodynamique** qui n'échange pas de
 
 Un **système isolé** est un système qui n'échange **ni matière ni énergie** avec le milieu extérieur.
 
+### Premier principe
+
+Le premier principe de la thermodynamique pose une axiome de conservation de l'énergie au sein d'un système fermé. Ainsi, en l'absence d'interaction avec l'extérieur, l'énergie est constante. 
+
+Les échanges énergétiques avec le milieu extérieur sont quantifiables, et classés dans deux catégories :
+ - Le **travail** reçu (ou fourni) noté $W$
+ - Le **transfert thermique** noté $Q$
+
+On note $E$ l'énergie su système.
+
+$$
+\Delta U = E_B - E_A = W_{AB} + Q_{AB}
+$$
+
+Ainsi, 
+- $U$ est une *fonction d'état*, et ne dépends donc pas du chemin suivi
+- $\mathrm{d}U$ est une *différentielle totale exacte*
+- Le travail $W$ et le transfert thermique $Q$ dépendes du chemin suivi par la transformation
+
+### Second principe
+
+Le second principe de la thermodynamique introduit une nouvelle grandeur, l'[[entropie]] notée $\Delta S$.  Lors d'une transformation, sa variation, se décompose en deux composants $\mathscr{S}_e$ and $\mathscr{S}_p$.
+$$
+\Delta S = S_B - S_A = \mathscr{S}_e + \mathscr{S}_p
+$$
+
+De plus, on peut établir une relation avec la température:
+$$
+\mathscr{S}_e = \int_A^B \frac{\delta Q}{T_\text{ext}}
+$$
+
+Dans un système à l'équilibre, l'entropie correspond à **l'entropie maximale**.
+
+
+
+
 # Échelles d'observations
 
 ### Échelle microscopique
@@ -198,7 +234,7 @@ Et si le **volume** rest contant il s'agit d'une transformation **isochore**.
 Si au cours d'une transformation, la **température** du **milieu extérieur** reste constante, il s'agit donc d'une transformation **monotherme** et le milieu est appelé un **thermostat**.
 Si la **pression** du **milieu extérieur** reste constante, la transformation est alors **monobare**, le milieu est un **pressostat**.
 
-### Transformation rapides et lentes
+### Transformation intéréssantes
 
 #### Transformation quasi-statique
 
@@ -212,6 +248,13 @@ En réalité une transformation n'est jamais vraiment réversible (*énergie per
 #### Transformation non quasi-statique
 
 Si une transformation est **brutale** ou **rapide**,  elle n'est pas **quasi-statique**, donc non réversible. On considère qu'elle passe directement d'un état à un autre sans transition.
+
+#### Effet joule
+
+$$
+W = RI^2 \times \Delta t
+$$
+
 
 # Transferts d'énergie mécanique
 

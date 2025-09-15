@@ -6,6 +6,8 @@
 
 [[pierre-emmanuel martin]]
 
+[[Beyong LMs]]
+
 
 # Independent 
 
@@ -15,13 +17,32 @@
 
 ### [[Quantum Information]]
 
+### [[Knowable math]]
+
+### [[llm rules ?]]
+
+### [[logic]]
+
+### [[IA - Notes]]
 
 # Projects
 
 [[Simulation]]
 [[désordres]]
+[[formal systems]]
 
 # Peoples
 
 [[gens très stylés]]
 
+# INRIA
+
+[[Towards More Accessible Statistic Data ]]
+
+# Ulm
+
+[[CNE Ideas]]
+
+# l3
+
+### [[Théorie de la programation]]

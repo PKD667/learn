@@ -40,13 +40,13 @@ Les îlots de Langerhans possèdent de nombreux capillaires.
 
 ##### Libération d'insuline
 
-L'insuline est produite dans la cellule sous forme de précurseur qu'on appelle de la pro-insuline. Cette pro-insuline est une protéine constitués de trois séquences principales :
+L'insuline est produite dans la cellule sous forme de précurseur qu'on appelle de la pro-insuline. Cette pro-insuline est une [[protéine]] constitués de trois séquences principales :
  - Une chaîne $a$ 
  - Un peptide $c$
  - Une chaîne $b$
  - Une séquence signal, c'est à dire un petit peptide qui va permettre à la protéine d'être **adressée** (orienté) vers les vésicules de sécrétion.
 
-La **pro-insuline** est ensuite modifiée, son peptide $c$ est clivé et ses chaînes $a$ et $b$ sont attachés par des bons disulfures
+La **pro-insuline** est ensuite modifiée, son peptide $c$ est clivé et ses chaînes $a$ et $b$ sont attachés par des ponts disulfures
 
 La production d'insuline est déclenchée par l'entrée de glucose, grâce au transporteur **glut-2**, qui va activer le gêne responsable de la synthèse de l'insuline et déclencher l'exocytose (libération de l'insuline mature)
 
