@@ -26,6 +26,8 @@ pair S (S n)
 ```
 *si n est pair, alors n+2 est pair*
 
+#### Traduction rocq
+
 ```rocq
 Inductive pair: (nat -> Prop) :=
 | p0: pair 0
@@ -52,7 +54,7 @@ La **relation** que l'on définit inductivement peut être vue comme:
 
 Ainsi, on peut voir la relation $*$ sur $A$ comment sous ensemble du produit cartésien, c'est à dire l'ensemble des tuples $(x,y) \in A$ qui **vérifie** (enfin qui sont constructibles) avec $*$.
 
-# Théorie logique intuitioniste
+# Théorie logique intuitionniste
 
 Toute relation est définie de manière constructive. En gros, y'a pas de vrai ou de faux, juste du *valide*/*constructif*. On ne peut pas se servir de $\lnot A$. On ne peut pas faire d'*assertion*. 
 
