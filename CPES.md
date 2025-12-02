@@ -11,7 +11,7 @@
  - [[Informatique]]
  - [[Usage des données]]
  - [[Philosophie]]
- - [[Anglais]]
+ - [[Lettres]]
  - [[Approche Thématique]]
 
 ### Option

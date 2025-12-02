@@ -7,8 +7,12 @@
 
 # [[Thermodynamique physique des systèmes fermés]]
 
+# [[Thermodynamique hors-équilibre]]
+
 # [[Cinétique chimique]]
 
 # [[chimie organique]]
 
-### [[Mécanique classique]]
+# [[Mécanique classique]]
+
+# [[Chimie solide]]

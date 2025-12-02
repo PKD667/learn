@@ -42,4 +42,7 @@ La biologie peut étudier différentes échelles:
 
 # [[biodiversité]]
 
+# [[Division cellulaire]]
+
+# [[Génetique]]
 

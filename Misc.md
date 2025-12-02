@@ -1,3 +1,4 @@
+[[mots drôles]]
 # Conferences
 
 [[Que sait-on du travail ?]]
@@ -45,4 +46,6 @@
 
 # l3
 
-### [[Théorie de la programation]]
+### [[Théorie de la programmation]]
+
+### [[Fondements de l'informatique]]
