@@ -6,6 +6,67 @@ Les gènes sont présents chez les individus diploïdes sous forme d'allèle. Ai
 
 Un individu est dit **homozygote** si il possède les deux meme allèles dans les paires.
 
+## Lois de Mendel
+
+### Monohybridisme
+
+Le mono-hybridisme c'est l'étude d'un seul caractère. C'est la base de de la génétique mendélienne.
+
+Lors du croisement de deux parent qui expriment des phénotypes $Y$ et $y$ on observe :
+ - à la première génération la dominance absolue du caractère $Y$, puis
+ -  à la deuxième génération: 
+    - un taux de $\frac{3}{4} Y$ et $\frac{1}{4}y$ si autofécondation
+    - $50/50$ si croisement avec $y$
+
+Mendel explique ces dynamiques par la présence d'allèles, et de caractéristiques de **dominance** et **récéssivité**. 
+
+Ainsi, d'après lui, les parent ($P$) possèdent respectivement des paires homozygotes $YY$ et $yy$. À la première génération, tous les enfants sont hétérozygotes et $Y$ domine. À la deuxième génération, on à 4 possibilité équiprobables :
+- $YY$ -> expression de $Y$
+- $Yy$ -> expression de $Y$
+- $yY$ -> expression de $Y$
+- $yy$ -> expression de $y$
+
+### Dyhybridisme 
+
+On peut aussi étudier des paires de caractéres $(XX,yy)$ et $(xx,YY)$. 
+
+Dans ce cas la, on observe une dominance de l'expression $(X,Y)$ sur la première génération. Pour la deuxième génération on à $4^2 = 16$ possibilité avec :
+ - $9\times (X,Y)$
+ - $3\times (X,y)$
+ - $3\times (x,Y)$
+ - $1\times (x,y)$ 
+
+### Géneralisation et extension
+
+Ces lois ne sont pas parfait et il existe des phénomènes qui y échappent. 
+
+#### Codominance
+
+Parfois, la présence de deux allèles ne va pas se traduire la la dominance d'un allèle mais plutot une combinaison et l'expression d'un caractère unique aux individus hétérozygotes. 
+
+Par exemples un allèle $Y$ impliqué dans une couleur rouge et un allèle $y$ impliqué dans la couleur blanche pourraient conduite à l'expression d'une couleur rose dans le cas d'une combinaison $Yy$.
+
+On aurait donc en $F_2$ :
+- $1/4$ rouge ($YY$)
+-  $2/4$ rose $(Yy)$ ou $(yY)$
+- $1/4$ blanche $(yy)$
+
+#### Gènes liés 
+
+Parfois on à aussi affaire à des gènes liés, c'est à dire des gènes présents sur le même chromosome. Cela mêne à un hérédité commune des caractères génétiques. Néanmoins, il existe un phénomène de **crossing-over** qui produit des chromosomes **recombinés** et permet le mélange des gènes.
+
+Les proportions Mendéliennes ne sont pas respectées. 
+
+La probabilité de crossing-over est liée à la distance physique entre les gènes sur le chromosome. 
+
+### Influence du sexe
+
+Certains gènes sont directement liés au sexe, ce qui va influencer leur expression et possiblement invalider les proportions Mendéliennes.
+
+### Allèles létaux
+
+Dans un cas de Mono- ou Di- hybridisme, il peut y avoir une combinaison précise de gène qui tuerait l'individu ou même son embryon, faussant ainsi les proportions.
+
 # Biodiversité
 
 Comment l'*ADN* contrôle-t-il la réalisation des caractères qu'il encode ?
@@ -30,7 +91,7 @@ L'ARN ou *acide ribo-nucléique* constitue un intermédiaire entre l'ADN et la f
 
 Les molécules d'ARN sont capables de se replier et d'avoir une structure en 3D.
 
-L'ADN est *transcris* en ARN, dans le language des bases azotées par l'ARN polymérase. L'*ARN polymérase* lit le *brin matrice* de *l'ADN* depuis sont coté 3' jusqu'à son coté 5' et se sert de l'information pour **polymériser** c'est à dire former de l'ARN. L'ADN prends une coiffe protectrice qui la transforme en ARN messager.
+L'ADN est *transcris* en ARN, dans le language des bases azotées par l'ARN polymérase. L'*ARN polymérase* lit le *brin matrice* de *l'ADN* depuis sont coté 3' jusqu'à son coté 5' et se sert de l'information pour **polymériser** c'est à dire former de l'ARN. L'ARN prends une coiffe protectrice qui la transforme en ARN messager.
 
 Une fois que la polymérase est passée, la double hélice se reforme. 
 
@@ -58,7 +119,7 @@ Les ribosomes sont capables de venir se fixer sur l'ARN messager. Il contient tr
 
 Les ribosomes sont composés de plein de choses différentes, dont des *ARN ribosomiques*.
 
-La traduction de l'ARN commence par un premier codon *START* et finit toujours par un codon *STOP*. le codon start est reconnu par le ribosome, qui va initier le processus de traduction en apportant les ARNt.
+La traduction de l'ARN commence par un premier codon **START** et finit toujours par un codon **STOP**. le codon **START** est reconnu par le ribosome, qui va initier le processus de traduction en apportant les ARNt.
 
 A la fin de la traduction, le ribosome arrive sur un codon STOP, auquel ne correspond aucun anticodon, stoppant ainsi la transcription. La transcription et la maturation de l'ARN ont lieu dans le noyau, mais le e travail des ribosomes à lieu dans le cytoplasme.
 

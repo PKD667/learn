@@ -313,3 +313,4 @@ On peut utiliser la conductivité de la solution
 ### Cas complexes
 
 Dans le cas d'un polyacide, ou de couples *redox* difficiles, le titrage peut être complexe. *Good Luck !*
+

@@ -3,7 +3,7 @@
 
 # [[Signaux mécaniques et lumineux]]
 
-# [[Thermodynamique chimique]]
+# [[Thermodynamique chimique fermée]]
 
 # [[Thermodynamique physique des systèmes fermés]]
 
@@ -16,3 +16,6 @@
 # [[Mécanique classique]]
 
 # [[Chimie solide]]
+
+# [[Termochimie généralisée]]
+

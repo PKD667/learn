@@ -1,4 +1,4 @@
-  La **cinétique chimique** étudie la **vitesse** des réactions chimiques. Ainsi, elle est complémentaire à la [[Thermodynamique chimique]] qui elle étudie le **sens** et l'**état** des réactions. 
+  La **cinétique chimique** étudie la **vitesse** des réactions chimiques. Ainsi, elle est complémentaire à la [[Thermodynamique chimique fermée]] qui elle étudie le **sens** et l'**état** des réactions. 
 
 >[!conditions] 
 >Pour l'analyse cinétique, on considère que toutes les réactions sont **thermodynamiquement favorable**.

@@ -32,3 +32,6 @@ Le clivage des chromosomes à lieu uniquement lorsqu'ils sont parfaitement align
 La méiose est un processus de reproduction cellulaire qui passe par l'appariement de deux chromosomes homologues chez des êtres vivants diploïdes. Ainsi, les chromosomes homologues partagent leur ADN, et échangent donc du matériel génétique.
 
 Ce processus passe par une étape de *cassage* et de réparation.
+
+La fusion des caractères génétique est caractérisée par le phénomène de crossing-over, ou les brins d'ADN sont cassés et réparés en se mélangeant. 
+Ainsi, elle permet la production d'une très grande diversité de gamètes. 
