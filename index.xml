@@ -6,65 +6,65 @@
       <description>Last 10 notes on PKD&#039;s Notes</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>thermodynamique biologique</title>
+    <link>https://pkd667.github.io/notes/thermodynamique-biologique</link>
+    <guid>https://pkd667.github.io/notes/thermodynamique-biologique</guid>
+    <description><![CDATA[ Enthalpie libre et évolution d’une réaction chimique L’enthalpie est une énergie exprimée en Joules J. ]]></description>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
+  </item><item>
+    <title>théorème de Bézout</title>
+    <link>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-B%C3%A9zout</link>
+    <guid>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-B%C3%A9zout</guid>
+    <description><![CDATA[ Définition : Soient (a,b)\in\mathbb Z^{*2} PGCD(a;b)=1 \iff il existe (u,v)\in\mathbb Z^2 tel que : au+bv=1 Démonstration : Soient (a,b)\in\mathbb Z^{*2} tel que PGCD(a;b)=1 D’après l’identité de Bézout, il existe (u,v)\in\mathbb Z^2 tel que : au+bv=PGCD(a;b) Donc : au +bv=1 Soient (u,v)\in\mathbb Z... ]]></description>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
+  </item><item>
+    <title>théorème de Gauss</title>
+    <link>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-Gauss</link>
+    <guid>https://pkd667.github.io/notes/th%C3%A9or%C3%A8me-de-Gauss</guid>
+    <description><![CDATA[ Définition : Soient (a,b,c)\in\mathbb Z^{*3} si a\mid bc et PGCD(a ; b)=1 alors a\mid c Démonstration : PGCD(a;b)=1 donc d’après le théorème de Bézout, il existe (u,v)\in\mathbb Z^2 tel que au+bv=1\iff c\cdot au+ c\cdot bv =c a\mid bc\Rightarrow ak=bc, où k\in\mathbb Z acu+akv=c\iff a(cu+kv)=c, où (... ]]></description>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
+  </item><item>
+    <title>topographie sismique</title>
+    <link>https://pkd667.github.io/notes/topographie-sismique</link>
+    <guid>https://pkd667.github.io/notes/topographie-sismique</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
+  </item><item>
+    <title>traduction de l&#039;arn</title>
+    <link>https://pkd667.github.io/notes/traduction-de-l'arn</link>
+    <guid>https://pkd667.github.io/notes/traduction-de-l'arn</guid>
+    <description><![CDATA[ L’ARN messager est traduit en protéines afin d’exécuter des fonction du métabolisme. ]]></description>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
+  </item><item>
+    <title>transfert thermique</title>
+    <link>https://pkd667.github.io/notes/transfert-thermique</link>
+    <guid>https://pkd667.github.io/notes/transfert-thermique</guid>
+    <description><![CDATA[ Le transfert thermique est une notion thermodynamique qui représente l’énergie apportée à un système thermodynamique par sous forme d’énergie thermique. ]]></description>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
+  </item><item>
     <title>transition de phases</title>
     <link>https://pkd667.github.io/notes/transition-de-phases</link>
     <guid>https://pkd667.github.io/notes/transition-de-phases</guid>
     <description><![CDATA[ Une phase représente l’état d’un réseau cristallin, c’est à dire la manière dont son agencés les atomes dans la maille du crystal. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
   </item><item>
     <title>tétrapodes</title>
     <link>https://pkd667.github.io/notes/t%C3%A9trapodes</link>
     <guid>https://pkd667.github.io/notes/t%C3%A9trapodes</guid>
     <description><![CDATA[ Les tétrapodes sont une super-classe d’animaux vertébrés qui sont caractérisés par la présence de deux paires de membres chiridiens munis de doigts. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
   </item><item>
     <title>union</title>
     <link>https://pkd667.github.io/notes/union</link>
     <guid>https://pkd667.github.io/notes/union</guid>
     <description><![CDATA[ Soient A et B deux ensembles. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
   </item><item>
     <title>valence</title>
     <link>https://pkd667.github.io/notes/valence</link>
     <guid>https://pkd667.github.io/notes/valence</guid>
     <description><![CDATA[ Électrons des valence Les électrons de valence sont situés sur les couches externes d’un atome, ils permettent la formation de liaison covalente avec d’autres atomes. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
-  </item><item>
-    <title>valeur absolue</title>
-    <link>https://pkd667.github.io/notes/valeur-absolue</link>
-    <guid>https://pkd667.github.io/notes/valeur-absolue</guid>
-    <description><![CDATA[ Définition La fonction valeur absolue est la fonction qui a x\rightarrow |x| Elle est définie pour tout x\in\mathbb R : |x|\rightarrow x si x\ge 0 |x|\rightarrow -x sinon |x| est défini et continue sur \mathbb R on a f(\mathbb R)\rightarrow\mathbb R+ Apparence Propriétés Soient (x,y)\in\mathbb R On ... ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
-  </item><item>
-    <title>zones de collision</title>
-    <link>https://pkd667.github.io/notes/zones-de-collision</link>
-    <guid>https://pkd667.github.io/notes/zones-de-collision</guid>
-    <description><![CDATA[ Signature morphologique Dans les chaines de montagnes (notamment les alpes), on observe des formation caractéristiques qui ressemblent à des fracture ou à des plis. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
-  </item><item>
-    <title>zones de subduction</title>
-    <link>https://pkd667.github.io/notes/zones-de-subduction</link>
-    <guid>https://pkd667.github.io/notes/zones-de-subduction</guid>
-    <description><![CDATA[ Nature Les zones de subduction sont des zones de disparition de matière. Conséquences Les zones de subduction occasionnent des phénomènes sismiques. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
-  </item><item>
-    <title>économie publique</title>
-    <link>https://pkd667.github.io/notes/%C3%A9conomie-publique</link>
-    <guid>https://pkd667.github.io/notes/%C3%A9conomie-publique</guid>
-    <description><![CDATA[ Comment étudier les politiques publiques On peut étudier les politiques publiques de manière économique. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
-  </item><item>
-    <title>électrons</title>
-    <link>https://pkd667.github.io/notes/%C3%A9lectrons</link>
-    <guid>https://pkd667.github.io/notes/%C3%A9lectrons</guid>
-    <description><![CDATA[ Les électrons sont des particules élémentaires qui composent les atomes. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
-  </item><item>
-    <title>électronégativité</title>
-    <link>https://pkd667.github.io/notes/%C3%A9lectron%C3%A9gativit%C3%A9</link>
-    <guid>https://pkd667.github.io/notes/%C3%A9lectron%C3%A9gativit%C3%A9</guid>
-    <description><![CDATA[ En chimie l’électronégativité est une grandeur physique qui caractérise un un élément par sa capacité à attirer le doublet d’électrons dans une liaison covalente. ]]></description>
-    <pubDate>Tue, 02 Dec 2025 14:51:02 GMT</pubDate>
+    <pubDate>Sat, 17 Jan 2026 18:33:02 GMT</pubDate>
   </item>
     </channel>
   </rss>
