@@ -1,6 +1,5 @@
+L'**entropie**, notée $S$, est une fonction d'état **extensive** qui mesure le désordre d'un système.
 
-L'entropie est notée $S$
-L'information est notée en $\text{bits}$ tels que $\log 2$ "information" correspond à $1 \text{bit}$
 # Définitions
  - **Thermodynamique**: $\Delta S = \frac{\Delta E}{T}$,  avec $T$: *température*, $\Delta E$ changement d'*énergie*
  - **Statistique**: $S = k\int_X p(X)\ln(p(x))d\micro(x)$, avec $p$ probabilité dans l'espace $(X,\micro)$.
@@ -62,5 +61,14 @@ On obtient donc par exemples :
 - $12$ bits par molécule d'eau
 - $23$ bits par molécule de dihydrogène
 
+## Voir aussi
 
+- [[enthalpie]]
+- [[énergie interne]]
+- [[enthalpie libre]]
+- [[capacité thermique]]
+- [[second principe]]
+- [[transformation thermodynamique]]
+- [[Thermochimie]]
+- [[Thermodynamique physique des systèmes fermés]]
 

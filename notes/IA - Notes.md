@@ -50,9 +50,3 @@ Techno-feudalism et **slop**
  - Le bon LLM: relfexion francophones sur la politique de l'IA (https://www.lebonllm.fr)
  - Pierre-Carl Langlais: Fondateur de PleIAs, chercheur en communication/humanités numérique. Très bon techniquement, meilleur modèles de raisonnements en RL.
 
- - 
-
-
-pTKS07oWukGXTc9Pb
-joseph
-

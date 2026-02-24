@@ -54,3 +54,13 @@ Une **pollution** c'est l'introduction directe ou indirecte par l'activité huma
 La **gestion de la pollution** évolue. 
 
 En 1995, la France a sorti une liste des **points noirs**, composée des $586$ pires sites pollués du pays. En réalité, il existe au moins $400,000$ sites potentiellement pollués en France.
+
+### Circulation de l'eau dans le vivant
+
+L'eau circule dans le vivant
+
+## Eau et eau
+
+L'eau potable est différente de l'eau **corps pur**. L'eau potable contient plein de solutés différents. 
+
+L'accès à l'eau douce est inégalement réparti. 

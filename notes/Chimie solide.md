@@ -1,22 +1,62 @@
-Il existe plusieurs états de la matière. 
+# Chimie solide
 
-L'état solide est un état dans lequel la matière à un volume et une forme fixe. 
+Étude de la structure et des propriétés des solides cristallins.
 
-### L'état cristallin 
+## Types de solides
 
-Un **cristal parfait** est un matériaux solide parfaitement ordonné périodique à l'infini en 3D. 
+- [[cristal]] - structure ordonnée périodique
+- [[solide amorphe]] - structure désordonnée (verre)
+- [[cristal liquide]] - ordre partiel
 
-Un **cristal réel** est un cristal parfait avec quelques défauts comme des motifs en plus ou en moins et des rangées en plus ou en moins. 
+## Cristallographie
 
-Un **solide amorphe** ou *vitreux* est un solide désordonné. Ainsi, il n'est pas réellement stable, mais il évolue très lentement. 
+- [[maille cristalline]] - motif élémentaire
+- [[réseau de Bravais]] - 14 réseaux 3D
+- [[coordinence]] - nombre de voisins
+- [[compacité]] - taux de remplissage
 
->[!cristaux-liquides]
->Il existe aussi des liquides composés d'éléments organisés, qui ont tous la même direction et forme. On parle alors de **cristaux liquides**. Ils possèdes plein de propriétés intéréssantes.
->
+## Types de cristaux
+
+### Cristaux métalliques
+- Liaison métallique (électrons délocalisés)
+- Structures compactes : CFC, HC
+- Propriétés : conductivité, malléabilité
 
 ### Cristaux ioniques
+- Liaison ionique (cations + anions)
+- Exemples : NaCl, CsCl, fluorine
+- Propriétés : durs, cassants, isolants
 
-Dans un crystal ionique ils y à deux types d'entités, des anions (éléments moins électronégatifs) et des cations (éléments plus électronégatifs).
+### Cristaux covalents
+- Liaison covalente étendue
+- Exemples : diamant, silice
+- Propriétés : très durs, isolants
 
+### Cristaux moléculaires
+- Interactions faibles (Van der Waals, H)
+- Exemples : glace, I₂
+- Propriétés : mous, bas point de fusion
 
+## Sites cristallographiques
+
+- [[site tétraédrique]] - 4 voisins
+- [[site octaédrique]] - 6 voisins
+
+## Défauts cristallins
+
+- Défauts ponctuels (lacunes, interstitiels)
+- Défauts linéaires (dislocations)
+- Défauts plans (joints de grains)
+
+>[!example] Structure NaCl
+> - Réseau CFC de Cl⁻
+> - Na⁺ dans tous les sites octaédriques
+> - Coordinence : 6 pour chaque ion
+> - Formule : 4 NaCl par maille
+
+## Liens
+
+- [[Structure de la matière]]
+- [[liaison ionique]]
+- [[liaison covalente]]
 

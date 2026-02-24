@@ -68,6 +68,14 @@ $$
     - La population est structurée en $2$ sous population dont les fréquences alléliques sont distinctes
     - endo/auto/homo-gamie dans la population
 
+Quand il y à un déficit d'hétérozygotes dus a une division en *sous-populations* de la population observée, on parle d'**effet whalund**. 
+
+Le test initial de conformité à la proportion $2pq$ est appelé test **FIT**.
+
+$$
+F_{IT} = \frac{ H_{Attendue} - H_{observée} }{H_{Attendue}} = 1- \frac{H_{observée}}{H_{Attendue}}
+$$
+
 ##  Regimes non-panmictiques
 
 L'**homogamie** c'est l'union entre des individus semblables pour un ou plusieurs caractères phénotypiques. Elle entraine une diminution de l'hétérozygotie. 
@@ -85,6 +93,18 @@ L'endogamie entraine une perte d'hétérozygotie **sur tout le gènome** mais ne
 ### Hétérogamie
 
 L'hétérogamie c'est l'union entre des individus phénotypiquement différents. Elle etraine un gain d'hétérozygotie au niveau des locus impliqués dans le phénotype. Elle entraine également une modification des fréquence allélique en avantageant les alléles rares. 
+
+### déséquilibre gamétique
+
+Cette différence entre la fréquence observée des gamètes (ou haplotypes) et la fréquence attendue est appelé déséquilibre gamétique. Il mesure une association privilégiée ou corrélation entre certains alléles de locus différent. 
+
+$$
+D_{AB} = p_{AB} - p_Ap_B
+$$
+*pareil pour tout x,y*
+
+et ca forme un system de somme 1
+
 
 ## Evolution
 

@@ -70,11 +70,11 @@ Les dynamiques des enveloppes fluides sont dues a l'inégale répartition de l'�
 
 La **troposphère** est le lieu des mouvements convectifs. La **stratosphère** est dynamiquement stable grace a sa *stratification verticale*.
 
-Les **gradient de pression** sont les moteur des vents. La *psudo-force de Coriolis aussi*.
+Les **gradient de pression** sont les moteur des vents. La *pseudo-force de Coriolis aussi*.
 
 Si un **gradient de pression** mets en mouvement des masses d'air, un *équilibre géosrophique* va s'établir entre la force de pression et la force de coriolis, orientée à $90°$ a droite dans l'hemisphère nord, et a l'inverse dans le sud.
 
-La force de coriolis est coirssance avec la latitude.
+La force de coriolis est croissante avec la latitude.
 
 
 | Sens            | **Anticyclone** | **Cyclone** |
@@ -94,8 +94,6 @@ Les gyres océaniques se forment par la combinaison de différences de pression 
 Un autre moteur de la circulation sont les gradients de densité, liés à la salinité.
 
 Les différence gradients de température et de densité forment ce qu'on appelle la circulation thermohaline. La connectivité des bassins se fait dans l'océan austral. L'océan contribue a la redistribution de la chaleur des basses latitudes vers les hautes latitudes. 
-
-
 
 Ces mouvements remontent aussi des nutriments.
 

@@ -69,7 +69,30 @@ Dans un cas de Mono- ou Di- hybridisme, il peut y avoir une combinaison précise
 
 # Biodiversité
 
+D'après l'inventaire national du patrimoine la biodiversité c'est 
+
+> la variabilité des êtres vivants de tout origine (...) et les complexes écologiques dont ils font partie : cela comprends la diversité au sein des espèces, ainsi que celle des écosystèmes
+
+## ADN
+
 Comment l'*ADN* contrôle-t-il la réalisation des caractères qu'il encode ?
+
+L'ADN est composé de $4$ acides amines :
+ - Adenine (**A**)
+ - Thymine (**T**)
+ - Guanine (**G**)
+ - Cytosine (**C**)
+
+Elle possède une structure en double hélice qui se complète :
+ - **A** en face de **T**
+ - **C** en face de **G**
+
+Ainsi, toute l'information est contenue dans chacun des brins. C'est redondant. 
+
+L'ADN peut multiplier son information par le processus de [[Réplication de l'ADN]]
+
+
+### Protéine
 
 Une **protéine** est une macromolécule *non-linéaire* !
 
@@ -233,5 +256,7 @@ La région CRISPR dans une bactérie est une région composée de paire de bases
 Ces tiges sont formées pour **guider** des protéines compémentaires. Ainsi, les tiges produites par la région CRISPR sont complémentaire de la protéine *cas9*, qui est une **nucléase**. 
 
 La protéine *cas9* va cliver l'ADN, ce qui va provoquer une réparation par la cellule, et donc potentiellement une mutation. Cette mutation est transmise par la *cas9* mais ne cecessite pas l'introduciton d'un transgène. 
+
+CRISPR est une outil très précis qui peut agir au niveau de la paire de base, au lieu d'insérerun gène entier. 
 
 

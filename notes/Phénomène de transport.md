@@ -163,7 +163,7 @@ $$
 On peut calculer un bilan de flux $\delta \phi$ :
 $$
 \begin{align*}
-\delta phi &= \phi_\text{entrant} - \phi_\text{sortant}\\
+\delta\phi &= \phi_\text{entrant} - \phi_\text{sortant}\\
            &= -j(x,t)\vec{u_x}\cdot (-\vec{u_x}) \times S - j(x+\mathrm{d}x,t')\vec{u_x}\cdot \vec{u_x} \times S \\
            &=-S(j(x+\mathrm{dx},t') - j(x,t')) \\
            &\approx -S \frac{\partial j}{\partial x}(x,t')dx
@@ -283,4 +283,67 @@ n = \frac{\phi_0}{DS}x + C, ~~c = n_0
 $$
 $$
 n = n_0 - \frac{\phi_0}{DS}x
+$$
+
+# Applications
+
+### Résistance termiques
+
+- Courant unidirectionel (1D)
+- Régime stationnaires ($\frac{\partial T}{\partial t} = 0$)
+
+On peut appliquer une équation de diffusion sans source en régime stationnaire:
+$$
+\frac{\partial T}{\partial t} = D_\text{th} \frac{\partial^2T}{\partial x^2} = 0
+$$
+
+On a donc une solution linéaire de la forme 
+$$
+T(x,t) = Ax +B
+$$
+Avec des conditions limites:
+- $T(0) = T_0$
+- $T(L) = T_1$
+
+On peut trouver une solution :
+$$
+T(x) = (T_1 - T_0)\frac{x}{L} + T_0
+$$
+
+Avec la loi de fourrier on a :
+$$
+\vec j = - \lambda \ \vec{\text{grad}}\ T = - \lambda \frac{\partial T}{\partial x}\vec e_x = - \lambda \left(\frac{T_1 - T_0}{L}\right)\vec e_x
+$$
+Par définition du flux on peut écrire:
+$$
+\phi_0 = - \lambda S\frac{\partial T}{\partial x} = - \frac{\lambda S}{L}(T_1-T_0)
+$$
+Par analogie avec l'expression de la résistance électrique on défini la résistance thermique :
+$$
+R_\text{th}= \frac{L}{\lambda S} = \Big|\frac{\Delta T}{\phi}\Big|
+$$
+
+#### Cas cyclindrique
+
+Dans le cas d'un cylindre on considère une invariance pas translation selon $\vec u_z$ et par rotation. 
+
+On établit des lois de conservation :
+$$
+\mathrm d U = \delta Q
+$$
+$$
+\delta \phi = \lambda \int \int \left ( -r \frac{\partial T}{\partial r}(r) + (r+\mathrm d r) \frac{\partial T}{\partial r}(r + \mathrm d r) \right) \mathrm d \theta \ \mathrm d z
+$$
+
+Finalement avec un DL on peut avoir
+$$
+\lambda 2 \pi L \left( (r+\mathrm d r)\frac{\partial T}{\partial r}(r+ \mathrm d r) - r \frac{\partial T}{\partial r}(r) \right)
+$$
+et
+$$
+\lambda 2 \pi \frac{\partial}{\partial r}\left( r\frac{\partial T}{\partial r}\right) \mathrm d r
+$$
+Finalement on obtient l'équaiton
+$$
+\frac{\partial u}{\partial t} = \frac{\partial}{\partial r}\left( r\frac{\partial T}{\partial r}\right) 
 $$

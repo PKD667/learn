@@ -68,3 +68,26 @@ Place du releigieux
 La philosophie médievale légitime le pouvoir du roi par l'idée de coutume et de droit divin.
 
 La boétie explique que le pouvoir tient grâce à l'habitude, 
+
+# Désobéissance civile
+
+La désobéissance civile est elle un obstacle à la démocratie ou au contraire sa condition d'existence ? 
+
+Peut-on considérer qu ela désobéissance civile est un symptome de la crise démocratique, ou un moteur essentiel de la démocratie ?
+
+### Origines
+Thoreau est fondateur du mouvement transcendentaliste, qui se caractérise par une confiance en la bonté de l'homme, et une méfiance à l'égard des institutions.
+
+Il va donc développer dans *Walden ou la vie dans le bois* une éthide de l'autosuffisance et de la vie seul. Il va entretenir un dialogue avec son ami (aussi transcendentaliste) Emerson. 
+
+Pour Thoreau le vote est une form de dépossesion et de démission.
+
+Plus tard, Sandra Laugier va développer l'idée du dissensus, et théoriser la désobéissance civile comme processus intégral à la démocratie. 
+
+### La démocratie comme système inachevé
+
+> La démocratie est par nature un système inachevé, en perpetuelle construction
+
+Ainsi, la démocratie n'est pas une forme figée.
+
+La démocratie a plusieurs objecti

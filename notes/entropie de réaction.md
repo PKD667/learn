@@ -1,0 +1,1 @@
+L'entropie de réaction correspond a l'[[Entropie]] produite par une réactio. chimique donnée dans des conditions standard. 

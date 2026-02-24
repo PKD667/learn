@@ -1,5 +1,7 @@
 ## [[Océans et cailloux]]
 
+## [[Terre interne]]
+
 
 # Structure du globe et géodiversité
 
@@ -356,7 +358,6 @@ L'érosion **éolienne**, liée au vent est très importante, notamment au nivea
 Hjulström s'est intéressé à l'impact de différents paramètres physique sur la capacité sédimentaire d'un cours d'eau. Ainsi, il a effectué des expérience en faisant varier la vitesse de l'eau et la granulométrie  des sédiments.
 
 On peut observer qu'à cause de certains effets de cohésion, des éléments plus petits peuvent être plus difficilement érodés que certains gros éléments.
-
 ### L'homme agent d'érosion
 
 Certains pratiques agricoles peuvent favoriser l'érosion des sols.
@@ -364,7 +365,6 @@ Certains pratiques agricoles peuvent favoriser l'érosion des sols.
 Par exemple, la *monoculture* favorise l'érosion éolienne. 
 
 La végétation des sols limites l'*effet splash* et permet d'augmenter la cohésion des sols, en maintenant les complexes *argilo-humiques* en place.
-
 #### Utilité de l'érosion
 
 Les processus de surface, comme l'érosion sont à l'origine de la création de ressources, qui peuvent être utiles à l'homme. La bauxite par exemple, représente un produit de l'érosion exploité par l'homme. 
@@ -374,9 +374,6 @@ Un **gisement** c'est lorsqu'un élément chimique, ou un matériaux est présen
 Le lithium est très concentré dans la croûte continentale. Cela est du au fait qu'il s'agit d'un élément **incompatible** c'est à dire qui à tendance à se concentrer dans les phases fluides, comme *l'eau* ou le *magma*. Il existe donc deux types de gisements de lithiums :
  - Les gisements **endogènes** composés de roches magmatiques ayant concentrées le lithium
  - Les gisements **sédimentaires**, formés par un processus de transport du lithium dans un cycle d'altération par dissolution puis d'évaporation. 
-
-
-
 # Cartographie
 
 Une **discordance** c'est une rupture dans l'histoire géologique d'une région. Sur une carte géologique, elle se repère par des *points triples*, c'est à dire des points lient trois époques géologiques différentes. 
